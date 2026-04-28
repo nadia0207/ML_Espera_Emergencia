@@ -1,0 +1,1001 @@
+Visit ID,Patient ID,Hospital ID,Hospital Name,Region,Visit Date,Day of Week,Season,Time of Day,Urgency Level,Nurse-to-Patient Ratio,Specialist Availability,Facility Size (Beds),Time to Registration (min),Time to Triage (min),Time to Medical Professional (min),Total Wait Time (min),Patient Outcome,Patient Satisfaction
+HOSP-5-20241223-0274,PAT-01502,HOSP-5,Summit Health Center,Urban,2024-12-23 19:04:45,Monday,Winter,Night,Low,4,5,59,43,102,120,265,Left Without Being Seen,1
+HOSP-2-20240922-0528,PAT-02587,HOSP-2,Riverside Medical Center,Urban,2024-09-22 05:30:14,Sunday,Fall,Late Morning,Critical,1,5,131,1,1,3,5,Discharged,5
+HOSP-4-20241105-0531,PAT-02654,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-05 11:57:05,Tuesday,Fall,Evening,Critical,1,1,15,1,5,12,18,Admitted,4
+HOSP-3-20240919-0219,PAT-01056,HOSP-3,Northside Community Hospital,Rural,2024-09-19 18:29:24,Thursday,Fall,Afternoon,High,3,2,31,3,10,10,23,Discharged,5
+HOSP-1-20241022-0169,PAT-00706,HOSP-1,Springfield General Hospital,Urban,2024-10-22 14:02:13,Tuesday,Fall,Evening,High,4,2,172,6,7,19,32,Discharged,4
+HOSP-4-20240914-0020,PAT-00107,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-14 14:16:33,Saturday,Fall,Afternoon,High,3,2,28,3,5,17,25,Admitted,5
+HOSP-5-20240920-0101,PAT-00590,HOSP-5,Summit Health Center,Urban,2024-09-20 13:23:26,Friday,Fall,Early Morning,Critical,2,2,139,2,1,6,9,Admitted,5
+HOSP-4-20241210-0497,PAT-02469,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-10 12:58:19,Tuesday,Winter,Afternoon,Medium,4,0,47,28,21,45,94,Discharged,2
+HOSP-3-20240114-0488,PAT-02414,HOSP-3,Northside Community Hospital,Rural,2024-01-14 11:23:36,Sunday,Winter,Early Morning,Critical,2,1,39,2,3,13,18,Discharged,4
+HOSP-1-20240930-0338,PAT-01601,HOSP-1,Springfield General Hospital,Urban,2024-09-30 22:42:08,Monday,Fall,Late Morning,High,3,6,117,3,8,18,29,Discharged,4
+HOSP-3-20240126-0501,PAT-02465,HOSP-3,Northside Community Hospital,Rural,2024-01-26 21:41:35,Friday,Winter,Night,Low,4,0,49,27,55,112,194,Discharged,1
+HOSP-5-20240630-0042,PAT-00229,HOSP-5,Summit Health Center,Urban,2024-06-30 15:42:30,Sunday,Summer,Late Morning,Low,4,7,179,25,27,77,129,Discharged,1
+HOSP-2-20240421-0175,PAT-00916,HOSP-2,Riverside Medical Center,Urban,2024-04-21 20:09:34,Sunday,Spring,Afternoon,Critical,2,6,91,3,4,7,14,Admitted,5
+HOSP-1-20240511-0186,PAT-00795,HOSP-1,Springfield General Hospital,Urban,2024-05-11 19:19:30,Saturday,Spring,Late Morning,High,4,1,141,3,9,23,35,Discharged,4
+HOSP-3-20240406-0612,PAT-03022,HOSP-3,Northside Community Hospital,Rural,2024-04-06 23:43:39,Saturday,Spring,Evening,Medium,3,2,25,10,23,27,60,Admitted,3
+HOSP-5-20240908-0688,PAT-03544,HOSP-5,Summit Health Center,Urban,2024-09-08 21:13:23,Sunday,Fall,Late Morning,Medium,3,4,189,9,13,33,55,Discharged,3
+HOSP-2-20241026-0215,PAT-01074,HOSP-2,Riverside Medical Center,Urban,2024-10-26 11:52:19,Saturday,Fall,Afternoon,High,3,5,141,4,5,17,26,Discharged,4
+HOSP-1-20241127-0691,PAT-03352,HOSP-1,Springfield General Hospital,Urban,2024-11-27 08:28:02,Wednesday,Fall,Early Morning,Critical,1,3,127,1,1,4,6,Admitted,5
+HOSP-4-20240410-0355,PAT-01745,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-10 02:20:11,Wednesday,Spring,Evening,High,4,3,25,5,12,26,43,Admitted,3
+HOSP-2-20240725-0218,PAT-01085,HOSP-2,Riverside Medical Center,Urban,2024-07-25 06:32:55,Thursday,Summer,Early Morning,High,4,1,140,4,7,24,35,Discharged,4
+HOSP-4-20240528-0180,PAT-00927,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-28 12:12:30,Tuesday,Spring,Afternoon,High,4,3,21,4,8,33,45,Admitted,4
+HOSP-1-20240521-0633,PAT-03050,HOSP-1,Springfield General Hospital,Urban,2024-05-21 22:53:20,Tuesday,Spring,Evening,Medium,4,2,101,21,23,63,107,Discharged,1
+HOSP-5-20240322-0198,PAT-01118,HOSP-5,Summit Health Center,Urban,2024-03-22 14:14:27,Friday,Spring,Evening,Medium,3,4,75,22,37,45,104,Discharged,1
+HOSP-3-20240905-0136,PAT-00643,HOSP-3,Northside Community Hospital,Rural,2024-09-05 06:04:47,Thursday,Fall,Evening,High,4,1,47,6,9,18,33,Discharged,4
+HOSP-5-20241107-0946,PAT-04768,HOSP-5,Summit Health Center,Urban,2024-11-07 12:51:27,Thursday,Fall,Afternoon,Low,5,4,181,24,68,64,156,Discharged,1
+HOSP-3-20240624-0109,PAT-00502,HOSP-3,Northside Community Hospital,Rural,2024-06-24 16:27:18,Monday,Summer,Night,Critical,1,3,38,1,6,17,24,Admitted,4
+HOSP-2-20240728-0826,PAT-04067,HOSP-2,Riverside Medical Center,Urban,2024-07-28 20:14:57,Sunday,Summer,Night,Low,4,10,146,19,41,62,122,Discharged,1
+HOSP-3-20241017-0070,PAT-00334,HOSP-3,Northside Community Hospital,Rural,2024-10-17 08:35:06,Thursday,Fall,Evening,Medium,4,3,14,18,37,71,126,Discharged,1
+HOSP-3-20241230-0940,PAT-04685,HOSP-3,Northside Community Hospital,Rural,2024-12-30 09:52:25,Monday,Winter,Late Morning,Critical,2,0,14,3,7,12,22,Admitted,5
+HOSP-5-20240511-0079,PAT-00487,HOSP-5,Summit Health Center,Urban,2024-05-11 16:06:34,Saturday,Spring,Afternoon,Medium,4,3,159,11,14,51,76,Discharged,2
+HOSP-3-20241218-0394,PAT-01963,HOSP-3,Northside Community Hospital,Rural,2024-12-18 00:43:33,Wednesday,Winter,Late Morning,Critical,2,2,11,3,4,9,16,Discharged,4
+HOSP-3-20240211-0081,PAT-00394,HOSP-3,Northside Community Hospital,Rural,2024-02-11 20:58:21,Sunday,Winter,Afternoon,Critical,2,0,22,3,2,13,18,Admitted,4
+HOSP-4-20240419-0959,PAT-04843,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-19 11:01:54,Friday,Spring,Early Morning,Critical,1,0,45,1,2,3,6,Discharged,5
+HOSP-2-20240518-0995,PAT-04867,HOSP-2,Riverside Medical Center,Urban,2024-05-18 19:48:40,Saturday,Spring,Late Morning,Low,4,4,167,18,22,77,117,Discharged,1
+HOSP-5-20240530-0310,PAT-01756,HOSP-5,Summit Health Center,Urban,2024-05-30 18:02:56,Thursday,Spring,Afternoon,Low,5,2,65,31,49,108,188,Left Without Being Seen,1
+HOSP-5-20240509-0467,PAT-02516,HOSP-5,Summit Health Center,Urban,2024-05-09 08:31:30,Thursday,Spring,Afternoon,Low,5,5,165,23,54,64,141,Left Without Being Seen,1
+HOSP-1-20240229-0737,PAT-03586,HOSP-1,Springfield General Hospital,Urban,2024-02-29 18:30:52,Thursday,Winter,Evening,High,3,9,184,10,16,39,65,Discharged,3
+HOSP-1-20241101-0872,PAT-04316,HOSP-1,Springfield General Hospital,Urban,2024-11-01 00:08:36,Friday,Fall,Evening,High,4,7,200,8,13,35,56,Discharged,3
+HOSP-4-20240625-0986,PAT-04967,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-25 08:58:41,Tuesday,Summer,Evening,Medium,3,3,49,18,45,78,141,Discharged,1
+HOSP-5-20241014-0390,PAT-02100,HOSP-5,Summit Health Center,Urban,2024-10-14 11:49:27,Monday,Fall,Afternoon,Medium,4,4,189,18,27,81,126,Discharged,1
+HOSP-3-20241023-0716,PAT-03600,HOSP-3,Northside Community Hospital,Rural,2024-10-23 05:36:17,Wednesday,Fall,Night,High,4,1,46,4,6,22,32,Admitted,4
+HOSP-5-20241111-0817,PAT-04122,HOSP-5,Summit Health Center,Urban,2024-11-11 03:53:51,Monday,Fall,Night,High,3,10,94,3,7,32,42,Discharged,3
+HOSP-5-20240919-0003,PAT-00030,HOSP-5,Summit Health Center,Urban,2024-09-19 10:07:16,Thursday,Fall,Night,High,4,7,148,4,10,16,30,Admitted,4
+HOSP-5-20240201-0010,PAT-00066,HOSP-5,Summit Health Center,Urban,2024-02-01 02:32:51,Thursday,Winter,Evening,Low,5,10,132,35,82,187,304,Discharged,1
+HOSP-1-20240509-0191,PAT-00839,HOSP-1,Springfield General Hospital,Urban,2024-05-09 22:42:50,Thursday,Spring,Evening,Low,5,7,119,32,52,86,170,Left Without Being Seen,1
+HOSP-4-20240824-0774,PAT-03907,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-24 14:58:56,Saturday,Summer,Evening,Low,5,1,34,17,66,77,160,Discharged,1
+HOSP-3-20241022-0744,PAT-03774,HOSP-3,Northside Community Hospital,Rural,2024-10-22 11:28:13,Tuesday,Fall,Late Morning,Low,5,0,23,21,58,63,142,Left Without Being Seen,1
+HOSP-5-20240527-0918,PAT-04636,HOSP-5,Summit Health Center,Urban,2024-05-27 22:42:33,Monday,Spring,Evening,Low,5,6,54,22,85,103,210,Discharged,1
+HOSP-2-20240909-0631,PAT-03162,HOSP-2,Riverside Medical Center,Urban,2024-09-09 18:54:56,Monday,Fall,Evening,Medium,4,6,91,21,39,63,123,Left Without Being Seen,1
+HOSP-1-20240502-0548,PAT-02660,HOSP-1,Springfield General Hospital,Urban,2024-05-02 08:59:50,Thursday,Spring,Evening,Low,5,1,135,23,48,122,193,Discharged,1
+HOSP-5-20240407-0914,PAT-04616,HOSP-5,Summit Health Center,Urban,2024-04-07 22:42:11,Sunday,Spring,Late Morning,Critical,1,5,195,0,2,7,9,Discharged,4
+HOSP-2-20241011-0941,PAT-04629,HOSP-2,Riverside Medical Center,Urban,2024-10-11 08:28:56,Friday,Fall,Evening,High,4,2,126,4,16,29,49,Admitted,3
+HOSP-2-20241019-0501,PAT-02452,HOSP-2,Riverside Medical Center,Urban,2024-10-19 00:59:32,Saturday,Fall,Afternoon,Medium,4,8,105,12,19,42,73,Discharged,3
+HOSP-2-20241012-0574,PAT-02847,HOSP-2,Riverside Medical Center,Urban,2024-10-12 18:17:55,Saturday,Fall,Late Morning,Medium,4,10,181,12,17,21,50,Discharged,4
+HOSP-5-20240317-0201,PAT-01145,HOSP-5,Summit Health Center,Urban,2024-03-17 11:13:38,Sunday,Spring,Late Morning,Critical,2,6,189,2,3,9,14,Discharged,5
+HOSP-2-20240210-0619,PAT-03079,HOSP-2,Riverside Medical Center,Urban,2024-02-10 15:05:59,Saturday,Winter,Early Morning,High,4,2,190,4,5,21,30,Discharged,4
+HOSP-1-20240801-0242,PAT-01104,HOSP-1,Springfield General Hospital,Urban,2024-08-01 13:08:36,Thursday,Summer,Early Morning,Critical,1,8,140,1,2,9,12,Admitted,5
+HOSP-1-20241215-0044,PAT-00169,HOSP-1,Springfield General Hospital,Urban,2024-12-15 03:27:52,Sunday,Winter,Afternoon,Medium,3,10,56,9,20,56,85,Admitted,2
+HOSP-2-20241119-0352,PAT-01671,HOSP-2,Riverside Medical Center,Urban,2024-11-19 11:38:01,Tuesday,Fall,Evening,Medium,3,9,94,20,16,37,73,Admitted,3
+HOSP-5-20240730-0478,PAT-02571,HOSP-5,Summit Health Center,Urban,2024-07-30 03:14:51,Tuesday,Summer,Late Morning,High,4,8,124,6,7,32,45,Discharged,3
+HOSP-4-20240403-0486,PAT-02378,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-03 00:38:03,Wednesday,Spring,Evening,Critical,2,3,13,4,7,13,24,Admitted,4
+HOSP-5-20240508-0864,PAT-04396,HOSP-5,Summit Health Center,Urban,2024-05-08 02:20:45,Wednesday,Spring,Evening,Low,4,7,72,38,48,121,207,Left Without Being Seen,1
+HOSP-2-20240604-0857,PAT-04258,HOSP-2,Riverside Medical Center,Urban,2024-06-04 10:35:45,Tuesday,Summer,Afternoon,Medium,3,2,194,18,26,54,98,Discharged,1
+HOSP-2-20240311-0786,PAT-03863,HOSP-2,Riverside Medical Center,Urban,2024-03-11 02:28:35,Monday,Spring,Evening,High,3,5,94,9,9,35,53,Admitted,3
+HOSP-2-20241008-0008,PAT-00024,HOSP-2,Riverside Medical Center,Urban,2024-10-08 05:40:05,Tuesday,Fall,Late Morning,High,3,3,116,2,9,21,32,Discharged,4
+HOSP-1-20240205-0541,PAT-02634,HOSP-1,Springfield General Hospital,Urban,2024-02-05 18:02:35,Monday,Winter,Afternoon,Medium,3,6,136,17,51,86,154,Left Without Being Seen,1
+HOSP-5-20240823-0636,PAT-03341,HOSP-5,Summit Health Center,Urban,2024-08-23 05:36:53,Friday,Summer,Late Morning,Medium,3,9,187,10,19,50,79,Discharged,3
+HOSP-2-20240617-0450,PAT-02216,HOSP-2,Riverside Medical Center,Urban,2024-06-17 23:04:23,Monday,Summer,Afternoon,Low,4,5,189,31,103,94,228,Discharged,1
+HOSP-5-20240126-0728,PAT-03683,HOSP-5,Summit Health Center,Urban,2024-01-26 09:51:43,Friday,Winter,Afternoon,Low,4,3,174,46,99,97,242,Left Without Being Seen,1
+HOSP-3-20240624-0948,PAT-04725,HOSP-3,Northside Community Hospital,Rural,2024-06-24 20:53:18,Monday,Summer,Night,Low,5,2,49,37,92,109,238,Left Without Being Seen,1
+HOSP-5-20240628-0341,PAT-01908,HOSP-5,Summit Health Center,Urban,2024-06-28 09:44:59,Friday,Summer,Evening,High,4,5,153,6,13,53,72,Admitted,3
+HOSP-3-20240721-0016,PAT-00085,HOSP-3,Northside Community Hospital,Rural,2024-07-21 22:48:12,Sunday,Summer,Afternoon,Critical,1,0,26,1,1,9,11,Discharged,5
+HOSP-1-20240503-0062,PAT-00228,HOSP-1,Springfield General Hospital,Urban,2024-05-03 22:42:14,Friday,Spring,Evening,Critical,2,9,125,4,8,19,31,Discharged,4
+HOSP-3-20241208-0064,PAT-00297,HOSP-3,Northside Community Hospital,Rural,2024-12-08 12:24:55,Sunday,Winter,Early Morning,High,4,1,18,5,6,14,25,Admitted,4
+HOSP-2-20240406-0198,PAT-01002,HOSP-2,Riverside Medical Center,Urban,2024-04-06 11:25:48,Saturday,Spring,Night,Medium,4,4,68,12,12,45,69,Discharged,3
+HOSP-1-20240420-0437,PAT-02139,HOSP-1,Springfield General Hospital,Urban,2024-04-20 00:44:17,Saturday,Spring,Evening,Medium,4,8,50,17,36,54,107,Admitted,2
+HOSP-1-20240319-0170,PAT-00712,HOSP-1,Springfield General Hospital,Urban,2024-03-19 21:32:53,Tuesday,Spring,Early Morning,Low,4,8,123,16,31,36,83,Discharged,2
+HOSP-4-20240620-0561,PAT-02802,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-20 21:36:05,Thursday,Summer,Night,Medium,3,2,22,11,13,47,71,Admitted,3
+HOSP-5-20240829-0469,PAT-02528,HOSP-5,Summit Health Center,Urban,2024-08-29 05:14:21,Thursday,Summer,Evening,Critical,1,4,145,4,4,18,26,Admitted,5
+HOSP-3-20240120-0738,PAT-03753,HOSP-3,Northside Community Hospital,Rural,2024-01-20 10:16:59,Saturday,Winter,Afternoon,High,4,3,15,8,13,36,57,Discharged,3
+HOSP-4-20240328-0676,PAT-03322,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-28 02:41:40,Thursday,Spring,Evening,Low,4,3,46,31,58,91,180,Discharged,1
+HOSP-4-20241006-0643,PAT-03182,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-06 17:19:44,Sunday,Fall,Evening,Low,5,2,47,16,60,76,152,Discharged,1
+HOSP-4-20241202-0836,PAT-04184,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-02 03:18:51,Monday,Winter,Night,Medium,3,0,17,17,34,66,117,Admitted,1
+HOSP-5-20240506-0289,PAT-01616,HOSP-5,Summit Health Center,Urban,2024-05-06 10:26:57,Monday,Spring,Afternoon,Low,4,4,106,24,53,70,147,Discharged,1
+HOSP-5-20240721-0568,PAT-03025,HOSP-5,Summit Health Center,Urban,2024-07-21 08:11:03,Sunday,Summer,Afternoon,Medium,4,1,130,13,16,53,82,Admitted,2
+HOSP-1-20240416-0298,PAT-01414,HOSP-1,Springfield General Hospital,Urban,2024-04-16 08:44:04,Tuesday,Spring,Afternoon,Low,5,4,152,27,49,95,171,Discharged,1
+HOSP-4-20241218-0145,PAT-00764,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-18 10:08:55,Wednesday,Winter,Evening,High,3,2,50,7,17,23,47,Discharged,3
+HOSP-4-20240116-0118,PAT-00656,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-16 10:06:58,Tuesday,Winter,Late Morning,Medium,3,3,50,19,33,64,116,Discharged,2
+HOSP-5-20241010-0952,PAT-04798,HOSP-5,Summit Health Center,Urban,2024-10-10 13:57:39,Thursday,Fall,Night,High,4,8,99,3,5,12,20,Discharged,5
+HOSP-4-20240108-0762,PAT-03850,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-08 06:13:11,Monday,Winter,Afternoon,Medium,3,2,26,22,37,64,123,Left Without Being Seen,1
+HOSP-3-20241112-0822,PAT-04154,HOSP-3,Northside Community Hospital,Rural,2024-11-12 19:21:03,Tuesday,Fall,Evening,Low,4,1,30,32,75,76,183,Discharged,1
+HOSP-3-20241009-0102,PAT-00469,HOSP-3,Northside Community Hospital,Rural,2024-10-09 07:31:26,Wednesday,Fall,Late Morning,High,4,2,21,5,7,21,33,Admitted,4
+HOSP-1-20241225-0040,PAT-00158,HOSP-1,Springfield General Hospital,Urban,2024-12-25 13:28:12,Wednesday,Winter,Afternoon,Critical,1,3,117,4,5,12,21,Admitted,4
+HOSP-2-20240423-0270,PAT-01296,HOSP-2,Riverside Medical Center,Urban,2024-04-23 00:50:52,Tuesday,Spring,Afternoon,Medium,3,5,196,7,23,53,83,Discharged,2
+HOSP-4-20241104-0088,PAT-00498,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-04 02:25:07,Monday,Fall,Late Morning,Low,4,1,15,18,54,75,147,Discharged,1
+HOSP-1-20240710-0950,PAT-04741,HOSP-1,Springfield General Hospital,Urban,2024-07-10 06:09:16,Wednesday,Summer,Night,High,3,1,186,3,12,24,39,Admitted,4
+HOSP-3-20241123-0590,PAT-02941,HOSP-3,Northside Community Hospital,Rural,2024-11-23 07:19:45,Saturday,Fall,Afternoon,Critical,1,3,24,0,1,12,13,Admitted,4
+HOSP-3-20240212-0700,PAT-03457,HOSP-3,Northside Community Hospital,Rural,2024-02-12 10:32:43,Monday,Winter,Afternoon,Medium,3,2,40,10,29,73,112,Discharged,1
+HOSP-2-20240614-0078,PAT-00374,HOSP-2,Riverside Medical Center,Urban,2024-06-14 14:50:58,Friday,Summer,Late Morning,High,3,7,72,6,8,17,31,Discharged,4
+HOSP-3-20241010-0014,PAT-00080,HOSP-3,Northside Community Hospital,Rural,2024-10-10 05:43:47,Thursday,Fall,Night,Medium,4,2,35,9,14,25,48,Discharged,4
+HOSP-2-20240215-0326,PAT-01554,HOSP-2,Riverside Medical Center,Urban,2024-02-15 09:16:15,Thursday,Winter,Early Morning,High,4,7,178,4,14,14,32,Discharged,4
+HOSP-2-20240728-0351,PAT-01670,HOSP-2,Riverside Medical Center,Urban,2024-07-28 20:31:11,Sunday,Summer,Afternoon,High,4,3,188,5,8,28,41,Admitted,4
+HOSP-4-20240707-0444,PAT-02132,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-07 03:41:47,Sunday,Summer,Afternoon,Critical,2,3,36,2,5,7,14,Admitted,5
+HOSP-2-20240525-0901,PAT-04440,HOSP-2,Riverside Medical Center,Urban,2024-05-25 11:41:12,Saturday,Spring,Evening,Low,5,7,193,24,42,81,147,Discharged,1
+HOSP-4-20240622-0080,PAT-00466,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-22 04:32:36,Saturday,Summer,Evening,Medium,3,0,27,16,29,68,113,Discharged,1
+HOSP-5-20240708-0047,PAT-00249,HOSP-5,Summit Health Center,Urban,2024-07-08 14:09:30,Monday,Summer,Afternoon,Medium,4,10,192,24,46,95,165,Discharged,1
+HOSP-2-20240423-0180,PAT-00932,HOSP-2,Riverside Medical Center,Urban,2024-04-23 16:28:46,Tuesday,Spring,Afternoon,Critical,1,7,173,1,3,12,16,Admitted,5
+HOSP-3-20240927-0276,PAT-01336,HOSP-3,Northside Community Hospital,Rural,2024-09-27 01:08:08,Friday,Fall,Evening,Critical,1,0,45,1,5,11,17,Admitted,4
+HOSP-4-20240119-0896,PAT-04525,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-19 19:12:50,Friday,Winter,Evening,High,4,0,45,10,23,52,85,Admitted,3
+HOSP-1-20240312-0283,PAT-01339,HOSP-1,Springfield General Hospital,Urban,2024-03-12 13:18:22,Tuesday,Spring,Afternoon,High,3,9,114,5,6,12,23,Discharged,4
+HOSP-4-20240504-0276,PAT-01407,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-04 05:12:07,Saturday,Spring,Night,Critical,2,0,37,1,3,4,8,Admitted,5
+HOSP-4-20241109-0215,PAT-01091,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-09 03:53:29,Saturday,Fall,Afternoon,Low,5,1,39,11,46,74,131,Left Without Being Seen,1
+HOSP-5-20240603-0831,PAT-04210,HOSP-5,Summit Health Center,Urban,2024-06-03 17:46:10,Monday,Summer,Early Morning,High,3,7,58,4,6,28,38,Admitted,4
+HOSP-5-20240214-0133,PAT-00743,HOSP-5,Summit Health Center,Urban,2024-02-14 04:12:23,Wednesday,Winter,Evening,High,4,3,120,8,16,27,51,Discharged,3
+HOSP-1-20241119-0479,PAT-02324,HOSP-1,Springfield General Hospital,Urban,2024-11-19 00:21:59,Tuesday,Fall,Early Morning,Critical,2,10,161,1,3,7,11,Discharged,5
+HOSP-2-20240417-0731,PAT-03602,HOSP-2,Riverside Medical Center,Urban,2024-04-17 13:26:07,Wednesday,Spring,Afternoon,Medium,3,1,145,12,26,47,85,Discharged,2
+HOSP-4-20240521-0441,PAT-02124,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-21 05:53:35,Tuesday,Spring,Evening,Medium,4,3,24,25,27,81,133,Discharged,1
+HOSP-2-20240815-0432,PAT-02095,HOSP-2,Riverside Medical Center,Urban,2024-08-15 02:08:58,Thursday,Summer,Evening,Medium,3,6,102,18,25,77,120,Discharged,1
+HOSP-4-20240313-0039,PAT-00241,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-13 18:24:30,Wednesday,Spring,Afternoon,Low,4,0,23,27,45,67,139,Discharged,1
+HOSP-5-20241024-0431,PAT-02352,HOSP-5,Summit Health Center,Urban,2024-10-24 04:25:36,Thursday,Fall,Afternoon,Medium,4,5,146,7,24,54,85,Discharged,2
+HOSP-3-20241027-0283,PAT-01371,HOSP-3,Northside Community Hospital,Rural,2024-10-27 18:53:24,Sunday,Fall,Night,Medium,4,1,20,14,19,22,55,Discharged,3
+HOSP-4-20240421-0211,PAT-01058,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-21 05:40:09,Sunday,Spring,Afternoon,Low,4,2,48,19,53,56,128,Discharged,1
+HOSP-1-20241022-0963,PAT-04817,HOSP-1,Springfield General Hospital,Urban,2024-10-22 11:21:46,Tuesday,Fall,Early Morning,Critical,1,8,196,1,2,8,11,Admitted,5
+HOSP-3-20240408-0038,PAT-00200,HOSP-3,Northside Community Hospital,Rural,2024-04-08 19:38:27,Monday,Spring,Evening,High,4,3,13,10,20,27,57,Admitted,3
+HOSP-3-20240517-0455,PAT-02281,HOSP-3,Northside Community Hospital,Rural,2024-05-17 08:33:02,Friday,Spring,Evening,Critical,2,1,37,1,8,13,22,Admitted,5
+HOSP-5-20241012-0941,PAT-04750,HOSP-5,Summit Health Center,Urban,2024-10-12 06:38:48,Saturday,Fall,Evening,Low,4,6,193,18,65,97,180,Discharged,1
+HOSP-5-20240513-0409,PAT-02221,HOSP-5,Summit Health Center,Urban,2024-05-13 15:55:10,Monday,Spring,Night,Medium,3,3,182,16,18,46,80,Discharged,2
+HOSP-4-20240509-0942,PAT-04772,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-09 00:47:43,Thursday,Spring,Afternoon,Low,4,3,18,25,41,79,145,Discharged,1
+HOSP-1-20241014-0586,PAT-02820,HOSP-1,Springfield General Hospital,Urban,2024-10-14 18:15:20,Monday,Fall,Evening,Critical,2,10,166,3,9,18,30,Admitted,4
+HOSP-1-20241108-0656,PAT-03151,HOSP-1,Springfield General Hospital,Urban,2024-11-08 06:51:08,Friday,Fall,Night,Medium,4,2,82,12,15,48,75,Admitted,2
+HOSP-5-20240803-0845,PAT-04257,HOSP-5,Summit Health Center,Urban,2024-08-03 10:14:50,Saturday,Summer,Evening,Low,4,1,125,35,40,79,154,Discharged,1
+HOSP-4-20240720-0627,PAT-03108,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-20 05:29:21,Saturday,Summer,Evening,High,3,0,33,4,10,37,51,Discharged,4
+HOSP-5-20240528-0354,PAT-01974,HOSP-5,Summit Health Center,Urban,2024-05-28 18:42:56,Tuesday,Spring,Late Morning,Low,4,3,83,19,38,79,136,Left Without Being Seen,1
+HOSP-4-20240614-0269,PAT-01376,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-14 23:45:15,Friday,Summer,Afternoon,Medium,3,3,31,20,16,38,74,Admitted,2
+HOSP-2-20241109-0805,PAT-03969,HOSP-2,Riverside Medical Center,Urban,2024-11-09 12:29:20,Saturday,Fall,Afternoon,Low,5,8,179,14,44,49,107,Discharged,1
+HOSP-1-20240126-0826,PAT-04063,HOSP-1,Springfield General Hospital,Urban,2024-01-26 15:23:48,Friday,Winter,Afternoon,Medium,3,5,73,10,36,48,94,Admitted,2
+HOSP-5-20240123-0876,PAT-04446,HOSP-5,Summit Health Center,Urban,2024-01-23 14:28:38,Tuesday,Winter,Evening,Medium,3,8,120,21,26,63,110,Discharged,2
+HOSP-2-20240506-0722,PAT-03558,HOSP-2,Riverside Medical Center,Urban,2024-05-06 12:22:26,Monday,Spring,Early Morning,High,3,9,90,4,6,19,29,Admitted,4
+HOSP-5-20240513-0173,PAT-00965,HOSP-5,Summit Health Center,Urban,2024-05-13 22:46:49,Monday,Spring,Evening,Medium,3,7,141,10,20,40,70,Discharged,3
+HOSP-2-20241127-0033,PAT-00180,HOSP-2,Riverside Medical Center,Urban,2024-11-27 21:41:20,Wednesday,Fall,Afternoon,Critical,1,6,155,0,2,6,8,Admitted,5
+HOSP-2-20240404-0749,PAT-03699,HOSP-2,Riverside Medical Center,Urban,2024-04-04 03:03:28,Thursday,Spring,Afternoon,Medium,4,7,75,12,28,53,93,Admitted,2
+HOSP-5-20241118-0756,PAT-03822,HOSP-5,Summit Health Center,Urban,2024-11-18 19:11:08,Monday,Fall,Early Morning,Critical,2,3,189,1,3,8,12,Admitted,5
+HOSP-1-20240820-0976,PAT-04879,HOSP-1,Springfield General Hospital,Urban,2024-08-20 19:35:26,Tuesday,Summer,Afternoon,High,4,5,135,8,8,41,57,Discharged,3
+HOSP-2-20241123-0791,PAT-03900,HOSP-2,Riverside Medical Center,Urban,2024-11-23 11:10:22,Saturday,Fall,Afternoon,Medium,4,2,73,15,24,53,92,Admitted,2
+HOSP-1-20241118-0903,PAT-04488,HOSP-1,Springfield General Hospital,Urban,2024-11-18 08:32:37,Monday,Fall,Night,High,4,9,178,6,9,32,47,Admitted,4
+HOSP-2-20240824-0649,PAT-03239,HOSP-2,Riverside Medical Center,Urban,2024-08-24 22:08:18,Saturday,Summer,Evening,Critical,1,3,167,2,5,11,18,Admitted,4
+HOSP-5-20240325-0558,PAT-02975,HOSP-5,Summit Health Center,Urban,2024-03-25 20:00:07,Monday,Spring,Afternoon,Critical,2,7,197,4,7,13,24,Admitted,4
+HOSP-5-20240227-0698,PAT-03581,HOSP-5,Summit Health Center,Urban,2024-02-27 09:58:36,Tuesday,Winter,Late Morning,High,4,2,86,7,9,20,36,Admitted,3
+HOSP-2-20240228-0580,PAT-02888,HOSP-2,Riverside Medical Center,Urban,2024-02-28 06:27:10,Wednesday,Winter,Afternoon,Critical,1,8,67,2,5,12,19,Admitted,4
+HOSP-5-20240316-0480,PAT-02576,HOSP-5,Summit Health Center,Urban,2024-03-16 09:32:06,Saturday,Spring,Evening,Low,4,6,69,22,74,71,167,Discharged,1
+HOSP-4-20240805-0279,PAT-01420,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-05 11:27:08,Monday,Summer,Afternoon,Low,4,2,40,38,66,83,187,Discharged,1
+HOSP-3-20240621-0777,PAT-03908,HOSP-3,Northside Community Hospital,Rural,2024-06-21 06:25:41,Friday,Summer,Late Morning,Critical,1,1,48,3,2,9,14,Admitted,4
+HOSP-2-20240213-0952,PAT-04674,HOSP-2,Riverside Medical Center,Urban,2024-02-13 20:21:13,Tuesday,Winter,Late Morning,High,4,1,163,9,16,38,63,Admitted,3
+HOSP-4-20240902-0973,PAT-04903,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-02 23:20:11,Monday,Fall,Afternoon,Critical,2,0,50,1,2,21,24,Admitted,4
+HOSP-1-20240109-0381,PAT-01861,HOSP-1,Springfield General Hospital,Urban,2024-01-09 18:58:43,Tuesday,Winter,Late Morning,Medium,4,9,172,16,28,75,119,Admitted,1
+HOSP-1-20241129-0003,PAT-00009,HOSP-1,Springfield General Hospital,Urban,2024-11-29 02:47:33,Friday,Fall,Afternoon,Medium,4,3,87,16,27,35,78,Discharged,2
+HOSP-1-20240913-0607,PAT-02895,HOSP-1,Springfield General Hospital,Urban,2024-09-13 22:08:45,Friday,Fall,Afternoon,Critical,2,4,171,2,5,17,24,Discharged,4
+HOSP-3-20240507-0574,PAT-02848,HOSP-3,Northside Community Hospital,Rural,2024-05-07 03:17:41,Tuesday,Spring,Night,Low,4,2,37,17,32,77,126,Discharged,1
+HOSP-3-20241228-0726,PAT-03665,HOSP-3,Northside Community Hospital,Rural,2024-12-28 03:25:55,Saturday,Winter,Night,Critical,1,2,48,1,2,11,14,Admitted,5
+HOSP-5-20241220-0029,PAT-00145,HOSP-5,Summit Health Center,Urban,2024-12-20 17:46:22,Friday,Winter,Afternoon,High,3,5,192,8,12,22,42,Discharged,4
+HOSP-1-20240421-0429,PAT-02105,HOSP-1,Springfield General Hospital,Urban,2024-04-21 23:19:17,Sunday,Spring,Late Morning,Critical,1,7,55,0,1,5,6,Admitted,5
+HOSP-3-20240128-0631,PAT-03144,HOSP-3,Northside Community Hospital,Rural,2024-01-28 02:20:26,Sunday,Winter,Evening,Critical,1,2,31,1,4,11,16,Admitted,5
+HOSP-3-20240806-0176,PAT-00842,HOSP-3,Northside Community Hospital,Rural,2024-08-06 15:22:44,Tuesday,Summer,Afternoon,High,3,2,49,6,10,13,29,Admitted,4
+HOSP-1-20240125-0243,PAT-01129,HOSP-1,Springfield General Hospital,Urban,2024-01-25 05:46:57,Thursday,Winter,Afternoon,Low,4,4,99,28,66,116,210,Discharged,1
+HOSP-5-20241124-0030,PAT-00152,HOSP-5,Summit Health Center,Urban,2024-11-24 00:06:08,Sunday,Fall,Afternoon,Medium,4,6,168,7,12,42,61,Discharged,3
+HOSP-5-20241221-0701,PAT-03592,HOSP-5,Summit Health Center,Urban,2024-12-21 11:32:53,Saturday,Winter,Late Morning,Medium,3,9,145,13,34,49,96,Admitted,1
+HOSP-4-20241023-0210,PAT-01053,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-23 19:25:32,Wednesday,Fall,Night,Medium,3,1,22,7,25,25,57,Discharged,3
+HOSP-2-20240114-0337,PAT-01591,HOSP-2,Riverside Medical Center,Urban,2024-01-14 03:32:54,Sunday,Winter,Evening,Medium,4,8,179,12,47,67,126,Discharged,1
+HOSP-2-20240608-0603,PAT-03009,HOSP-2,Riverside Medical Center,Urban,2024-06-08 00:06:33,Saturday,Summer,Evening,Critical,1,3,81,3,6,15,24,Discharged,4
+HOSP-3-20240603-0407,PAT-02030,HOSP-3,Northside Community Hospital,Rural,2024-06-03 09:47:50,Monday,Summer,Night,Critical,2,1,14,3,7,22,32,Discharged,4
+HOSP-2-20240218-0688,PAT-03419,HOSP-2,Riverside Medical Center,Urban,2024-02-18 09:05:29,Sunday,Winter,Early Morning,Medium,4,1,89,9,18,22,49,Discharged,3
+HOSP-2-20240708-0378,PAT-01808,HOSP-2,Riverside Medical Center,Urban,2024-07-08 14:34:56,Monday,Summer,Night,Critical,1,10,76,1,4,13,18,Admitted,4
+HOSP-3-20240309-0541,PAT-02697,HOSP-3,Northside Community Hospital,Rural,2024-03-09 17:03:40,Saturday,Spring,Afternoon,Critical,1,2,14,0,1,4,5,Admitted,5
+HOSP-1-20240923-0631,PAT-03040,HOSP-1,Springfield General Hospital,Urban,2024-09-23 01:55:43,Monday,Fall,Evening,Low,5,9,94,46,48,129,223,Left Without Being Seen,1
+HOSP-1-20240809-0119,PAT-00473,HOSP-1,Springfield General Hospital,Urban,2024-08-09 15:08:25,Friday,Summer,Evening,High,4,2,183,10,20,49,79,Discharged,2
+HOSP-3-20240707-0654,PAT-03290,HOSP-3,Northside Community Hospital,Rural,2024-07-07 18:06:39,Sunday,Summer,Afternoon,Low,4,1,17,22,67,69,158,Discharged,1
+HOSP-4-20240126-0812,PAT-04075,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-26 02:21:57,Friday,Winter,Afternoon,High,3,2,49,9,13,37,59,Discharged,3
+HOSP-1-20240319-0719,PAT-03497,HOSP-1,Springfield General Hospital,Urban,2024-03-19 19:23:30,Tuesday,Spring,Night,Low,4,6,111,15,60,86,161,Discharged,1
+HOSP-3-20241219-0059,PAT-00280,HOSP-3,Northside Community Hospital,Rural,2024-12-19 23:33:31,Thursday,Winter,Evening,High,4,0,39,6,16,48,70,Admitted,3
+HOSP-1-20240325-0357,PAT-01742,HOSP-1,Springfield General Hospital,Urban,2024-03-25 10:35:00,Monday,Spring,Late Morning,High,4,8,178,5,8,15,28,Admitted,4
+HOSP-1-20240102-0928,PAT-04625,HOSP-1,Springfield General Hospital,Urban,2024-01-02 13:35:30,Tuesday,Winter,Evening,Critical,2,6,89,2,9,18,29,Admitted,4
+HOSP-3-20240626-0582,PAT-02887,HOSP-3,Northside Community Hospital,Rural,2024-06-26 15:11:59,Wednesday,Summer,Afternoon,Critical,1,0,21,2,2,14,18,Discharged,4
+HOSP-1-20240317-0398,PAT-01942,HOSP-1,Springfield General Hospital,Urban,2024-03-17 19:14:35,Sunday,Spring,Evening,Medium,4,2,129,10,19,59,88,Admitted,2
+HOSP-1-20240904-0028,PAT-00101,HOSP-1,Springfield General Hospital,Urban,2024-09-04 04:44:17,Wednesday,Fall,Evening,Low,5,10,120,16,82,72,170,Left Without Being Seen,1
+HOSP-3-20240504-0568,PAT-02805,HOSP-3,Northside Community Hospital,Rural,2024-05-04 13:47:45,Saturday,Spring,Evening,Medium,4,3,40,7,30,52,89,Discharged,2
+HOSP-5-20240426-0695,PAT-03571,HOSP-5,Summit Health Center,Urban,2024-04-26 08:24:52,Friday,Spring,Afternoon,Critical,2,10,139,2,7,19,28,Admitted,4
+HOSP-4-20240928-0732,PAT-03685,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-28 20:51:01,Saturday,Fall,Evening,Medium,4,0,48,21,33,55,109,Discharged,1
+HOSP-1-20240723-0745,PAT-03662,HOSP-1,Springfield General Hospital,Urban,2024-07-23 01:29:51,Tuesday,Summer,Afternoon,Low,4,1,182,22,53,98,173,Discharged,1
+HOSP-1-20240801-0129,PAT-00531,HOSP-1,Springfield General Hospital,Urban,2024-08-01 11:26:11,Thursday,Summer,Evening,Medium,4,2,51,19,35,98,152,Left Without Being Seen,1
+HOSP-5-20240917-0334,PAT-01887,HOSP-5,Summit Health Center,Urban,2024-09-17 12:30:11,Tuesday,Fall,Afternoon,High,3,6,200,5,11,20,36,Discharged,3
+HOSP-4-20241206-0126,PAT-00682,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-06 16:51:09,Friday,Winter,Afternoon,Medium,3,0,31,16,33,85,134,Left Without Being Seen,1
+HOSP-2-20241017-0769,PAT-03795,HOSP-2,Riverside Medical Center,Urban,2024-10-17 14:55:27,Thursday,Fall,Evening,High,4,1,188,7,8,19,34,Admitted,4
+HOSP-1-20240323-0800,PAT-03945,HOSP-1,Springfield General Hospital,Urban,2024-03-23 16:26:27,Saturday,Spring,Evening,High,3,2,126,3,12,29,44,Admitted,3
+HOSP-1-20241215-0939,PAT-04667,HOSP-1,Springfield General Hospital,Urban,2024-12-15 04:40:58,Sunday,Winter,Early Morning,Critical,1,7,181,1,1,9,11,Discharged,5
+HOSP-1-20241201-0413,PAT-02019,HOSP-1,Springfield General Hospital,Urban,2024-12-01 08:24:58,Sunday,Winter,Night,Low,5,9,50,23,33,89,145,Discharged,1
+HOSP-2-20240913-0223,PAT-01097,HOSP-2,Riverside Medical Center,Urban,2024-09-13 13:13:02,Friday,Fall,Evening,Medium,3,1,62,19,21,31,71,Discharged,2
+HOSP-2-20240216-0155,PAT-00830,HOSP-2,Riverside Medical Center,Urban,2024-02-16 09:29:04,Friday,Winter,Evening,Medium,3,5,197,17,43,78,138,Left Without Being Seen,1
+HOSP-4-20240804-0563,PAT-02806,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-04 09:37:01,Sunday,Summer,Evening,Low,4,2,37,23,53,87,163,Discharged,1
+HOSP-4-20240319-0757,PAT-03830,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-19 14:46:44,Tuesday,Spring,Late Morning,Medium,4,3,48,11,24,28,63,Discharged,3
+HOSP-2-20240526-0887,PAT-04382,HOSP-2,Riverside Medical Center,Urban,2024-05-26 12:42:47,Sunday,Spring,Evening,Low,4,1,69,21,55,63,139,Discharged,1
+HOSP-4-20240820-0770,PAT-03892,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-20 00:44:41,Tuesday,Summer,Early Morning,Critical,1,3,39,0,4,11,15,Admitted,5
+HOSP-4-20241219-0146,PAT-00765,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-19 18:34:23,Thursday,Winter,Early Morning,Medium,3,2,17,6,30,37,73,Discharged,2
+HOSP-5-20240628-0519,PAT-02768,HOSP-5,Summit Health Center,Urban,2024-06-28 16:27:09,Friday,Summer,Late Morning,Medium,3,2,151,15,17,56,88,Discharged,2
+HOSP-1-20240421-0874,PAT-04329,HOSP-1,Springfield General Hospital,Urban,2024-04-21 23:20:08,Sunday,Spring,Late Morning,Low,5,1,58,18,45,48,111,Discharged,1
+HOSP-4-20240819-0667,PAT-03296,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-19 04:25:26,Monday,Summer,Afternoon,High,4,1,18,10,16,46,72,Admitted,3
+HOSP-3-20240126-0437,PAT-02195,HOSP-3,Northside Community Hospital,Rural,2024-01-26 08:03:52,Friday,Winter,Evening,Low,4,3,29,29,139,187,355,Discharged,1
+HOSP-1-20240112-0486,PAT-02358,HOSP-1,Springfield General Hospital,Urban,2024-01-12 00:39:11,Friday,Winter,Early Morning,High,3,2,98,3,9,20,32,Admitted,4
+HOSP-1-20240404-0705,PAT-03426,HOSP-1,Springfield General Hospital,Urban,2024-04-04 05:37:08,Thursday,Spring,Night,Medium,3,2,110,13,26,24,63,Admitted,3
+HOSP-4-20241203-0794,PAT-03980,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-03 03:19:06,Tuesday,Winter,Evening,High,3,0,19,6,12,20,38,Admitted,4
+HOSP-5-20241128-0165,PAT-00912,HOSP-5,Summit Health Center,Urban,2024-11-28 03:16:08,Thursday,Fall,Early Morning,Critical,1,5,118,1,2,4,7,Discharged,5
+HOSP-5-20240717-0600,PAT-03146,HOSP-5,Summit Health Center,Urban,2024-07-17 21:41:27,Wednesday,Summer,Evening,High,4,8,115,9,11,28,48,Admitted,3
+HOSP-3-20241112-0209,PAT-01000,HOSP-3,Northside Community Hospital,Rural,2024-11-12 20:05:20,Tuesday,Fall,Afternoon,Medium,3,3,36,13,20,43,76,Discharged,2
+HOSP-5-20241007-0721,PAT-03654,HOSP-5,Summit Health Center,Urban,2024-10-07 03:39:19,Monday,Fall,Afternoon,Medium,3,3,163,9,28,52,89,Discharged,2
+HOSP-1-20240731-0513,PAT-02484,HOSP-1,Springfield General Hospital,Urban,2024-07-31 06:39:58,Wednesday,Summer,Afternoon,Critical,1,6,180,1,4,9,14,Admitted,5
+HOSP-3-20240929-0802,PAT-04077,HOSP-3,Northside Community Hospital,Rural,2024-09-29 11:41:17,Sunday,Fall,Evening,High,3,3,18,2,5,14,21,Admitted,5
+HOSP-1-20240422-0489,PAT-02371,HOSP-1,Springfield General Hospital,Urban,2024-04-22 02:57:05,Monday,Spring,Evening,Medium,4,6,156,12,24,117,153,Discharged,1
+HOSP-4-20240123-0955,PAT-04839,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-23 14:46:08,Tuesday,Winter,Afternoon,Critical,2,1,21,1,8,8,17,Discharged,5
+HOSP-4-20241028-0006,PAT-00034,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-28 19:44:06,Monday,Fall,Early Morning,High,4,1,43,3,7,15,25,Admitted,4
+HOSP-3-20240320-0749,PAT-03790,HOSP-3,Northside Community Hospital,Rural,2024-03-20 21:32:33,Wednesday,Spring,Late Morning,High,4,1,29,4,6,19,29,Discharged,4
+HOSP-2-20240709-0205,PAT-01021,HOSP-2,Riverside Medical Center,Urban,2024-07-09 20:59:16,Tuesday,Summer,Evening,High,4,1,127,6,20,27,53,Discharged,4
+HOSP-5-20241227-0293,PAT-01648,HOSP-5,Summit Health Center,Urban,2024-12-27 21:47:46,Friday,Winter,Late Morning,Medium,3,8,115,17,22,64,103,Admitted,2
+HOSP-5-20240130-0130,PAT-00734,HOSP-5,Summit Health Center,Urban,2024-01-30 00:20:08,Tuesday,Winter,Evening,Low,5,4,52,49,128,167,344,Left Without Being Seen,1
+HOSP-1-20240130-0920,PAT-04583,HOSP-1,Springfield General Hospital,Urban,2024-01-30 19:52:44,Tuesday,Winter,Night,Medium,4,8,138,26,34,90,150,Left Without Being Seen,1
+HOSP-2-20240528-0658,PAT-03275,HOSP-2,Riverside Medical Center,Urban,2024-05-28 19:20:12,Tuesday,Spring,Early Morning,Critical,2,10,130,1,3,5,9,Admitted,4
+HOSP-4-20240909-0320,PAT-01621,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-09 13:01:06,Monday,Fall,Night,Low,5,2,47,16,63,64,143,Discharged,1
+HOSP-2-20240427-0627,PAT-03136,HOSP-2,Riverside Medical Center,Urban,2024-04-27 11:20:27,Saturday,Spring,Evening,High,3,9,176,7,10,23,40,Discharged,3
+HOSP-4-20241125-0541,PAT-02690,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-25 17:13:19,Monday,Fall,Evening,Medium,4,2,36,9,40,89,138,Discharged,1
+HOSP-3-20240808-0547,PAT-02708,HOSP-3,Northside Community Hospital,Rural,2024-08-08 17:10:57,Thursday,Summer,Afternoon,Critical,1,2,28,2,6,10,18,Admitted,4
+HOSP-4-20240203-0050,PAT-00298,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-03 06:10:20,Saturday,Winter,Afternoon,High,4,2,16,5,16,16,37,Discharged,4
+HOSP-2-20240218-0474,PAT-02340,HOSP-2,Riverside Medical Center,Urban,2024-02-18 18:13:19,Sunday,Winter,Night,High,4,5,146,4,7,33,44,Admitted,3
+HOSP-4-20240212-0117,PAT-00654,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-12 15:47:08,Monday,Winter,Evening,High,4,3,31,13,32,42,87,Admitted,3
+HOSP-1-20240220-0768,PAT-03775,HOSP-1,Springfield General Hospital,Urban,2024-02-20 20:19:39,Tuesday,Winter,Evening,Critical,1,1,167,4,6,8,18,Admitted,4
+HOSP-3-20240708-0263,PAT-01256,HOSP-3,Northside Community Hospital,Rural,2024-07-08 15:10:40,Monday,Summer,Afternoon,Medium,4,1,41,29,31,111,171,Discharged,1
+HOSP-1-20240529-0909,PAT-04521,HOSP-1,Springfield General Hospital,Urban,2024-05-29 00:42:50,Wednesday,Spring,Afternoon,Low,5,3,106,14,31,83,128,Discharged,1
+HOSP-3-20240118-0043,PAT-00231,HOSP-3,Northside Community Hospital,Rural,2024-01-18 03:54:17,Thursday,Winter,Afternoon,Low,4,1,10,41,74,89,204,Discharged,1
+HOSP-3-20240329-0652,PAT-03277,HOSP-3,Northside Community Hospital,Rural,2024-03-29 01:38:31,Friday,Spring,Evening,Medium,3,2,38,22,20,82,124,Discharged,1
+HOSP-3-20240610-0642,PAT-03231,HOSP-3,Northside Community Hospital,Rural,2024-06-10 15:06:29,Monday,Summer,Night,Medium,3,2,42,11,25,60,96,Admitted,2
+HOSP-1-20240115-0166,PAT-00692,HOSP-1,Springfield General Hospital,Urban,2024-01-15 10:29:26,Monday,Winter,Afternoon,Critical,2,9,54,2,4,22,28,Admitted,4
+HOSP-5-20241110-0517,PAT-02755,HOSP-5,Summit Health Center,Urban,2024-11-10 04:45:08,Sunday,Fall,Early Morning,Critical,2,4,180,1,2,3,6,Admitted,5
+HOSP-2-20240420-0993,PAT-04864,HOSP-2,Riverside Medical Center,Urban,2024-04-20 08:37:37,Saturday,Spring,Afternoon,Critical,2,4,119,1,3,6,10,Admitted,5
+HOSP-2-20240204-0189,PAT-00970,HOSP-2,Riverside Medical Center,Urban,2024-02-04 06:45:55,Sunday,Winter,Late Morning,Medium,3,4,57,12,15,36,63,Discharged,3
+HOSP-3-20240219-0134,PAT-00634,HOSP-3,Northside Community Hospital,Rural,2024-02-19 06:00:25,Monday,Winter,Early Morning,High,3,3,33,4,7,15,26,Admitted,4
+HOSP-4-20240725-0816,PAT-04093,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-25 09:54:21,Thursday,Summer,Early Morning,High,3,2,16,4,9,10,23,Discharged,4
+HOSP-2-20240114-0830,PAT-04078,HOSP-2,Riverside Medical Center,Urban,2024-01-14 19:43:50,Sunday,Winter,Afternoon,Low,4,1,82,24,35,84,143,Discharged,1
+HOSP-4-20240816-0261,PAT-01322,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-16 09:11:27,Friday,Summer,Afternoon,High,4,2,25,8,12,22,42,Admitted,4
+HOSP-1-20240327-0379,PAT-01832,HOSP-1,Springfield General Hospital,Urban,2024-03-27 18:07:23,Wednesday,Spring,Evening,Critical,1,1,96,1,2,11,14,Discharged,4
+HOSP-4-20240915-0454,PAT-02179,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-15 02:43:56,Sunday,Fall,Evening,High,4,3,41,6,6,24,36,Admitted,3
+HOSP-4-20241025-0278,PAT-01418,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-25 09:21:46,Friday,Fall,Evening,Critical,2,1,17,4,4,14,22,Discharged,5
+HOSP-4-20240123-0365,PAT-01783,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-23 10:08:08,Tuesday,Winter,Afternoon,Critical,1,3,44,1,2,8,11,Discharged,5
+HOSP-3-20240423-0945,PAT-04716,HOSP-3,Northside Community Hospital,Rural,2024-04-23 17:51:12,Tuesday,Spring,Afternoon,Medium,3,1,49,15,24,37,76,Admitted,2
+HOSP-2-20241129-0959,PAT-04702,HOSP-2,Riverside Medical Center,Urban,2024-11-29 22:42:45,Friday,Fall,Night,Medium,4,1,185,17,28,32,77,Discharged,2
+HOSP-1-20240113-0833,PAT-04119,HOSP-1,Springfield General Hospital,Urban,2024-01-13 21:00:49,Saturday,Winter,Early Morning,High,3,10,94,4,8,11,23,Discharged,5
+HOSP-3-20240221-0337,PAT-01653,HOSP-3,Northside Community Hospital,Rural,2024-02-21 21:49:08,Wednesday,Winter,Evening,High,4,2,20,7,21,29,57,Discharged,4
+HOSP-2-20240906-0308,PAT-01484,HOSP-2,Riverside Medical Center,Urban,2024-09-06 01:09:29,Friday,Fall,Evening,Low,4,6,94,21,43,77,141,Discharged,1
+HOSP-5-20240321-0418,PAT-02276,HOSP-5,Summit Health Center,Urban,2024-03-21 05:25:15,Thursday,Spring,Late Morning,Critical,2,10,80,1,3,14,18,Admitted,4
+HOSP-3-20241206-0187,PAT-00878,HOSP-3,Northside Community Hospital,Rural,2024-12-06 20:04:00,Friday,Winter,Evening,Critical,2,0,26,2,12,31,45,Admitted,3
+HOSP-5-20240923-0683,PAT-03526,HOSP-5,Summit Health Center,Urban,2024-09-23 21:49:02,Monday,Fall,Night,Critical,1,3,174,1,5,6,12,Admitted,5
+HOSP-4-20240119-0418,PAT-02017,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-19 12:23:02,Friday,Winter,Afternoon,Low,4,3,38,47,65,127,239,Discharged,1
+HOSP-3-20240704-0091,PAT-00427,HOSP-3,Northside Community Hospital,Rural,2024-07-04 21:27:31,Thursday,Summer,Afternoon,Critical,2,2,20,1,5,7,13,Discharged,4
+HOSP-4-20240819-0112,PAT-00627,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-19 22:58:59,Monday,Summer,Early Morning,Low,5,0,50,27,66,99,192,Discharged,1
+HOSP-3-20240104-0326,PAT-01590,HOSP-3,Northside Community Hospital,Rural,2024-01-04 12:03:15,Thursday,Winter,Afternoon,Low,5,3,50,31,68,91,190,Left Without Being Seen,1
+HOSP-2-20240112-0452,PAT-02224,HOSP-2,Riverside Medical Center,Urban,2024-01-12 08:25:05,Friday,Winter,Late Morning,Critical,1,3,186,3,4,11,18,Admitted,5
+HOSP-3-20240929-0441,PAT-02218,HOSP-3,Northside Community Hospital,Rural,2024-09-29 11:40:57,Sunday,Fall,Evening,High,4,3,33,4,9,20,33,Discharged,4
+HOSP-1-20241104-0902,PAT-04484,HOSP-1,Springfield General Hospital,Urban,2024-11-04 22:16:32,Monday,Fall,Night,Critical,1,7,193,3,2,14,19,Discharged,4
+HOSP-2-20240731-0309,PAT-01486,HOSP-2,Riverside Medical Center,Urban,2024-07-31 19:29:31,Wednesday,Summer,Late Morning,Critical,2,2,145,1,5,6,12,Discharged,4
+HOSP-5-20240606-0308,PAT-01740,HOSP-5,Summit Health Center,Urban,2024-06-06 04:24:20,Thursday,Summer,Afternoon,Critical,2,7,168,1,5,19,25,Admitted,5
+HOSP-1-20240612-0512,PAT-02481,HOSP-1,Springfield General Hospital,Urban,2024-06-12 02:08:45,Wednesday,Summer,Afternoon,Critical,1,6,64,3,3,15,21,Admitted,5
+HOSP-2-20241225-0526,PAT-02585,HOSP-2,Riverside Medical Center,Urban,2024-12-25 18:59:27,Wednesday,Winter,Evening,Medium,4,2,119,27,30,70,127,Left Without Being Seen,1
+HOSP-3-20241015-0585,PAT-02894,HOSP-3,Northside Community Hospital,Rural,2024-10-15 13:39:38,Tuesday,Fall,Late Morning,Low,5,3,39,19,29,65,113,Discharged,1
+HOSP-3-20241031-0029,PAT-00150,HOSP-3,Northside Community Hospital,Rural,2024-10-31 08:16:22,Thursday,Fall,Evening,Critical,1,1,35,1,5,11,17,Admitted,4
+HOSP-3-20240125-0145,PAT-00677,HOSP-3,Northside Community Hospital,Rural,2024-01-25 07:36:09,Thursday,Winter,Evening,High,3,1,22,9,13,41,63,Admitted,3
+HOSP-3-20240702-0264,PAT-01262,HOSP-3,Northside Community Hospital,Rural,2024-07-02 02:56:32,Tuesday,Summer,Early Morning,High,4,3,22,3,8,19,30,Admitted,4
+HOSP-1-20241227-0987,PAT-04918,HOSP-1,Springfield General Hospital,Urban,2024-12-27 21:07:47,Friday,Winter,Afternoon,Low,5,1,160,23,66,140,229,Discharged,1
+HOSP-1-20240107-0006,PAT-00013,HOSP-1,Springfield General Hospital,Urban,2024-01-07 08:44:21,Sunday,Winter,Afternoon,Low,5,1,168,24,69,115,208,Discharged,1
+HOSP-2-20240224-0384,PAT-01834,HOSP-2,Riverside Medical Center,Urban,2024-02-24 22:32:35,Saturday,Winter,Late Morning,High,4,10,129,5,11,25,41,Admitted,3
+HOSP-2-20240222-0652,PAT-03249,HOSP-2,Riverside Medical Center,Urban,2024-02-22 22:02:39,Thursday,Winter,Afternoon,Critical,1,2,110,2,4,13,19,Discharged,5
+HOSP-1-20240502-0314,PAT-01492,HOSP-1,Springfield General Hospital,Urban,2024-05-02 23:29:52,Thursday,Spring,Early Morning,Medium,4,6,95,5,21,30,56,Admitted,3
+HOSP-5-20240306-0511,PAT-02728,HOSP-5,Summit Health Center,Urban,2024-03-06 08:14:03,Wednesday,Spring,Afternoon,Medium,4,8,142,23,24,66,113,Discharged,2
+HOSP-4-20240723-0733,PAT-03687,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-23 16:45:27,Tuesday,Summer,Evening,Low,5,3,40,43,95,113,251,Discharged,1
+HOSP-2-20240326-0295,PAT-01425,HOSP-2,Riverside Medical Center,Urban,2024-03-26 20:40:31,Tuesday,Spring,Afternoon,Medium,3,4,164,11,23,24,58,Admitted,3
+HOSP-1-20240514-0924,PAT-04606,HOSP-1,Springfield General Hospital,Urban,2024-05-14 01:34:06,Tuesday,Spring,Early Morning,Low,4,10,143,16,36,51,103,Admitted,1
+HOSP-3-20240408-0920,PAT-04596,HOSP-3,Northside Community Hospital,Rural,2024-04-08 21:48:36,Monday,Spring,Evening,Medium,3,0,45,21,23,90,134,Discharged,1
+HOSP-3-20240223-0155,PAT-00732,HOSP-3,Northside Community Hospital,Rural,2024-02-23 22:18:20,Friday,Winter,Night,Medium,4,2,32,28,46,79,153,Discharged,1
+HOSP-2-20240726-0257,PAT-01232,HOSP-2,Riverside Medical Center,Urban,2024-07-26 21:53:37,Friday,Summer,Afternoon,Medium,4,6,170,9,29,66,104,Admitted,1
+HOSP-2-20241018-0346,PAT-01635,HOSP-2,Riverside Medical Center,Urban,2024-10-18 23:04:24,Friday,Fall,Night,Low,5,10,167,23,42,66,131,Discharged,1
+HOSP-3-20240822-0780,PAT-03937,HOSP-3,Northside Community Hospital,Rural,2024-08-22 09:59:12,Thursday,Summer,Evening,Low,4,2,37,36,111,136,283,Left Without Being Seen,1
+HOSP-2-20240619-0254,PAT-01211,HOSP-2,Riverside Medical Center,Urban,2024-06-19 12:30:45,Wednesday,Summer,Early Morning,Low,4,6,189,22,41,74,137,Discharged,1
+HOSP-2-20240322-0656,PAT-03269,HOSP-2,Riverside Medical Center,Urban,2024-03-22 02:21:51,Friday,Spring,Early Morning,High,3,4,126,2,8,17,27,Admitted,4
+HOSP-4-20240723-0401,PAT-01935,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-23 11:06:02,Tuesday,Summer,Afternoon,Medium,4,2,37,17,17,59,93,Discharged,2
+HOSP-4-20240820-0097,PAT-00554,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-20 17:50:21,Tuesday,Summer,Early Morning,Low,5,1,18,19,35,63,117,Admitted,1
+HOSP-1-20240308-0123,PAT-00492,HOSP-1,Springfield General Hospital,Urban,2024-03-08 12:27:49,Friday,Spring,Evening,High,3,8,90,7,17,24,48,Admitted,3
+HOSP-3-20240509-0594,PAT-02963,HOSP-3,Northside Community Hospital,Rural,2024-05-09 13:43:16,Thursday,Spring,Afternoon,Critical,1,1,25,1,2,13,16,Discharged,4
+HOSP-4-20240723-0483,PAT-02330,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-23 23:49:25,Tuesday,Summer,Early Morning,Medium,3,2,25,13,20,45,78,Admitted,2
+HOSP-4-20240921-0457,PAT-02196,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-21 19:54:14,Saturday,Fall,Late Morning,High,3,0,27,3,5,14,22,Discharged,4
+HOSP-3-20241116-0619,PAT-03065,HOSP-3,Northside Community Hospital,Rural,2024-11-16 16:46:40,Saturday,Fall,Late Morning,Medium,3,3,36,7,13,37,57,Discharged,3
+HOSP-5-20241214-0117,PAT-00658,HOSP-5,Summit Health Center,Urban,2024-12-14 07:46:38,Saturday,Winter,Early Morning,Critical,2,1,125,1,3,8,12,Discharged,5
+HOSP-2-20240805-0485,PAT-02375,HOSP-2,Riverside Medical Center,Urban,2024-08-05 06:46:34,Monday,Summer,Afternoon,High,4,9,50,9,11,22,42,Discharged,4
+HOSP-5-20240515-0411,PAT-02226,HOSP-5,Summit Health Center,Urban,2024-05-15 08:00:27,Wednesday,Spring,Evening,High,4,4,121,5,8,20,33,Discharged,4
+HOSP-1-20240606-0867,PAT-04265,HOSP-1,Springfield General Hospital,Urban,2024-06-06 17:54:02,Thursday,Summer,Evening,Medium,3,4,114,8,32,34,74,Discharged,3
+HOSP-4-20240820-0225,PAT-01171,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-20 03:58:24,Tuesday,Summer,Night,High,4,1,42,6,8,23,37,Discharged,4
+HOSP-1-20241009-0035,PAT-00133,HOSP-1,Springfield General Hospital,Urban,2024-10-09 22:48:35,Wednesday,Fall,Evening,Low,4,4,93,21,45,82,148,Left Without Being Seen,1
+HOSP-1-20241030-0118,PAT-00472,HOSP-1,Springfield General Hospital,Urban,2024-10-30 02:28:17,Wednesday,Fall,Evening,Low,5,8,188,16,49,82,147,Discharged,1
+HOSP-1-20240109-0672,PAT-03226,HOSP-1,Springfield General Hospital,Urban,2024-01-09 04:07:10,Tuesday,Winter,Evening,Low,4,10,170,34,105,105,244,Discharged,1
+HOSP-3-20240715-0292,PAT-01406,HOSP-3,Northside Community Hospital,Rural,2024-07-15 01:05:06,Monday,Summer,Late Morning,High,4,0,10,5,15,41,61,Admitted,3
+HOSP-1-20240806-0604,PAT-02877,HOSP-1,Springfield General Hospital,Urban,2024-08-06 14:50:22,Tuesday,Summer,Evening,Medium,3,3,110,10,24,51,85,Admitted,2
+HOSP-2-20240317-0915,PAT-04505,HOSP-2,Riverside Medical Center,Urban,2024-03-17 01:31:07,Sunday,Spring,Evening,High,4,9,182,5,13,23,41,Admitted,4
+HOSP-5-20241011-0927,PAT-04693,HOSP-5,Summit Health Center,Urban,2024-10-11 21:25:28,Friday,Fall,Late Morning,High,3,10,88,5,6,11,22,Discharged,4
+HOSP-4-20240921-0567,PAT-02827,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-21 08:40:07,Saturday,Fall,Night,Critical,2,0,15,1,1,9,11,Discharged,4
+HOSP-4-20241229-0047,PAT-00288,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-29 13:52:07,Sunday,Winter,Evening,Medium,3,1,41,7,29,50,86,Admitted,2
+HOSP-3-20240103-0377,PAT-01870,HOSP-3,Northside Community Hospital,Rural,2024-01-03 05:37:54,Wednesday,Winter,Night,Critical,1,1,49,1,5,7,13,Admitted,4
+HOSP-4-20240118-0629,PAT-03115,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-18 03:15:54,Thursday,Winter,Evening,High,4,0,48,11,23,50,84,Admitted,3
+HOSP-5-20240718-0714,PAT-03626,HOSP-5,Summit Health Center,Urban,2024-07-18 02:06:38,Thursday,Summer,Late Morning,Critical,2,4,110,2,3,13,18,Discharged,4
+HOSP-4-20241203-0479,PAT-02313,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-03 07:27:56,Tuesday,Winter,Evening,Critical,2,0,13,1,3,19,23,Admitted,4
+HOSP-5-20240825-0972,PAT-04924,HOSP-5,Summit Health Center,Urban,2024-08-25 07:52:39,Sunday,Summer,Evening,High,4,9,106,7,11,38,56,Discharged,3
+HOSP-1-20240215-0341,PAT-01619,HOSP-1,Springfield General Hospital,Urban,2024-02-15 22:02:59,Thursday,Winter,Afternoon,Medium,3,1,191,14,31,72,117,Admitted,1
+HOSP-4-20240112-0192,PAT-00995,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-12 15:42:26,Friday,Winter,Evening,High,4,2,23,10,15,61,86,Admitted,2
+HOSP-3-20241017-0363,PAT-01804,HOSP-3,Northside Community Hospital,Rural,2024-10-17 04:13:42,Thursday,Fall,Afternoon,Medium,4,3,40,11,22,55,88,Discharged,2
+HOSP-5-20240207-0497,PAT-02643,HOSP-5,Summit Health Center,Urban,2024-02-07 12:21:24,Wednesday,Winter,Early Morning,High,4,6,115,4,6,23,33,Admitted,4
+HOSP-2-20240825-0980,PAT-04803,HOSP-2,Riverside Medical Center,Urban,2024-08-25 15:33:41,Sunday,Summer,Evening,Low,4,8,147,25,49,77,151,Discharged,1
+HOSP-4-20240630-0703,PAT-03536,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-30 01:17:04,Sunday,Summer,Afternoon,Medium,4,0,38,17,27,67,111,Admitted,1
+HOSP-5-20240229-0961,PAT-04832,HOSP-5,Summit Health Center,Urban,2024-02-29 23:00:13,Thursday,Winter,Evening,Low,5,4,124,31,113,161,305,Left Without Being Seen,1
+HOSP-1-20241020-0793,PAT-03912,HOSP-1,Springfield General Hospital,Urban,2024-10-20 12:28:54,Sunday,Fall,Late Morning,Medium,4,1,105,8,12,31,51,Admitted,3
+HOSP-4-20241017-0436,PAT-02108,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-17 16:14:55,Thursday,Fall,Night,Medium,4,3,28,13,16,31,60,Admitted,3
+HOSP-4-20241216-0614,PAT-03045,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-16 02:04:52,Monday,Winter,Evening,Critical,1,3,16,4,10,32,46,Admitted,4
+HOSP-1-20240902-0107,PAT-00417,HOSP-1,Springfield General Hospital,Urban,2024-09-02 22:38:27,Monday,Fall,Evening,High,4,3,60,6,19,29,54,Admitted,3
+HOSP-1-20241114-0220,PAT-00978,HOSP-1,Springfield General Hospital,Urban,2024-11-14 18:30:44,Thursday,Fall,Evening,Low,4,4,142,25,43,111,179,Discharged,1
+HOSP-4-20241008-0492,PAT-02418,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-08 14:23:31,Tuesday,Fall,Afternoon,High,3,2,10,3,9,10,22,Discharged,5
+HOSP-1-20241027-0127,PAT-00506,HOSP-1,Springfield General Hospital,Urban,2024-10-27 12:16:38,Sunday,Fall,Afternoon,Medium,4,9,168,10,27,40,77,Admitted,2
+HOSP-1-20240622-0841,PAT-04153,HOSP-1,Springfield General Hospital,Urban,2024-06-22 03:58:58,Saturday,Summer,Late Morning,Medium,3,4,196,10,17,31,58,Admitted,3
+HOSP-1-20240909-0865,PAT-04256,HOSP-1,Springfield General Hospital,Urban,2024-09-09 21:01:26,Monday,Fall,Evening,Critical,1,4,176,3,5,8,16,Admitted,4
+HOSP-1-20240318-0799,PAT-03942,HOSP-1,Springfield General Hospital,Urban,2024-03-18 10:26:53,Monday,Spring,Night,Low,5,2,88,20,35,106,161,Discharged,1
+HOSP-4-20240702-0072,PAT-00415,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-02 21:12:55,Tuesday,Summer,Evening,Low,4,1,12,24,100,98,222,Discharged,1
+HOSP-5-20240507-0820,PAT-04149,HOSP-5,Summit Health Center,Urban,2024-05-07 22:39:20,Tuesday,Spring,Afternoon,Low,5,4,186,19,52,66,137,Left Without Being Seen,1
+HOSP-2-20240415-0248,PAT-01184,HOSP-2,Riverside Medical Center,Urban,2024-04-15 09:16:18,Monday,Spring,Afternoon,Medium,4,1,65,23,32,63,118,Admitted,1
+HOSP-4-20241022-0085,PAT-00486,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-22 05:11:29,Tuesday,Fall,Evening,Low,5,3,24,31,62,112,205,Discharged,1
+HOSP-3-20241017-0190,PAT-00894,HOSP-3,Northside Community Hospital,Rural,2024-10-17 06:37:09,Thursday,Fall,Evening,Critical,1,3,25,2,3,9,14,Discharged,4
+HOSP-2-20241116-0146,PAT-00806,HOSP-2,Riverside Medical Center,Urban,2024-11-16 23:08:43,Saturday,Fall,Evening,Medium,4,1,181,17,22,58,97,Discharged,2
+HOSP-4-20241217-0098,PAT-00556,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-17 13:30:24,Tuesday,Winter,Evening,High,4,0,43,13,19,46,78,Admitted,3
+HOSP-2-20240506-0774,PAT-03826,HOSP-2,Riverside Medical Center,Urban,2024-05-06 21:14:40,Monday,Spring,Night,High,4,8,87,6,15,27,48,Discharged,3
+HOSP-1-20241117-0255,PAT-01198,HOSP-1,Springfield General Hospital,Urban,2024-11-17 15:09:26,Sunday,Fall,Evening,Critical,1,6,185,0,4,12,16,Discharged,5
+HOSP-5-20241223-0844,PAT-04254,HOSP-5,Summit Health Center,Urban,2024-12-23 17:03:23,Monday,Winter,Night,Medium,4,8,133,23,39,74,136,Discharged,1
+HOSP-4-20240410-0809,PAT-04059,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-10 08:46:42,Wednesday,Spring,Evening,Critical,2,3,22,3,3,22,28,Admitted,4
+HOSP-1-20241029-0270,PAT-01294,HOSP-1,Springfield General Hospital,Urban,2024-10-29 07:59:20,Tuesday,Fall,Afternoon,Medium,3,5,156,17,14,52,83,Discharged,3
+HOSP-3-20241125-0442,PAT-02222,HOSP-3,Northside Community Hospital,Rural,2024-11-25 02:54:38,Monday,Fall,Evening,Low,5,0,10,25,46,106,177,Discharged,1
+HOSP-1-20240116-0721,PAT-03505,HOSP-1,Springfield General Hospital,Urban,2024-01-16 16:00:44,Tuesday,Winter,Late Morning,Critical,2,10,144,1,4,21,26,Discharged,4
+HOSP-2-20240122-0743,PAT-03655,HOSP-2,Riverside Medical Center,Urban,2024-01-22 07:32:39,Monday,Winter,Afternoon,High,4,1,70,8,16,51,75,Admitted,2
+HOSP-1-20241105-0954,PAT-04759,HOSP-1,Springfield General Hospital,Urban,2024-11-05 02:24:38,Tuesday,Fall,Evening,High,4,8,142,8,13,24,45,Admitted,4
+HOSP-3-20240504-0608,PAT-03007,HOSP-3,Northside Community Hospital,Rural,2024-05-04 12:55:38,Saturday,Spring,Night,Medium,4,2,28,8,21,32,61,Admitted,3
+HOSP-5-20240622-0388,PAT-02094,HOSP-5,Summit Health Center,Urban,2024-06-22 07:08:25,Saturday,Summer,Afternoon,Critical,2,2,189,3,6,8,17,Discharged,4
+HOSP-2-20241115-0446,PAT-02188,HOSP-2,Riverside Medical Center,Urban,2024-11-15 06:19:16,Friday,Fall,Early Morning,Critical,2,10,184,2,1,6,9,Discharged,5
+HOSP-5-20240720-0572,PAT-03037,HOSP-5,Summit Health Center,Urban,2024-07-20 19:13:06,Saturday,Summer,Late Morning,Medium,3,1,56,8,24,42,74,Discharged,2
+HOSP-5-20240206-0775,PAT-03919,HOSP-5,Summit Health Center,Urban,2024-02-06 23:40:37,Tuesday,Winter,Evening,High,4,3,168,11,19,59,89,Admitted,2
+HOSP-5-20240829-0226,PAT-01273,HOSP-5,Summit Health Center,Urban,2024-08-29 20:53:15,Thursday,Summer,Afternoon,Critical,2,1,146,2,7,14,23,Discharged,4
+HOSP-4-20240611-0048,PAT-00291,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-11 00:22:16,Tuesday,Summer,Evening,Medium,4,3,37,14,43,80,137,Left Without Being Seen,1
+HOSP-2-20240111-0986,PAT-04828,HOSP-2,Riverside Medical Center,Urban,2024-01-11 09:58:29,Thursday,Winter,Late Morning,Low,5,1,50,30,79,107,216,Discharged,1
+HOSP-3-20240908-0048,PAT-00253,HOSP-3,Northside Community Hospital,Rural,2024-09-08 16:11:08,Sunday,Fall,Afternoon,Critical,1,1,31,0,2,5,7,Admitted,4
+HOSP-4-20240530-0657,PAT-03246,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-30 22:43:54,Thursday,Spring,Afternoon,High,3,2,27,5,8,18,31,Admitted,4
+HOSP-2-20241228-0072,PAT-00351,HOSP-2,Riverside Medical Center,Urban,2024-12-28 16:04:14,Saturday,Winter,Evening,Low,5,7,159,39,80,104,223,Discharged,1
+HOSP-5-20241104-0209,PAT-01188,HOSP-5,Summit Health Center,Urban,2024-11-04 20:02:20,Monday,Fall,Early Morning,High,4,10,66,4,9,22,35,Discharged,4
+HOSP-4-20241123-0410,PAT-01962,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-23 06:04:15,Saturday,Fall,Afternoon,Low,5,1,14,18,52,82,152,Discharged,1
+HOSP-4-20241007-0073,PAT-00423,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-07 06:58:55,Monday,Fall,Afternoon,Medium,4,1,19,13,25,31,69,Discharged,2
+HOSP-1-20240810-0027,PAT-00091,HOSP-1,Springfield General Hospital,Urban,2024-08-10 13:26:40,Saturday,Summer,Night,Medium,3,7,160,9,18,58,85,Admitted,2
+HOSP-1-20241027-0760,PAT-03730,HOSP-1,Springfield General Hospital,Urban,2024-10-27 16:46:35,Sunday,Fall,Early Morning,Low,4,9,150,13,30,33,76,Discharged,3
+HOSP-1-20240314-0454,PAT-02237,HOSP-1,Springfield General Hospital,Urban,2024-03-14 15:25:52,Thursday,Spring,Late Morning,Medium,3,8,176,12,12,25,49,Discharged,3
+HOSP-1-20240604-0162,PAT-00671,HOSP-1,Springfield General Hospital,Urban,2024-06-04 09:01:30,Tuesday,Summer,Evening,High,3,7,87,5,12,22,39,Discharged,4
+HOSP-4-20240617-0612,PAT-03041,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-17 22:59:24,Monday,Summer,Evening,Medium,3,1,39,30,37,89,156,Left Without Being Seen,1
+HOSP-4-20240830-0003,PAT-00027,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-30 04:38:06,Friday,Summer,Afternoon,High,4,3,15,5,17,19,41,Discharged,4
+HOSP-3-20240123-0092,PAT-00430,HOSP-3,Northside Community Hospital,Rural,2024-01-23 22:47:53,Tuesday,Winter,Evening,Critical,2,1,27,6,4,18,28,Discharged,4
+HOSP-4-20240913-0127,PAT-00684,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-13 21:12:58,Friday,Fall,Night,Medium,4,1,34,7,26,54,87,Admitted,3
+HOSP-3-20241030-0893,PAT-04464,HOSP-3,Northside Community Hospital,Rural,2024-10-30 18:08:44,Wednesday,Fall,Afternoon,Low,4,2,38,15,38,79,132,Left Without Being Seen,1
+HOSP-4-20240306-0783,PAT-03946,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-06 16:48:41,Wednesday,Spring,Evening,Critical,2,2,49,2,2,14,18,Admitted,5
+HOSP-2-20240811-0713,PAT-03524,HOSP-2,Riverside Medical Center,Urban,2024-08-11 01:40:17,Sunday,Summer,Evening,Critical,2,4,131,4,2,18,24,Discharged,5
+HOSP-5-20240127-0281,PAT-01542,HOSP-5,Summit Health Center,Urban,2024-01-27 15:24:38,Saturday,Winter,Evening,High,4,1,155,9,24,62,95,Discharged,2
+HOSP-5-20241225-0369,PAT-02032,HOSP-5,Summit Health Center,Urban,2024-12-25 20:42:35,Wednesday,Winter,Evening,High,3,3,160,6,13,39,58,Admitted,3
+HOSP-2-20240509-0456,PAT-02233,HOSP-2,Riverside Medical Center,Urban,2024-05-09 18:39:27,Thursday,Spring,Afternoon,High,4,2,124,6,12,38,56,Discharged,3
+HOSP-4-20241006-0824,PAT-04121,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-06 08:26:10,Sunday,Fall,Night,Low,5,2,33,10,37,45,92,Discharged,2
+HOSP-1-20241214-0674,PAT-03236,HOSP-1,Springfield General Hospital,Urban,2024-12-14 23:16:19,Saturday,Winter,Afternoon,Medium,4,8,140,14,27,49,90,Discharged,2
+HOSP-3-20240818-0049,PAT-00255,HOSP-3,Northside Community Hospital,Rural,2024-08-18 17:41:45,Sunday,Summer,Night,Medium,4,0,12,11,15,55,81,Admitted,2
+HOSP-5-20240316-0178,PAT-01030,HOSP-5,Summit Health Center,Urban,2024-03-16 08:52:12,Saturday,Spring,Late Morning,Critical,2,8,120,2,2,11,15,Discharged,5
+HOSP-2-20240429-0891,PAT-04393,HOSP-2,Riverside Medical Center,Urban,2024-04-29 23:38:49,Monday,Spring,Night,Medium,3,7,127,7,32,65,104,Discharged,1
+HOSP-1-20241124-0774,PAT-03801,HOSP-1,Springfield General Hospital,Urban,2024-11-24 17:13:50,Sunday,Fall,Evening,Medium,4,5,97,15,14,36,65,Discharged,2
+HOSP-2-20241117-0874,PAT-04311,HOSP-2,Riverside Medical Center,Urban,2024-11-17 12:48:08,Sunday,Fall,Early Morning,High,4,10,162,3,3,8,14,Discharged,4
+HOSP-5-20240226-0466,PAT-02510,HOSP-5,Summit Health Center,Urban,2024-02-26 21:56:37,Monday,Winter,Afternoon,Critical,2,8,114,4,9,26,39,Admitted,3
+HOSP-4-20240818-0478,PAT-02293,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-18 20:37:35,Sunday,Summer,Late Morning,Low,4,1,43,14,51,70,135,Discharged,1
+HOSP-1-20240601-0279,PAT-01324,HOSP-1,Springfield General Hospital,Urban,2024-06-01 08:29:10,Saturday,Summer,Afternoon,Critical,1,3,81,3,3,16,22,Admitted,4
+HOSP-3-20240818-0320,PAT-01551,HOSP-3,Northside Community Hospital,Rural,2024-08-18 04:59:31,Sunday,Summer,Evening,Medium,4,3,42,21,38,73,132,Discharged,1
+HOSP-2-20240513-0945,PAT-04648,HOSP-2,Riverside Medical Center,Urban,2024-05-13 17:16:34,Monday,Spring,Afternoon,Critical,2,4,105,3,6,20,29,Admitted,4
+HOSP-2-20240430-0061,PAT-00316,HOSP-2,Riverside Medical Center,Urban,2024-04-30 03:52:54,Tuesday,Spring,Evening,High,4,4,111,8,17,24,49,Discharged,3
+HOSP-5-20240917-0218,PAT-01243,HOSP-5,Summit Health Center,Urban,2024-09-17 00:13:36,Tuesday,Fall,Afternoon,Low,5,9,117,12,27,74,113,Discharged,1
+HOSP-2-20240929-0500,PAT-02451,HOSP-2,Riverside Medical Center,Urban,2024-09-29 21:29:53,Sunday,Fall,Evening,High,3,1,81,5,9,21,35,Discharged,4
+HOSP-3-20240729-0322,PAT-01579,HOSP-3,Northside Community Hospital,Rural,2024-07-29 05:46:00,Monday,Summer,Early Morning,High,3,0,32,5,12,20,37,Discharged,4
+HOSP-5-20240121-0916,PAT-04626,HOSP-5,Summit Health Center,Urban,2024-01-21 11:25:33,Sunday,Winter,Afternoon,High,3,4,114,7,7,35,49,Discharged,3
+HOSP-3-20240101-0625,PAT-03117,HOSP-3,Northside Community Hospital,Rural,2024-01-01 17:08:15,Monday,Winter,Late Morning,High,3,2,18,8,15,44,67,Admitted,3
+HOSP-4-20241104-0013,PAT-00070,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-04 22:04:54,Monday,Fall,Afternoon,Medium,4,2,49,15,38,76,129,Discharged,1
+HOSP-3-20240320-0183,PAT-00860,HOSP-3,Northside Community Hospital,Rural,2024-03-20 22:41:38,Wednesday,Spring,Late Morning,Low,5,0,41,25,61,61,147,Discharged,1
+HOSP-4-20241110-0550,PAT-02754,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-10 20:56:15,Sunday,Fall,Night,Medium,4,0,13,11,22,44,77,Discharged,3
+HOSP-3-20240928-0332,PAT-01633,HOSP-3,Northside Community Hospital,Rural,2024-09-28 11:37:06,Saturday,Fall,Night,High,3,0,22,2,7,18,27,Discharged,4
+HOSP-5-20241110-0294,PAT-01651,HOSP-5,Summit Health Center,Urban,2024-11-10 22:26:47,Sunday,Fall,Evening,Medium,4,7,171,14,24,42,80,Admitted,2
+HOSP-2-20241030-0785,PAT-03861,HOSP-2,Riverside Medical Center,Urban,2024-10-30 12:44:23,Wednesday,Fall,Evening,High,4,4,84,8,12,38,58,Admitted,3
+HOSP-1-20240226-0644,PAT-03107,HOSP-1,Springfield General Hospital,Urban,2024-02-26 11:30:11,Monday,Winter,Afternoon,Critical,2,10,139,4,8,10,22,Admitted,4
+HOSP-3-20240519-0224,PAT-01075,HOSP-3,Northside Community Hospital,Rural,2024-05-19 17:36:20,Sunday,Spring,Evening,Medium,4,2,12,14,29,63,106,Discharged,1
+HOSP-2-20241124-0810,PAT-04002,HOSP-2,Riverside Medical Center,Urban,2024-11-24 18:38:11,Sunday,Fall,Late Morning,High,4,8,79,2,6,11,19,Admitted,4
+HOSP-1-20240309-0181,PAT-00788,HOSP-1,Springfield General Hospital,Urban,2024-03-09 12:24:17,Saturday,Spring,Evening,Low,4,10,53,15,72,87,174,Discharged,1
+HOSP-5-20240402-0486,PAT-02606,HOSP-5,Summit Health Center,Urban,2024-04-02 19:59:18,Tuesday,Spring,Evening,High,3,10,126,5,7,23,35,Admitted,4
+HOSP-5-20241124-0715,PAT-03631,HOSP-5,Summit Health Center,Urban,2024-11-24 04:44:19,Sunday,Fall,Evening,High,4,3,76,4,7,12,23,Discharged,5
+HOSP-3-20240228-0419,PAT-02122,HOSP-3,Northside Community Hospital,Rural,2024-02-28 10:20:00,Wednesday,Winter,Early Morning,Medium,4,2,42,9,22,47,78,Admitted,3
+HOSP-3-20240523-0378,PAT-01875,HOSP-3,Northside Community Hospital,Rural,2024-05-23 08:47:30,Thursday,Spring,Evening,High,3,3,30,4,12,26,42,Discharged,3
+HOSP-2-20241124-0149,PAT-00812,HOSP-2,Riverside Medical Center,Urban,2024-11-24 02:36:27,Sunday,Fall,Late Morning,Medium,4,9,120,13,15,34,62,Admitted,3
+HOSP-3-20240715-0078,PAT-00388,HOSP-3,Northside Community Hospital,Rural,2024-07-15 16:13:14,Monday,Summer,Evening,Low,4,1,41,55,98,141,294,Left Without Being Seen,1
+HOSP-4-20240126-0581,PAT-02883,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-26 09:18:27,Friday,Winter,Afternoon,Medium,4,0,24,29,41,77,147,Discharged,1
+HOSP-2-20240709-0246,PAT-01176,HOSP-2,Riverside Medical Center,Urban,2024-07-09 06:43:02,Tuesday,Summer,Evening,Medium,4,10,50,18,33,65,116,Discharged,1
+HOSP-5-20240914-0607,PAT-03198,HOSP-5,Summit Health Center,Urban,2024-09-14 06:48:01,Saturday,Fall,Afternoon,Critical,1,8,89,2,3,6,11,Discharged,5
+HOSP-2-20240520-0538,PAT-02624,HOSP-2,Riverside Medical Center,Urban,2024-05-20 18:39:19,Monday,Spring,Afternoon,Critical,2,6,63,3,8,10,21,Discharged,4
+HOSP-3-20240926-0279,PAT-01352,HOSP-3,Northside Community Hospital,Rural,2024-09-26 13:01:20,Thursday,Fall,Late Morning,Low,5,1,44,23,55,68,146,Discharged,1
+HOSP-4-20240207-0071,PAT-00411,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-07 07:43:12,Wednesday,Winter,Early Morning,Critical,1,3,12,2,1,12,15,Discharged,4
+HOSP-2-20241001-0851,PAT-04213,HOSP-2,Riverside Medical Center,Urban,2024-10-01 19:27:18,Tuesday,Fall,Afternoon,High,3,3,146,4,7,14,25,Discharged,4
+HOSP-3-20240711-0021,PAT-00110,HOSP-3,Northside Community Hospital,Rural,2024-07-11 02:21:46,Thursday,Summer,Evening,Medium,3,1,45,19,26,54,99,Admitted,1
+HOSP-5-20241212-0989,PAT-04996,HOSP-5,Summit Health Center,Urban,2024-12-12 04:29:36,Thursday,Winter,Evening,Critical,2,1,142,6,10,19,35,Discharged,3
+HOSP-1-20241025-0707,PAT-03430,HOSP-1,Springfield General Hospital,Urban,2024-10-25 14:39:23,Friday,Fall,Afternoon,Medium,4,8,164,9,29,61,99,Discharged,1
+HOSP-3-20241103-0570,PAT-02810,HOSP-3,Northside Community Hospital,Rural,2024-11-03 13:38:07,Sunday,Fall,Evening,High,3,0,49,4,10,20,34,Admitted,4
+HOSP-2-20241022-0530,PAT-02595,HOSP-2,Riverside Medical Center,Urban,2024-10-22 05:00:21,Tuesday,Fall,Night,Medium,3,8,176,7,20,45,72,Admitted,2
+HOSP-2-20240723-0573,PAT-02837,HOSP-2,Riverside Medical Center,Urban,2024-07-23 06:45:41,Tuesday,Summer,Afternoon,Low,4,5,96,29,83,108,220,Discharged,1
+HOSP-2-20240208-0484,PAT-02373,HOSP-2,Riverside Medical Center,Urban,2024-02-08 06:15:22,Thursday,Winter,Evening,Critical,1,4,108,5,5,15,25,Admitted,4
+HOSP-3-20240122-0259,PAT-01236,HOSP-3,Northside Community Hospital,Rural,2024-01-22 21:12:19,Monday,Winter,Early Morning,Medium,4,1,48,13,29,58,100,Admitted,1
+HOSP-1-20240622-0440,PAT-02147,HOSP-1,Springfield General Hospital,Urban,2024-06-22 17:30:35,Saturday,Summer,Late Morning,Medium,4,7,117,11,16,68,95,Admitted,2
+HOSP-1-20240202-0990,PAT-04976,HOSP-1,Springfield General Hospital,Urban,2024-02-02 21:43:07,Friday,Winter,Night,Critical,1,10,72,3,3,13,19,Admitted,4
+HOSP-3-20240517-0127,PAT-00600,HOSP-3,Northside Community Hospital,Rural,2024-05-17 03:06:14,Friday,Spring,Evening,Critical,2,3,35,1,7,24,32,Discharged,4
+HOSP-2-20241029-0298,PAT-01435,HOSP-2,Riverside Medical Center,Urban,2024-10-29 22:20:05,Tuesday,Fall,Afternoon,Low,4,2,129,17,53,47,117,Admitted,1
+HOSP-4-20240630-0995,PAT-04997,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-30 22:44:17,Sunday,Summer,Evening,Medium,4,0,19,7,23,40,70,Discharged,3
+HOSP-2-20240827-0108,PAT-00539,HOSP-2,Riverside Medical Center,Urban,2024-08-27 00:24:03,Tuesday,Summer,Early Morning,High,4,6,81,5,11,18,34,Discharged,4
+HOSP-4-20240208-0137,PAT-00722,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-08 13:08:42,Thursday,Winter,Night,Medium,4,3,22,19,39,91,149,Left Without Being Seen,1
+HOSP-5-20240404-0870,PAT-04411,HOSP-5,Summit Health Center,Urban,2024-04-04 10:26:59,Thursday,Spring,Evening,High,3,3,103,5,11,20,36,Admitted,4
+HOSP-1-20240124-0383,PAT-01873,HOSP-1,Springfield General Hospital,Urban,2024-01-24 16:42:07,Wednesday,Winter,Afternoon,Medium,3,2,97,20,29,40,89,Discharged,2
+HOSP-1-20240913-0595,PAT-02846,HOSP-1,Springfield General Hospital,Urban,2024-09-13 22:07:32,Friday,Fall,Evening,High,4,7,119,7,9,41,57,Admitted,3
+HOSP-5-20240216-0375,PAT-02054,HOSP-5,Summit Health Center,Urban,2024-02-16 15:47:17,Friday,Winter,Night,Critical,1,6,175,1,2,7,10,Discharged,4
+HOSP-4-20241114-0583,PAT-02908,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-14 16:45:18,Thursday,Fall,Afternoon,Low,5,1,15,23,53,63,139,Discharged,1
+HOSP-1-20240505-0461,PAT-02255,HOSP-1,Springfield General Hospital,Urban,2024-05-05 07:15:47,Sunday,Spring,Early Morning,Critical,1,3,147,1,1,3,5,Admitted,5
+HOSP-2-20240120-0796,PAT-03913,HOSP-2,Riverside Medical Center,Urban,2024-01-20 18:07:03,Saturday,Winter,Evening,Medium,4,10,185,27,29,73,129,Left Without Being Seen,1
+HOSP-1-20240507-0048,PAT-00178,HOSP-1,Springfield General Hospital,Urban,2024-05-07 22:26:35,Tuesday,Spring,Afternoon,High,3,1,197,3,7,19,29,Admitted,4
+HOSP-3-20241225-0583,PAT-02891,HOSP-3,Northside Community Hospital,Rural,2024-12-25 04:00:09,Wednesday,Winter,Late Morning,Critical,1,3,35,1,4,12,17,Admitted,4
+HOSP-3-20240614-0729,PAT-03674,HOSP-3,Northside Community Hospital,Rural,2024-06-14 19:05:14,Friday,Summer,Afternoon,High,4,1,15,6,10,32,48,Admitted,4
+HOSP-5-20240423-0014,PAT-00081,HOSP-5,Summit Health Center,Urban,2024-04-23 18:18:14,Tuesday,Spring,Evening,Low,5,1,86,35,95,123,253,Left Without Being Seen,1
+HOSP-3-20240427-0526,PAT-02562,HOSP-3,Northside Community Hospital,Rural,2024-04-27 19:05:04,Saturday,Spring,Evening,Medium,3,3,24,18,21,26,65,Admitted,3
+HOSP-4-20240301-0349,PAT-01724,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-01 13:57:34,Friday,Spring,Early Morning,Medium,3,0,16,10,17,36,63,Admitted,3
+HOSP-4-20240722-0319,PAT-01618,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-22 16:58:04,Monday,Summer,Evening,High,4,2,39,7,12,25,44,Admitted,3
+HOSP-5-20240603-0295,PAT-01655,HOSP-5,Summit Health Center,Urban,2024-06-03 07:19:42,Monday,Summer,Late Morning,Critical,2,7,121,4,4,11,19,Discharged,4
+HOSP-3-20240103-0469,PAT-02329,HOSP-3,Northside Community Hospital,Rural,2024-01-03 17:37:53,Wednesday,Winter,Evening,Low,5,0,12,23,77,162,262,Discharged,1
+HOSP-3-20240127-0926,PAT-04614,HOSP-3,Northside Community Hospital,Rural,2024-01-27 03:01:44,Saturday,Winter,Evening,Critical,1,2,26,2,2,12,16,Discharged,4
+HOSP-1-20240219-0060,PAT-00222,HOSP-1,Springfield General Hospital,Urban,2024-02-19 11:38:00,Monday,Winter,Afternoon,Medium,4,3,103,31,26,120,177,Discharged,1
+HOSP-3-20241029-0018,PAT-00094,HOSP-3,Northside Community Hospital,Rural,2024-10-29 19:42:16,Tuesday,Fall,Afternoon,Low,4,0,35,19,59,62,140,Discharged,1
+HOSP-3-20240905-0533,PAT-02610,HOSP-3,Northside Community Hospital,Rural,2024-09-05 11:44:49,Thursday,Fall,Late Morning,Medium,4,2,15,9,28,37,74,Discharged,3
+HOSP-3-20240701-0678,PAT-03383,HOSP-3,Northside Community Hospital,Rural,2024-07-01 21:34:41,Monday,Summer,Afternoon,Low,5,1,38,43,83,89,215,Discharged,1
+HOSP-3-20241207-0881,PAT-04416,HOSP-3,Northside Community Hospital,Rural,2024-12-07 01:21:07,Saturday,Winter,Early Morning,Critical,2,3,10,1,4,9,14,Admitted,4
+HOSP-2-20241104-0288,PAT-01398,HOSP-2,Riverside Medical Center,Urban,2024-11-04 20:59:36,Monday,Fall,Early Morning,Low,4,6,87,19,33,62,114,Discharged,1
+HOSP-5-20240511-0926,PAT-04687,HOSP-5,Summit Health Center,Urban,2024-05-11 00:50:21,Saturday,Spring,Afternoon,Low,4,3,161,14,53,58,125,Left Without Being Seen,1
+HOSP-4-20240219-0256,PAT-01293,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-19 10:25:27,Monday,Winter,Afternoon,Low,4,1,21,48,121,113,282,Left Without Being Seen,1
+HOSP-3-20240518-0429,PAT-02165,HOSP-3,Northside Community Hospital,Rural,2024-05-18 20:53:24,Saturday,Spring,Night,Low,4,3,21,22,33,65,120,Admitted,1
+HOSP-1-20241010-0619,PAT-02940,HOSP-1,Springfield General Hospital,Urban,2024-10-10 05:41:31,Thursday,Fall,Late Morning,Low,5,3,94,18,41,69,128,Discharged,1
+HOSP-1-20241111-0746,PAT-03669,HOSP-1,Springfield General Hospital,Urban,2024-11-11 03:14:55,Monday,Fall,Afternoon,High,4,8,123,4,7,28,39,Discharged,4
+HOSP-3-20241021-0172,PAT-00813,HOSP-3,Northside Community Hospital,Rural,2024-10-21 18:34:06,Monday,Fall,Night,Medium,3,3,36,14,18,45,77,Discharged,3
+HOSP-4-20240825-0248,PAT-01259,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-25 14:35:10,Sunday,Summer,Evening,Low,4,2,32,19,88,79,186,Left Without Being Seen,1
+HOSP-4-20240613-0170,PAT-00890,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-13 11:25:35,Thursday,Summer,Afternoon,Low,4,1,36,30,77,87,194,Discharged,1
+HOSP-1-20241010-0304,PAT-01452,HOSP-1,Springfield General Hospital,Urban,2024-10-10 09:06:19,Thursday,Fall,Late Morning,Medium,3,10,187,8,8,17,33,Discharged,4
+HOSP-2-20241204-0670,PAT-03317,HOSP-2,Riverside Medical Center,Urban,2024-12-04 19:40:24,Wednesday,Winter,Night,High,3,8,151,6,12,24,42,Discharged,3
+HOSP-1-20240824-0530,PAT-02560,HOSP-1,Springfield General Hospital,Urban,2024-08-24 22:43:29,Saturday,Summer,Late Morning,Low,5,3,184,15,57,48,120,Discharged,1
+HOSP-3-20240719-0711,PAT-03575,HOSP-3,Northside Community Hospital,Rural,2024-07-19 05:39:33,Friday,Summer,Evening,Medium,3,0,23,22,26,76,124,Discharged,1
+HOSP-2-20240203-0548,PAT-02681,HOSP-2,Riverside Medical Center,Urban,2024-02-03 00:40:48,Saturday,Winter,Afternoon,High,4,9,129,4,16,36,56,Admitted,3
+HOSP-4-20241010-0918,PAT-04652,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-10 15:11:20,Thursday,Fall,Afternoon,Low,5,1,12,16,33,82,131,Discharged,1
+HOSP-2-20241101-0983,PAT-04812,HOSP-2,Riverside Medical Center,Urban,2024-11-01 09:59:11,Friday,Fall,Early Morning,Critical,2,9,82,1,1,7,9,Discharged,5
+HOSP-3-20240427-0938,PAT-04680,HOSP-3,Northside Community Hospital,Rural,2024-04-27 13:39:34,Saturday,Spring,Afternoon,Critical,1,3,38,2,3,11,16,Admitted,4
+HOSP-3-20241102-0595,PAT-02965,HOSP-3,Northside Community Hospital,Rural,2024-11-02 03:36:39,Saturday,Fall,Late Morning,Low,5,1,44,18,26,49,93,Discharged,2
+HOSP-2-20240903-0546,PAT-02673,HOSP-2,Riverside Medical Center,Urban,2024-09-03 00:18:33,Tuesday,Fall,Afternoon,Medium,4,3,97,10,30,38,78,Admitted,2
+HOSP-5-20240512-0094,PAT-00562,HOSP-5,Summit Health Center,Urban,2024-05-12 10:18:59,Sunday,Spring,Evening,Critical,2,8,151,1,2,16,19,Discharged,4
+HOSP-3-20240305-0564,PAT-02779,HOSP-3,Northside Community Hospital,Rural,2024-03-05 06:26:57,Tuesday,Spring,Night,Low,5,3,20,13,57,78,148,Discharged,1
+HOSP-2-20241117-0593,PAT-02949,HOSP-2,Riverside Medical Center,Urban,2024-11-17 14:26:56,Sunday,Fall,Late Morning,Medium,3,10,151,6,9,19,34,Discharged,4
+HOSP-1-20240310-0585,PAT-02818,HOSP-1,Springfield General Hospital,Urban,2024-03-10 08:00:28,Sunday,Spring,Afternoon,Critical,1,8,107,2,3,7,12,Admitted,5
+HOSP-2-20240902-0557,PAT-02759,HOSP-2,Riverside Medical Center,Urban,2024-09-02 15:48:03,Monday,Fall,Early Morning,Medium,3,10,138,5,9,31,45,Discharged,4
+HOSP-1-20240123-0360,PAT-01757,HOSP-1,Springfield General Hospital,Urban,2024-01-23 16:55:25,Tuesday,Winter,Afternoon,Critical,1,2,112,2,7,16,25,Admitted,5
+HOSP-5-20240615-0127,PAT-00725,HOSP-5,Summit Health Center,Urban,2024-06-15 03:20:38,Saturday,Summer,Night,Medium,4,5,79,19,15,44,78,Discharged,2
+HOSP-2-20240402-0043,PAT-00220,HOSP-2,Riverside Medical Center,Urban,2024-04-02 14:26:01,Tuesday,Spring,Evening,High,4,1,198,8,14,37,59,Discharged,3
+HOSP-3-20241018-0816,PAT-04140,HOSP-3,Northside Community Hospital,Rural,2024-10-18 09:12:00,Friday,Fall,Evening,Critical,2,2,44,1,6,21,28,Discharged,4
+HOSP-3-20240428-0782,PAT-03958,HOSP-3,Northside Community Hospital,Rural,2024-04-28 21:31:53,Sunday,Spring,Afternoon,Low,4,0,15,16,62,86,164,Discharged,1
+HOSP-2-20241220-0336,PAT-01589,HOSP-2,Riverside Medical Center,Urban,2024-12-20 18:41:28,Friday,Winter,Evening,Medium,4,2,84,15,42,71,128,Left Without Being Seen,1
+HOSP-4-20240219-0682,PAT-03348,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-19 02:03:06,Monday,Winter,Late Morning,High,3,1,35,5,9,28,42,Admitted,3
+HOSP-4-20240419-0792,PAT-03971,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-19 00:01:04,Friday,Spring,Evening,High,4,1,21,5,13,39,57,Discharged,3
+HOSP-3-20240216-0944,PAT-04708,HOSP-3,Northside Community Hospital,Rural,2024-02-16 07:01:43,Friday,Winter,Afternoon,Medium,4,1,18,18,56,54,128,Discharged,1
+HOSP-3-20240526-0008,PAT-00044,HOSP-3,Northside Community Hospital,Rural,2024-05-26 06:14:30,Sunday,Spring,Afternoon,Medium,4,1,16,5,21,41,67,Discharged,3
+HOSP-1-20240806-0628,PAT-03002,HOSP-1,Springfield General Hospital,Urban,2024-08-06 21:31:50,Tuesday,Summer,Early Morning,Low,4,4,86,11,51,49,111,Discharged,1
+HOSP-4-20240406-0037,PAT-00211,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-06 01:20:23,Saturday,Spring,Night,Low,4,0,28,19,54,48,121,Discharged,1
+HOSP-4-20240609-0124,PAT-00678,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-09 14:29:53,Sunday,Summer,Afternoon,Critical,2,2,22,3,5,18,26,Discharged,4
+HOSP-4-20240401-0062,PAT-00355,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-01 02:28:31,Monday,Spring,Evening,Low,4,3,31,28,49,165,242,Discharged,1
+HOSP-4-20241229-0281,PAT-01434,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-29 23:49:52,Sunday,Winter,Afternoon,Low,4,3,21,25,83,80,188,Discharged,1
+HOSP-4-20240215-0186,PAT-00950,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-15 13:13:41,Thursday,Winter,Evening,Low,4,1,10,25,88,157,270,Discharged,1
+HOSP-4-20241130-0572,PAT-02844,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-30 23:45:36,Saturday,Fall,Afternoon,Low,4,3,46,18,50,79,147,Left Without Being Seen,1
+HOSP-1-20240929-0145,PAT-00578,HOSP-1,Springfield General Hospital,Urban,2024-09-29 05:32:26,Sunday,Fall,Afternoon,Low,4,5,73,13,28,47,88,Admitted,2
+HOSP-1-20240406-0795,PAT-03929,HOSP-1,Springfield General Hospital,Urban,2024-04-06 20:23:30,Saturday,Spring,Afternoon,Low,4,2,75,15,51,84,150,Discharged,1
+HOSP-1-20240912-0131,PAT-00545,HOSP-1,Springfield General Hospital,Urban,2024-09-12 17:26:26,Thursday,Fall,Evening,Medium,3,1,90,6,24,38,68,Discharged,2
+HOSP-2-20240226-0076,PAT-00368,HOSP-2,Riverside Medical Center,Urban,2024-02-26 12:55:29,Monday,Winter,Late Morning,Medium,3,6,130,15,21,88,124,Discharged,1
+HOSP-2-20241221-0340,PAT-01613,HOSP-2,Riverside Medical Center,Urban,2024-12-21 17:03:48,Saturday,Winter,Afternoon,Medium,3,5,192,15,32,31,78,Admitted,3
+HOSP-5-20240822-0691,PAT-03551,HOSP-5,Summit Health Center,Urban,2024-08-22 09:17:53,Thursday,Summer,Evening,Medium,4,9,126,30,46,100,176,Discharged,1
+HOSP-5-20240511-0734,PAT-03717,HOSP-5,Summit Health Center,Urban,2024-05-11 03:39:53,Saturday,Spring,Afternoon,Critical,2,7,73,2,4,12,18,Admitted,4
+HOSP-4-20240509-0753,PAT-03780,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-09 07:43:52,Thursday,Spring,Afternoon,High,3,0,40,6,11,16,33,Discharged,4
+HOSP-5-20240621-0028,PAT-00136,HOSP-5,Summit Health Center,Urban,2024-06-21 07:06:01,Friday,Summer,Afternoon,Medium,4,2,93,15,33,85,133,Left Without Being Seen,1
+HOSP-4-20241119-0891,PAT-04481,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-19 23:58:47,Tuesday,Fall,Late Morning,Medium,3,3,25,8,10,26,44,Discharged,3
+HOSP-5-20240205-0259,PAT-01438,HOSP-5,Summit Health Center,Urban,2024-02-05 16:49:42,Monday,Winter,Early Morning,Medium,4,7,114,17,18,48,83,Discharged,2
+HOSP-5-20240603-0006,PAT-00048,HOSP-5,Summit Health Center,Urban,2024-06-03 16:01:42,Monday,Summer,Evening,High,4,1,193,11,25,34,70,Admitted,2
+HOSP-1-20240207-0287,PAT-01361,HOSP-1,Springfield General Hospital,Urban,2024-02-07 23:22:32,Wednesday,Winter,Afternoon,Critical,2,1,170,1,3,15,19,Admitted,4
+HOSP-3-20240730-0156,PAT-00735,HOSP-3,Northside Community Hospital,Rural,2024-07-30 14:53:54,Tuesday,Summer,Afternoon,Low,4,0,21,24,80,95,199,Left Without Being Seen,1
+HOSP-2-20240225-0321,PAT-01535,HOSP-2,Riverside Medical Center,Urban,2024-02-25 06:11:28,Sunday,Winter,Evening,High,4,10,96,6,10,36,52,Discharged,3
+HOSP-1-20240709-0410,PAT-02005,HOSP-1,Springfield General Hospital,Urban,2024-07-09 18:13:14,Tuesday,Summer,Evening,Medium,3,1,76,23,20,69,112,Discharged,2
+HOSP-2-20240514-0770,PAT-03796,HOSP-2,Riverside Medical Center,Urban,2024-05-14 12:35:06,Tuesday,Spring,Evening,Critical,2,5,55,1,2,14,17,Discharged,4
+HOSP-1-20240308-0521,PAT-02520,HOSP-1,Springfield General Hospital,Urban,2024-03-08 12:33:41,Friday,Spring,Night,Medium,3,1,125,5,20,44,69,Admitted,3
+HOSP-5-20240621-0353,PAT-01973,HOSP-5,Summit Health Center,Urban,2024-06-21 18:37:32,Friday,Summer,Afternoon,Critical,2,6,117,1,5,20,26,Admitted,4
+HOSP-2-20241108-0196,PAT-00997,HOSP-2,Riverside Medical Center,Urban,2024-11-08 12:13:20,Friday,Fall,Afternoon,Medium,4,10,185,8,24,67,99,Admitted,2
+HOSP-5-20240830-0009,PAT-00062,HOSP-5,Summit Health Center,Urban,2024-08-30 07:34:15,Friday,Summer,Early Morning,High,3,1,141,3,10,28,41,Admitted,4
+HOSP-5-20240820-0193,PAT-01109,HOSP-5,Summit Health Center,Urban,2024-08-20 14:42:00,Tuesday,Summer,Evening,Medium,3,7,148,16,29,40,85,Admitted,2
+HOSP-3-20241122-0486,PAT-02406,HOSP-3,Northside Community Hospital,Rural,2024-11-22 03:45:09,Friday,Fall,Night,High,3,0,27,5,7,17,29,Admitted,4
+HOSP-4-20240803-0018,PAT-00096,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-03 01:41:54,Saturday,Summer,Afternoon,Medium,3,1,32,7,20,34,61,Admitted,3
+HOSP-1-20240206-0120,PAT-00479,HOSP-1,Springfield General Hospital,Urban,2024-02-06 18:15:18,Tuesday,Winter,Night,Critical,2,5,138,3,4,20,27,Admitted,4
+HOSP-3-20240907-0867,PAT-04360,HOSP-3,Northside Community Hospital,Rural,2024-09-07 21:25:08,Saturday,Fall,Late Morning,Low,5,1,20,13,40,47,100,Admitted,2
+HOSP-2-20240426-0837,PAT-04113,HOSP-2,Riverside Medical Center,Urban,2024-04-26 00:13:53,Friday,Spring,Night,High,4,7,64,7,11,19,37,Discharged,3
+HOSP-4-20241108-0740,PAT-03708,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-08 15:05:10,Friday,Fall,Afternoon,Critical,1,3,15,1,1,9,11,Discharged,5
+HOSP-2-20240322-0226,PAT-01102,HOSP-2,Riverside Medical Center,Urban,2024-03-22 13:25:03,Friday,Spring,Afternoon,Critical,1,2,116,3,4,12,19,Admitted,5
+HOSP-4-20240724-0549,PAT-02747,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-24 18:25:22,Wednesday,Summer,Late Morning,Medium,3,0,38,12,17,38,67,Discharged,3
+HOSP-2-20240327-0443,PAT-02171,HOSP-2,Riverside Medical Center,Urban,2024-03-27 22:14:17,Wednesday,Spring,Evening,Medium,4,4,89,11,40,40,91,Discharged,2
+HOSP-3-20240517-0068,PAT-00323,HOSP-3,Northside Community Hospital,Rural,2024-05-17 08:50:31,Friday,Spring,Afternoon,Low,5,2,38,20,34,71,125,Left Without Being Seen,1
+HOSP-4-20240201-0851,PAT-04255,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-01 00:37:47,Thursday,Winter,Early Morning,Critical,1,2,45,1,2,12,15,Admitted,5
+HOSP-1-20240121-0653,PAT-03143,HOSP-1,Springfield General Hospital,Urban,2024-01-21 09:46:38,Sunday,Winter,Late Morning,Critical,2,6,63,2,5,9,16,Admitted,4
+HOSP-5-20240304-0686,PAT-03538,HOSP-5,Summit Health Center,Urban,2024-03-04 18:50:06,Monday,Spring,Late Morning,High,3,8,132,5,7,13,25,Discharged,4
+HOSP-3-20240708-0984,PAT-04926,HOSP-3,Northside Community Hospital,Rural,2024-07-08 01:19:01,Monday,Summer,Late Morning,Medium,3,0,47,8,30,36,74,Admitted,2
+HOSP-2-20240321-0589,PAT-02925,HOSP-2,Riverside Medical Center,Urban,2024-03-21 22:23:11,Thursday,Spring,Evening,Low,5,7,129,32,59,97,188,Left Without Being Seen,1
+HOSP-3-20240916-0243,PAT-01150,HOSP-3,Northside Community Hospital,Rural,2024-09-16 13:21:11,Monday,Fall,Late Morning,High,4,0,18,6,6,25,37,Admitted,3
+HOSP-5-20240423-0712,PAT-03618,HOSP-5,Summit Health Center,Urban,2024-04-23 18:15:38,Tuesday,Spring,Evening,Medium,3,6,94,23,29,52,104,Discharged,1
+HOSP-2-20240402-0059,PAT-00292,HOSP-2,Riverside Medical Center,Urban,2024-04-02 00:56:22,Tuesday,Spring,Evening,Medium,3,7,192,9,23,58,90,Discharged,2
+HOSP-2-20240913-0762,PAT-03750,HOSP-2,Riverside Medical Center,Urban,2024-09-13 10:34:01,Friday,Fall,Evening,Medium,3,6,83,15,30,70,115,Discharged,1
+HOSP-4-20240424-0712,PAT-03587,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-24 00:01:54,Wednesday,Spring,Night,Low,5,2,28,24,47,50,121,Discharged,1
+HOSP-3-20240517-0117,PAT-00534,HOSP-3,Northside Community Hospital,Rural,2024-05-17 10:47:36,Friday,Spring,Afternoon,High,4,3,50,7,11,25,43,Admitted,3
+HOSP-4-20240201-0717,PAT-03608,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-01 13:24:31,Thursday,Winter,Evening,High,4,0,38,12,22,36,70,Admitted,3
+HOSP-1-20241205-0544,PAT-02649,HOSP-1,Springfield General Hospital,Urban,2024-12-05 19:22:36,Thursday,Winter,Evening,Low,4,7,127,38,48,146,232,Discharged,1
+HOSP-5-20241014-0956,PAT-04811,HOSP-5,Summit Health Center,Urban,2024-10-14 17:52:35,Monday,Fall,Afternoon,High,4,5,64,6,8,43,57,Discharged,3
+HOSP-5-20241101-0358,PAT-01984,HOSP-5,Summit Health Center,Urban,2024-11-01 11:11:58,Friday,Fall,Evening,Critical,1,7,165,1,4,15,20,Discharged,4
+HOSP-5-20240523-0550,PAT-02933,HOSP-5,Summit Health Center,Urban,2024-05-23 13:52:23,Thursday,Spring,Night,Critical,1,3,105,1,2,10,13,Admitted,4
+HOSP-5-20240205-0280,PAT-01537,HOSP-5,Summit Health Center,Urban,2024-02-05 04:15:16,Monday,Winter,Evening,High,4,7,159,12,15,31,58,Discharged,3
+HOSP-3-20240414-0907,PAT-04535,HOSP-3,Northside Community Hospital,Rural,2024-04-14 02:38:57,Sunday,Spring,Afternoon,Medium,3,2,38,9,10,46,65,Admitted,3
+HOSP-2-20241110-0845,PAT-04173,HOSP-2,Riverside Medical Center,Urban,2024-11-10 01:52:07,Sunday,Fall,Evening,Critical,1,10,86,2,1,7,10,Discharged,5
+HOSP-3-20241113-0672,PAT-03361,HOSP-3,Northside Community Hospital,Rural,2024-11-13 06:00:24,Wednesday,Fall,Evening,High,3,2,19,4,14,21,39,Admitted,4
+HOSP-5-20240208-0724,PAT-03666,HOSP-5,Summit Health Center,Urban,2024-02-08 01:28:14,Thursday,Winter,Evening,High,4,2,127,7,20,51,78,Admitted,2
+HOSP-5-20240531-0794,PAT-04006,HOSP-5,Summit Health Center,Urban,2024-05-31 00:33:32,Friday,Spring,Afternoon,Medium,4,10,127,19,33,39,91,Admitted,2
+HOSP-3-20240131-0722,PAT-03627,HOSP-3,Northside Community Hospital,Rural,2024-01-31 21:49:01,Wednesday,Winter,Afternoon,High,3,1,24,4,10,18,32,Admitted,4
+HOSP-2-20240406-0116,PAT-00587,HOSP-2,Riverside Medical Center,Urban,2024-04-06 12:25:54,Saturday,Spring,Afternoon,Critical,2,8,147,3,3,17,23,Discharged,4
+HOSP-5-20240131-0620,PAT-03257,HOSP-5,Summit Health Center,Urban,2024-01-31 12:45:45,Wednesday,Winter,Night,Critical,2,8,179,1,7,22,30,Admitted,4
+HOSP-2-20240201-0468,PAT-02299,HOSP-2,Riverside Medical Center,Urban,2024-02-01 15:29:44,Thursday,Winter,Evening,Medium,4,3,132,21,43,100,164,Discharged,1
+HOSP-3-20240613-0788,PAT-03989,HOSP-3,Northside Community Hospital,Rural,2024-06-13 21:01:17,Thursday,Summer,Early Morning,Medium,4,3,34,10,12,52,74,Discharged,3
+HOSP-5-20240906-0099,PAT-00585,HOSP-5,Summit Health Center,Urban,2024-09-06 20:11:31,Friday,Fall,Afternoon,Medium,3,5,128,18,29,42,89,Discharged,2
+HOSP-3-20240922-0492,PAT-02424,HOSP-3,Northside Community Hospital,Rural,2024-09-22 05:07:58,Sunday,Fall,Evening,Critical,1,0,15,1,3,4,8,Discharged,5
+HOSP-4-20240221-0274,PAT-01392,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-21 05:21:30,Wednesday,Winter,Afternoon,Critical,2,2,14,4,6,12,22,Admitted,5
+HOSP-2-20240802-0919,PAT-04526,HOSP-2,Riverside Medical Center,Urban,2024-08-02 14:14:28,Friday,Summer,Late Morning,Medium,3,10,167,14,26,36,76,Admitted,3
+HOSP-2-20240324-1007,PAT-04921,HOSP-2,Riverside Medical Center,Urban,2024-03-24 14:55:19,Sunday,Spring,Early Morning,High,4,3,195,2,7,15,24,Discharged,4
+HOSP-3-20240616-0963,PAT-04801,HOSP-3,Northside Community Hospital,Rural,2024-06-16 21:49:20,Sunday,Summer,Evening,High,3,3,24,4,11,15,30,Discharged,4
+HOSP-2-20241215-0650,PAT-03241,HOSP-2,Riverside Medical Center,Urban,2024-12-15 02:13:57,Sunday,Winter,Afternoon,Critical,2,6,128,2,2,8,12,Discharged,5
+HOSP-4-20240404-0857,PAT-04282,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-04 00:36:50,Thursday,Spring,Evening,Low,4,1,38,22,80,102,204,Discharged,1
+HOSP-4-20241018-0680,PAT-03339,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-18 09:23:18,Friday,Fall,Evening,Medium,4,2,42,21,33,78,132,Discharged,1
+HOSP-2-20240920-0647,PAT-03221,HOSP-2,Riverside Medical Center,Urban,2024-09-20 22:34:27,Friday,Fall,Evening,High,3,5,165,4,9,30,43,Admitted,4
+HOSP-5-20240629-0393,PAT-02112,HOSP-5,Summit Health Center,Urban,2024-06-29 05:22:27,Saturday,Summer,Evening,Critical,1,1,132,3,4,13,20,Admitted,5
+HOSP-2-20240303-0245,PAT-01175,HOSP-2,Riverside Medical Center,Urban,2024-03-03 16:59:59,Sunday,Spring,Afternoon,Low,4,1,84,23,45,61,129,Discharged,1
+HOSP-2-20240125-0992,PAT-04863,HOSP-2,Riverside Medical Center,Urban,2024-01-25 05:30:03,Thursday,Winter,Afternoon,Medium,3,1,179,15,18,55,88,Discharged,2
+HOSP-3-20240119-0758,PAT-03812,HOSP-3,Northside Community Hospital,Rural,2024-01-19 03:48:07,Friday,Winter,Early Morning,Medium,3,1,30,18,23,34,75,Admitted,2
+HOSP-4-20240703-0389,PAT-01868,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-03 00:54:50,Wednesday,Summer,Late Morning,High,4,0,11,4,9,34,47,Discharged,3
+HOSP-2-20240326-0537,PAT-02615,HOSP-2,Riverside Medical Center,Urban,2024-03-26 13:15:58,Tuesday,Spring,Late Morning,Critical,2,2,72,1,1,6,8,Discharged,4
+HOSP-3-20240513-0769,PAT-03867,HOSP-3,Northside Community Hospital,Rural,2024-05-13 20:44:17,Monday,Spring,Early Morning,High,3,1,40,5,5,11,21,Discharged,5
+HOSP-2-20240415-0997,PAT-04886,HOSP-2,Riverside Medical Center,Urban,2024-04-15 08:10:42,Monday,Spring,Evening,Medium,4,3,87,18,48,58,124,Discharged,1
+HOSP-3-20240812-0745,PAT-03779,HOSP-3,Northside Community Hospital,Rural,2024-08-12 11:01:45,Monday,Summer,Late Morning,High,4,0,17,9,9,25,43,Admitted,3
+HOSP-4-20240805-0761,PAT-03847,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-05 19:08:31,Monday,Summer,Evening,Low,4,3,23,60,127,193,380,Left Without Being Seen,1
+HOSP-3-20241005-0491,PAT-02417,HOSP-3,Northside Community Hospital,Rural,2024-10-05 19:13:13,Saturday,Fall,Late Morning,High,4,1,26,3,5,11,19,Admitted,4
+HOSP-5-20240520-0013,PAT-00071,HOSP-5,Summit Health Center,Urban,2024-05-20 00:11:54,Monday,Spring,Afternoon,Medium,4,6,198,25,25,82,132,Discharged,1
+HOSP-4-20240504-0967,PAT-04881,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-04 23:19:24,Saturday,Spring,Night,Critical,1,3,33,1,1,7,9,Admitted,4
+HOSP-4-20240904-0219,PAT-01127,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-04 11:38:29,Wednesday,Fall,Evening,High,4,3,16,4,11,16,31,Discharged,4
+HOSP-3-20240828-0793,PAT-04025,HOSP-3,Northside Community Hospital,Rural,2024-08-28 19:30:35,Wednesday,Summer,Afternoon,Medium,3,1,40,17,16,58,91,Discharged,2
+HOSP-4-20240731-0660,PAT-03251,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-31 03:04:45,Wednesday,Summer,Evening,Critical,2,1,26,3,4,19,26,Admitted,4
+HOSP-1-20240419-0791,PAT-03902,HOSP-1,Springfield General Hospital,Urban,2024-04-19 07:44:34,Friday,Spring,Afternoon,Low,5,5,114,17,77,105,199,Discharged,1
+HOSP-3-20240323-0228,PAT-01096,HOSP-3,Northside Community Hospital,Rural,2024-03-23 14:12:04,Saturday,Spring,Late Morning,Critical,1,3,25,0,3,9,12,Discharged,5
+HOSP-2-20240604-0922,PAT-04546,HOSP-2,Riverside Medical Center,Urban,2024-06-04 14:37:12,Tuesday,Summer,Afternoon,Critical,1,6,72,1,6,6,13,Admitted,4
+HOSP-4-20240330-0234,PAT-01213,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-30 13:58:10,Saturday,Spring,Late Morning,High,4,2,47,3,9,16,28,Admitted,4
+HOSP-4-20241218-0777,PAT-03922,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-18 12:19:04,Wednesday,Winter,Evening,Medium,3,1,39,12,45,97,154,Discharged,1
+HOSP-1-20240715-0300,PAT-01426,HOSP-1,Springfield General Hospital,Urban,2024-07-15 03:24:53,Monday,Summer,Evening,Medium,3,3,83,32,49,95,176,Left Without Being Seen,1
+HOSP-5-20241106-0577,PAT-03067,HOSP-5,Summit Health Center,Urban,2024-11-06 05:57:29,Wednesday,Fall,Early Morning,Critical,1,9,96,1,1,6,8,Discharged,4
+HOSP-5-20240517-0897,PAT-04520,HOSP-5,Summit Health Center,Urban,2024-05-17 08:59:49,Friday,Spring,Afternoon,Medium,4,10,97,19,25,45,89,Discharged,2
+HOSP-4-20240419-0434,PAT-02101,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-19 16:44:50,Friday,Spring,Late Morning,High,4,0,47,4,8,30,42,Discharged,4
+HOSP-3-20240704-0170,PAT-00808,HOSP-3,Northside Community Hospital,Rural,2024-07-04 14:18:23,Thursday,Summer,Night,Medium,4,1,10,8,29,58,95,Discharged,2
+HOSP-5-20241216-0940,PAT-04744,HOSP-5,Summit Health Center,Urban,2024-12-16 11:32:43,Monday,Winter,Evening,Medium,4,9,124,19,39,129,187,Discharged,1
+HOSP-4-20240904-0746,PAT-03751,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-04 20:21:58,Wednesday,Fall,Afternoon,High,3,2,31,3,10,11,24,Admitted,4
+HOSP-1-20240413-0289,PAT-01363,HOSP-1,Springfield General Hospital,Urban,2024-04-13 09:02:18,Saturday,Spring,Afternoon,Low,4,6,146,19,31,67,117,Admitted,2
+HOSP-4-20241130-0480,PAT-02318,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-30 07:32:40,Saturday,Fall,Evening,Medium,3,3,17,6,18,56,80,Admitted,2
+HOSP-1-20240909-0919,PAT-04582,HOSP-1,Springfield General Hospital,Urban,2024-09-09 06:28:53,Monday,Fall,Night,Critical,2,10,142,1,3,14,18,Admitted,5
+HOSP-1-20240414-0951,PAT-04742,HOSP-1,Springfield General Hospital,Urban,2024-04-14 06:49:00,Sunday,Spring,Afternoon,Low,5,10,140,12,33,72,117,Admitted,1
+HOSP-1-20240330-0230,PAT-01026,HOSP-1,Springfield General Hospital,Urban,2024-03-30 17:15:09,Saturday,Spring,Afternoon,Medium,4,1,140,14,22,41,77,Discharged,2
+HOSP-2-20240729-0625,PAT-03110,HOSP-2,Riverside Medical Center,Urban,2024-07-29 13:24:28,Monday,Summer,Afternoon,High,4,1,136,6,15,44,65,Admitted,2
+HOSP-4-20240306-0437,PAT-02111,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-06 11:18:33,Wednesday,Spring,Afternoon,Critical,2,1,42,1,2,5,8,Admitted,5
+HOSP-4-20240214-0206,PAT-01042,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-14 07:45:20,Wednesday,Winter,Early Morning,Critical,1,0,33,2,3,12,17,Discharged,4
+HOSP-1-20240428-0384,PAT-01877,HOSP-1,Springfield General Hospital,Urban,2024-04-28 05:26:15,Sunday,Spring,Late Morning,Medium,4,1,166,13,19,41,73,Discharged,2
+HOSP-3-20240312-0188,PAT-00882,HOSP-3,Northside Community Hospital,Rural,2024-03-12 13:48:55,Tuesday,Spring,Afternoon,High,3,3,13,6,12,15,33,Discharged,4
+HOSP-3-20240320-0850,PAT-04300,HOSP-3,Northside Community Hospital,Rural,2024-03-20 13:31:17,Wednesday,Spring,Evening,Low,5,3,30,22,52,96,170,Discharged,1
+HOSP-2-20240801-0249,PAT-01193,HOSP-2,Riverside Medical Center,Urban,2024-08-01 22:12:16,Thursday,Summer,Late Morning,Medium,4,9,114,6,19,31,56,Admitted,4
+HOSP-2-20240401-0933,PAT-04588,HOSP-2,Riverside Medical Center,Urban,2024-04-01 03:09:38,Monday,Spring,Evening,Low,4,10,191,34,97,130,261,Left Without Being Seen,1
+HOSP-5-20241121-0894,PAT-04511,HOSP-5,Summit Health Center,Urban,2024-11-21 13:55:00,Thursday,Fall,Afternoon,Critical,1,2,83,2,3,4,9,Discharged,5
+HOSP-4-20241125-0729,PAT-03671,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-25 05:37:37,Monday,Fall,Evening,High,3,0,31,5,16,44,65,Discharged,3
+HOSP-3-20241116-0132,PAT-00625,HOSP-3,Northside Community Hospital,Rural,2024-11-16 11:03:32,Saturday,Fall,Afternoon,High,4,3,22,4,6,21,31,Discharged,4
+HOSP-5-20241024-0529,PAT-02797,HOSP-5,Summit Health Center,Urban,2024-10-24 01:45:26,Thursday,Fall,Evening,Medium,3,6,62,11,14,28,53,Admitted,4
+HOSP-1-20240823-0870,PAT-04292,HOSP-1,Springfield General Hospital,Urban,2024-08-23 15:38:30,Friday,Summer,Evening,High,3,4,134,8,20,27,55,Discharged,3
+HOSP-3-20241204-0995,PAT-04969,HOSP-3,Northside Community Hospital,Rural,2024-12-04 04:18:36,Wednesday,Winter,Evening,Low,4,3,37,23,73,120,216,Discharged,1
+HOSP-5-20241206-0044,PAT-00234,HOSP-5,Summit Health Center,Urban,2024-12-06 15:30:36,Friday,Winter,Late Morning,Medium,4,5,66,20,20,42,82,Discharged,3
+HOSP-1-20240121-0916,PAT-04567,HOSP-1,Springfield General Hospital,Urban,2024-01-21 02:46:31,Sunday,Winter,Late Morning,Low,5,2,125,20,51,80,151,Left Without Being Seen,1
+HOSP-4-20241121-0330,PAT-01663,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-21 18:52:44,Thursday,Fall,Afternoon,Critical,1,0,22,2,4,10,16,Admitted,5
+HOSP-3-20241029-0087,PAT-00416,HOSP-3,Northside Community Hospital,Rural,2024-10-29 07:41:40,Tuesday,Fall,Early Morning,Low,4,2,35,11,35,51,97,Admitted,1
+HOSP-4-20240830-0849,PAT-04247,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-30 17:43:01,Friday,Summer,Early Morning,High,4,3,15,5,11,26,42,Discharged,4
+HOSP-1-20241020-0447,PAT-02174,HOSP-1,Springfield General Hospital,Urban,2024-10-20 04:27:04,Sunday,Fall,Afternoon,High,3,9,158,3,6,18,27,Admitted,4
+HOSP-5-20240704-0266,PAT-01457,HOSP-5,Summit Health Center,Urban,2024-07-04 16:16:07,Thursday,Summer,Night,Low,5,3,171,26,49,98,173,Discharged,1
+HOSP-5-20240326-0134,PAT-00747,HOSP-5,Summit Health Center,Urban,2024-03-26 10:07:51,Tuesday,Spring,Afternoon,Medium,3,7,79,5,21,34,60,Discharged,3
+HOSP-2-20240531-0006,PAT-00018,HOSP-2,Riverside Medical Center,Urban,2024-05-31 21:29:14,Friday,Spring,Late Morning,Critical,1,8,165,2,3,11,16,Discharged,5
+HOSP-5-20240722-0211,PAT-01201,HOSP-5,Summit Health Center,Urban,2024-07-22 15:08:34,Monday,Summer,Night,Critical,2,4,197,3,7,19,29,Discharged,4
+HOSP-1-20240314-0350,PAT-01700,HOSP-1,Springfield General Hospital,Urban,2024-03-14 07:55:24,Thursday,Spring,Evening,High,3,2,75,7,10,15,32,Discharged,4
+HOSP-3-20241114-0647,PAT-03254,HOSP-3,Northside Community Hospital,Rural,2024-11-14 21:23:23,Thursday,Fall,Late Morning,Medium,4,0,27,15,18,49,82,Admitted,2
+HOSP-4-20241029-0103,PAT-00597,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-29 05:42:09,Tuesday,Fall,Late Morning,Critical,2,1,49,2,1,8,11,Discharged,5
+HOSP-5-20240613-0614,PAT-03227,HOSP-5,Summit Health Center,Urban,2024-06-13 22:30:09,Thursday,Summer,Late Morning,Low,4,4,173,20,36,59,115,Discharged,1
+HOSP-1-20241110-0889,PAT-04406,HOSP-1,Springfield General Hospital,Urban,2024-11-10 10:25:23,Sunday,Fall,Evening,Critical,1,10,189,0,4,13,17,Admitted,4
+HOSP-2-20240803-0964,PAT-04720,HOSP-2,Riverside Medical Center,Urban,2024-08-03 02:39:06,Saturday,Summer,Night,Medium,3,10,173,15,17,52,84,Discharged,2
+HOSP-2-20241230-0316,PAT-01506,HOSP-2,Riverside Medical Center,Urban,2024-12-30 19:51:23,Monday,Winter,Evening,Critical,1,3,180,2,4,31,37,Discharged,4
+HOSP-1-20240906-0297,PAT-01413,HOSP-1,Springfield General Hospital,Urban,2024-09-06 08:05:02,Friday,Fall,Late Morning,Critical,2,3,199,2,4,6,12,Admitted,4
+HOSP-5-20240121-0352,PAT-01966,HOSP-5,Summit Health Center,Urban,2024-01-21 23:28:09,Sunday,Winter,Afternoon,Low,5,4,140,25,69,105,199,Discharged,1
+HOSP-5-20240506-0061,PAT-00372,HOSP-5,Summit Health Center,Urban,2024-05-06 00:37:15,Monday,Spring,Late Morning,High,3,6,126,4,6,29,39,Discharged,3
+HOSP-3-20241122-0277,PAT-01341,HOSP-3,Northside Community Hospital,Rural,2024-11-22 12:30:58,Friday,Fall,Evening,Low,5,2,15,31,53,118,202,Discharged,1
+HOSP-2-20240307-0117,PAT-00599,HOSP-2,Riverside Medical Center,Urban,2024-03-07 20:20:31,Thursday,Spring,Evening,Medium,3,3,174,8,32,60,100,Discharged,2
+HOSP-3-20240116-0047,PAT-00239,HOSP-3,Northside Community Hospital,Rural,2024-01-16 20:11:40,Tuesday,Winter,Afternoon,Low,5,0,25,31,89,108,228,Left Without Being Seen,1
+HOSP-3-20240509-0685,PAT-03401,HOSP-3,Northside Community Hospital,Rural,2024-05-09 19:37:28,Thursday,Spring,Night,Medium,4,2,18,13,26,43,82,Discharged,3
+HOSP-5-20240707-0382,PAT-02068,HOSP-5,Summit Health Center,Urban,2024-07-07 04:08:27,Sunday,Summer,Evening,Medium,3,8,151,11,23,40,74,Discharged,3
+HOSP-2-20240109-0148,PAT-00811,HOSP-2,Riverside Medical Center,Urban,2024-01-09 00:50:37,Tuesday,Winter,Evening,Low,4,3,69,43,63,106,212,Left Without Being Seen,1
+HOSP-2-20241130-0222,PAT-01095,HOSP-2,Riverside Medical Center,Urban,2024-11-30 06:18:32,Saturday,Fall,Evening,Critical,1,8,123,2,1,12,15,Admitted,5
+HOSP-2-20240122-0879,PAT-04325,HOSP-2,Riverside Medical Center,Urban,2024-01-22 10:27:54,Monday,Winter,Evening,Low,4,2,65,34,100,169,303,Discharged,1
+HOSP-1-20240211-0955,PAT-04761,HOSP-1,Springfield General Hospital,Urban,2024-02-11 17:29:20,Sunday,Winter,Late Morning,Low,5,5,131,24,42,65,131,Discharged,1
+HOSP-2-20241001-0746,PAT-03677,HOSP-2,Riverside Medical Center,Urban,2024-10-01 09:26:19,Tuesday,Fall,Evening,Low,5,4,184,33,64,72,169,Left Without Being Seen,1
+HOSP-3-20240817-0702,PAT-03465,HOSP-3,Northside Community Hospital,Rural,2024-08-17 19:10:50,Saturday,Summer,Evening,High,4,1,27,8,12,41,61,Discharged,3
+HOSP-3-20240202-0624,PAT-03104,HOSP-3,Northside Community Hospital,Rural,2024-02-02 10:24:43,Friday,Winter,Afternoon,Medium,3,2,30,23,35,77,135,Discharged,1
+HOSP-2-20240618-0556,PAT-02750,HOSP-2,Riverside Medical Center,Urban,2024-06-18 21:57:48,Tuesday,Summer,Evening,Critical,1,3,71,3,6,14,23,Discharged,4
+HOSP-3-20240506-0459,PAT-02296,HOSP-3,Northside Community Hospital,Rural,2024-05-06 14:59:43,Monday,Spring,Evening,Medium,3,0,17,16,47,94,157,Discharged,1
+HOSP-5-20240206-0828,PAT-04193,HOSP-5,Summit Health Center,Urban,2024-02-06 11:57:59,Tuesday,Winter,Early Morning,Low,5,7,76,12,44,78,134,Discharged,1
+HOSP-5-20241105-0732,PAT-03709,HOSP-5,Summit Health Center,Urban,2024-11-05 07:43:33,Tuesday,Fall,Afternoon,Low,5,4,59,20,57,83,160,Discharged,1
+HOSP-4-20240610-0608,PAT-03019,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-10 10:05:38,Monday,Summer,Evening,Critical,2,3,11,6,6,15,27,Discharged,4
+HOSP-4-20241211-0850,PAT-04253,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-11 11:56:48,Wednesday,Winter,Late Morning,Low,5,0,44,29,42,95,166,Discharged,1
+HOSP-4-20240628-0157,PAT-00804,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-28 22:17:32,Friday,Summer,Early Morning,High,4,2,43,5,10,25,40,Discharged,4
+HOSP-4-20241202-0837,PAT-04191,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-02 13:23:34,Monday,Winter,Afternoon,Critical,1,1,24,5,5,18,28,Admitted,4
+HOSP-1-20240906-0754,PAT-03706,HOSP-1,Springfield General Hospital,Urban,2024-09-06 17:10:15,Friday,Fall,Evening,High,3,8,185,7,14,20,41,Admitted,4
+HOSP-5-20240925-0138,PAT-00752,HOSP-5,Summit Health Center,Urban,2024-09-25 15:30:54,Wednesday,Fall,Evening,High,4,2,76,6,9,27,42,Discharged,3
+HOSP-3-20240130-0931,PAT-04645,HOSP-3,Northside Community Hospital,Rural,2024-01-30 15:56:03,Tuesday,Winter,Evening,Critical,1,3,19,3,3,12,18,Admitted,4
+HOSP-1-20240521-0522,PAT-02532,HOSP-1,Springfield General Hospital,Urban,2024-05-21 08:59:14,Tuesday,Spring,Evening,Medium,4,5,131,22,22,46,90,Discharged,2
+HOSP-4-20240429-0110,PAT-00622,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-29 12:07:46,Monday,Spring,Afternoon,Low,4,0,15,32,61,135,228,Discharged,1
+HOSP-2-20240216-0467,PAT-02298,HOSP-2,Riverside Medical Center,Urban,2024-02-16 21:37:04,Friday,Winter,Night,Medium,4,1,192,12,24,60,96,Discharged,2
+HOSP-4-20240829-0756,PAT-03829,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-29 21:40:59,Thursday,Summer,Evening,Low,5,2,50,25,107,118,250,Discharged,1
+HOSP-2-20240429-0112,PAT-00567,HOSP-2,Riverside Medical Center,Urban,2024-04-29 05:18:48,Monday,Spring,Evening,Low,4,8,198,44,95,114,253,Discharged,1
+HOSP-3-20240103-0237,PAT-01136,HOSP-3,Northside Community Hospital,Rural,2024-01-03 19:45:31,Wednesday,Winter,Late Morning,Medium,3,0,47,10,35,42,87,Admitted,3
+HOSP-1-20241214-0258,PAT-01205,HOSP-1,Springfield General Hospital,Urban,2024-12-14 20:33:55,Saturday,Winter,Late Morning,Critical,2,6,180,3,5,7,15,Discharged,4
+HOSP-1-20241115-0234,PAT-01048,HOSP-1,Springfield General Hospital,Urban,2024-11-15 16:35:32,Friday,Fall,Afternoon,High,4,2,189,5,9,34,48,Admitted,4
+HOSP-1-20240128-0013,PAT-00052,HOSP-1,Springfield General Hospital,Urban,2024-01-28 09:04:05,Sunday,Winter,Night,High,4,2,169,8,11,24,43,Admitted,4
+HOSP-4-20240822-0723,PAT-03652,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-22 08:55:10,Thursday,Summer,Evening,High,3,0,13,8,14,35,57,Discharged,3
+HOSP-4-20240821-0207,PAT-01045,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-21 02:52:22,Wednesday,Summer,Late Morning,Medium,3,3,35,15,20,56,91,Admitted,2
+HOSP-1-20240206-0450,PAT-02182,HOSP-1,Springfield General Hospital,Urban,2024-02-06 13:39:57,Tuesday,Winter,Evening,Critical,1,5,111,3,4,12,19,Admitted,5
+HOSP-1-20240812-0557,PAT-02689,HOSP-1,Springfield General Hospital,Urban,2024-08-12 16:06:16,Monday,Summer,Late Morning,Low,4,6,51,20,53,91,164,Discharged,1
+HOSP-4-20241019-0095,PAT-00535,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-19 00:35:56,Saturday,Fall,Afternoon,Low,4,0,16,12,41,49,102,Admitted,1
+HOSP-5-20240319-0602,PAT-03185,HOSP-5,Summit Health Center,Urban,2024-03-19 19:49:42,Tuesday,Spring,Evening,High,4,2,166,5,17,41,63,Discharged,3
+HOSP-1-20240325-0784,PAT-03858,HOSP-1,Springfield General Hospital,Urban,2024-03-25 03:07:01,Monday,Spring,Evening,Low,4,6,156,36,70,119,225,Left Without Being Seen,1
+HOSP-4-20240103-0075,PAT-00444,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-03 20:34:19,Wednesday,Winter,Evening,Critical,1,0,11,4,3,21,28,Admitted,4
+HOSP-5-20240213-0704,PAT-03605,HOSP-5,Summit Health Center,Urban,2024-02-13 16:02:15,Tuesday,Winter,Late Morning,Critical,2,3,60,4,6,6,16,Discharged,4
+HOSP-1-20240917-0053,PAT-00196,HOSP-1,Springfield General Hospital,Urban,2024-09-17 01:36:32,Tuesday,Fall,Afternoon,Critical,1,1,184,0,2,11,13,Admitted,5
+HOSP-3-20240531-0233,PAT-01116,HOSP-3,Northside Community Hospital,Rural,2024-05-31 15:40:20,Friday,Spring,Early Morning,Critical,1,0,18,0,2,8,10,Discharged,5
+HOSP-5-20240423-0141,PAT-00766,HOSP-5,Summit Health Center,Urban,2024-04-23 08:21:01,Tuesday,Spring,Evening,Critical,2,9,178,1,4,22,27,Admitted,4
+HOSP-4-20241230-0404,PAT-01946,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-30 09:33:15,Monday,Winter,Afternoon,Critical,2,1,48,4,4,20,28,Discharged,4
+HOSP-4-20241126-0658,PAT-03248,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-26 04:49:24,Tuesday,Fall,Late Morning,Medium,4,3,27,13,20,45,78,Discharged,2
+HOSP-5-20240903-0564,PAT-03003,HOSP-5,Summit Health Center,Urban,2024-09-03 12:32:43,Tuesday,Fall,Evening,Low,4,8,133,26,74,104,204,Discharged,1
+HOSP-1-20240910-0302,PAT-01433,HOSP-1,Springfield General Hospital,Urban,2024-09-10 21:27:09,Tuesday,Fall,Afternoon,High,4,5,53,3,10,30,43,Discharged,4
+HOSP-1-20240712-0852,PAT-04201,HOSP-1,Springfield General Hospital,Urban,2024-07-12 20:45:40,Friday,Summer,Afternoon,Low,4,1,126,38,40,131,209,Left Without Being Seen,1
+HOSP-2-20240515-0624,PAT-03096,HOSP-2,Riverside Medical Center,Urban,2024-05-15 15:02:34,Wednesday,Spring,Evening,Critical,1,6,120,2,5,11,18,Discharged,4
+HOSP-1-20240114-0615,PAT-02923,HOSP-1,Springfield General Hospital,Urban,2024-01-14 07:45:58,Sunday,Winter,Evening,Critical,2,5,78,3,6,17,26,Discharged,4
+HOSP-1-20240220-0157,PAT-00645,HOSP-1,Springfield General Hospital,Urban,2024-02-20 05:30:00,Tuesday,Winter,Afternoon,High,4,4,166,8,22,24,54,Admitted,3
+HOSP-5-20240402-0182,PAT-01050,HOSP-5,Summit Health Center,Urban,2024-04-02 05:59:11,Tuesday,Spring,Evening,High,4,3,86,8,10,44,62,Discharged,3
+HOSP-5-20241218-0740,PAT-03746,HOSP-5,Summit Health Center,Urban,2024-12-18 05:17:13,Wednesday,Winter,Late Morning,Low,5,7,60,27,45,81,153,Discharged,1
+HOSP-5-20241224-0810,PAT-04094,HOSP-5,Summit Health Center,Urban,2024-12-24 19:56:59,Tuesday,Winter,Afternoon,Medium,4,5,130,13,29,53,95,Discharged,2
+HOSP-5-20240617-0867,PAT-04404,HOSP-5,Summit Health Center,Urban,2024-06-17 23:38:28,Monday,Summer,Evening,Critical,2,10,130,5,5,28,38,Admitted,4
+HOSP-5-20240223-0027,PAT-00121,HOSP-5,Summit Health Center,Urban,2024-02-23 13:34:03,Friday,Winter,Evening,High,4,1,157,8,19,51,78,Discharged,2
+HOSP-5-20240610-0374,PAT-02053,HOSP-5,Summit Health Center,Urban,2024-06-10 15:27:16,Monday,Summer,Evening,High,4,7,163,13,15,63,91,Admitted,2
+HOSP-3-20240419-0841,PAT-04259,HOSP-3,Northside Community Hospital,Rural,2024-04-19 00:14:05,Friday,Spring,Night,Low,5,0,15,14,55,87,156,Discharged,1
+HOSP-2-20240205-0999,PAT-04889,HOSP-2,Riverside Medical Center,Urban,2024-02-05 15:44:56,Monday,Winter,Afternoon,High,3,8,144,6,10,32,48,Discharged,4
+HOSP-5-20240107-0856,PAT-04335,HOSP-5,Summit Health Center,Urban,2024-01-07 19:54:25,Sunday,Winter,Late Morning,Low,5,1,170,12,62,64,138,Left Without Being Seen,1
+HOSP-3-20241107-0942,PAT-04692,HOSP-3,Northside Community Hospital,Rural,2024-11-07 05:32:37,Thursday,Fall,Evening,Low,4,1,34,26,70,109,205,Discharged,1
+HOSP-4-20240328-0023,PAT-00135,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-28 05:51:39,Thursday,Spring,Early Morning,Critical,1,3,24,1,2,4,7,Admitted,5
+HOSP-1-20240702-0507,PAT-02461,HOSP-1,Springfield General Hospital,Urban,2024-07-02 22:17:52,Tuesday,Summer,Afternoon,Critical,2,2,186,4,4,15,23,Admitted,4
+HOSP-5-20240914-0349,PAT-01955,HOSP-5,Summit Health Center,Urban,2024-09-14 14:29:07,Saturday,Fall,Evening,High,3,4,177,4,8,29,41,Admitted,4
+HOSP-4-20241230-0496,PAT-02464,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-30 19:20:53,Monday,Winter,Night,Medium,4,0,39,13,41,81,135,Discharged,1
+HOSP-2-20240802-0038,PAT-00185,HOSP-2,Riverside Medical Center,Urban,2024-08-02 18:07:15,Friday,Summer,Afternoon,Low,5,10,57,33,59,97,189,Discharged,1
+HOSP-3-20240329-0289,PAT-01393,HOSP-3,Northside Community Hospital,Rural,2024-03-29 14:40:20,Friday,Spring,Afternoon,High,4,3,37,7,15,23,45,Admitted,3
+HOSP-2-20240419-0465,PAT-02277,HOSP-2,Riverside Medical Center,Urban,2024-04-19 15:00:44,Friday,Spring,Afternoon,Medium,3,6,84,21,27,64,112,Admitted,1
+HOSP-5-20240212-0082,PAT-00512,HOSP-5,Summit Health Center,Urban,2024-02-12 01:17:36,Monday,Winter,Evening,Low,5,3,52,66,145,231,442,Discharged,1
+HOSP-4-20240229-0932,PAT-04730,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-29 09:52:02,Thursday,Winter,Late Morning,Medium,3,0,31,17,31,28,76,Discharged,2
+HOSP-4-20241029-0808,PAT-04055,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-29 20:51:05,Tuesday,Fall,Afternoon,High,3,2,27,4,7,25,36,Discharged,4
+HOSP-4-20240719-0633,PAT-03138,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-19 15:59:54,Friday,Summer,Afternoon,Low,5,2,41,32,61,139,232,Discharged,1
+HOSP-1-20240923-0551,PAT-02670,HOSP-1,Springfield General Hospital,Urban,2024-09-23 19:34:31,Monday,Fall,Afternoon,Medium,3,1,110,9,19,31,59,Discharged,3
+HOSP-1-20240215-0958,PAT-04774,HOSP-1,Springfield General Hospital,Urban,2024-02-15 09:23:27,Thursday,Winter,Late Morning,Low,5,5,155,15,73,61,149,Left Without Being Seen,1
+HOSP-4-20240731-0964,PAT-04862,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-31 15:10:04,Wednesday,Summer,Late Morning,Critical,1,0,20,3,4,14,21,Discharged,4
+HOSP-2-20240909-0436,PAT-02118,HOSP-2,Riverside Medical Center,Urban,2024-09-09 17:25:25,Monday,Fall,Early Morning,Medium,3,5,137,12,16,25,53,Discharged,3
+HOSP-1-20240128-0068,PAT-00252,HOSP-1,Springfield General Hospital,Urban,2024-01-28 07:50:51,Sunday,Winter,Afternoon,Critical,2,10,107,4,5,21,30,Admitted,4
+HOSP-5-20241105-0684,PAT-03527,HOSP-5,Summit Health Center,Urban,2024-11-05 12:29:24,Tuesday,Fall,Evening,High,3,10,196,5,12,20,37,Admitted,4
+HOSP-5-20240605-0693,PAT-03560,HOSP-5,Summit Health Center,Urban,2024-06-05 07:15:19,Wednesday,Summer,Early Morning,Critical,2,5,189,2,1,14,17,Admitted,4
+HOSP-4-20241124-0800,PAT-04012,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-24 05:18:32,Sunday,Fall,Afternoon,High,3,1,12,2,4,15,21,Admitted,4
+HOSP-3-20240628-0311,PAT-01508,HOSP-3,Northside Community Hospital,Rural,2024-06-28 13:41:51,Friday,Summer,Evening,Low,4,3,22,32,101,130,263,Discharged,1
+HOSP-2-20240310-0021,PAT-00123,HOSP-2,Riverside Medical Center,Urban,2024-03-10 06:38:01,Sunday,Spring,Early Morning,High,3,10,151,1,4,12,17,Admitted,5
+HOSP-3-20240429-0842,PAT-04260,HOSP-3,Northside Community Hospital,Rural,2024-04-29 11:19:40,Monday,Spring,Afternoon,Critical,1,2,22,1,2,12,15,Discharged,4
+HOSP-5-20241011-0635,PAT-03334,HOSP-5,Summit Health Center,Urban,2024-10-11 23:48:44,Friday,Fall,Afternoon,Medium,3,4,97,18,21,51,90,Discharged,2
+HOSP-2-20240821-0395,PAT-01872,HOSP-2,Riverside Medical Center,Urban,2024-08-21 04:40:33,Wednesday,Summer,Night,Critical,1,3,73,1,5,14,20,Admitted,4
+HOSP-1-20240217-0751,PAT-03693,HOSP-1,Springfield General Hospital,Urban,2024-02-17 20:47:59,Saturday,Winter,Early Morning,Critical,1,1,94,2,3,7,12,Discharged,5
+HOSP-4-20240404-0100,PAT-00568,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-04 09:42:56,Thursday,Spring,Afternoon,Medium,3,3,17,16,17,30,63,Admitted,2
+HOSP-2-20240417-0283,PAT-01372,HOSP-2,Riverside Medical Center,Urban,2024-04-17 19:09:56,Wednesday,Spring,Evening,High,4,4,94,5,16,17,38,Discharged,4
+HOSP-5-20241123-0603,PAT-03186,HOSP-5,Summit Health Center,Urban,2024-11-23 13:44:48,Saturday,Fall,Evening,Low,5,3,91,16,51,77,144,Discharged,1
+HOSP-5-20240110-0784,PAT-03956,HOSP-5,Summit Health Center,Urban,2024-01-10 09:01:18,Wednesday,Winter,Night,High,4,10,119,7,15,43,65,Admitted,3
+HOSP-1-20240704-0235,PAT-01057,HOSP-1,Springfield General Hospital,Urban,2024-07-04 00:27:04,Thursday,Summer,Evening,High,4,9,121,8,13,32,53,Discharged,3
+HOSP-3-20241216-0182,PAT-00857,HOSP-3,Northside Community Hospital,Rural,2024-12-16 11:05:54,Monday,Winter,Afternoon,Medium,4,2,38,28,51,116,195,Discharged,1
+HOSP-4-20240608-0760,PAT-03839,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-08 12:09:46,Saturday,Summer,Afternoon,Low,4,1,44,25,40,89,154,Discharged,1
+HOSP-1-20240615-0600,PAT-02861,HOSP-1,Springfield General Hospital,Urban,2024-06-15 14:15:12,Saturday,Summer,Late Morning,Medium,4,9,90,8,15,24,47,Admitted,3
+HOSP-2-20241214-0971,PAT-04770,HOSP-2,Riverside Medical Center,Urban,2024-12-14 21:02:00,Saturday,Winter,Afternoon,High,4,8,110,7,12,30,49,Admitted,4
+HOSP-5-20241225-0144,PAT-00777,HOSP-5,Summit Health Center,Urban,2024-12-25 04:16:19,Wednesday,Winter,Evening,Medium,4,1,186,25,62,113,200,Discharged,1
+HOSP-4-20240501-0136,PAT-00721,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-01 21:13:07,Wednesday,Spring,Late Morning,Low,4,0,43,23,58,49,130,Left Without Being Seen,1
+HOSP-3-20240927-0549,PAT-02711,HOSP-3,Northside Community Hospital,Rural,2024-09-27 22:20:54,Friday,Fall,Early Morning,Low,4,3,50,14,22,41,77,Discharged,2
+HOSP-5-20240808-0500,PAT-02655,HOSP-5,Summit Health Center,Urban,2024-08-08 00:29:21,Thursday,Summer,Evening,Low,5,5,97,43,84,94,221,Discharged,1
+HOSP-2-20240309-0996,PAT-04878,HOSP-2,Riverside Medical Center,Urban,2024-03-09 23:19:48,Saturday,Spring,Evening,Critical,2,8,53,1,4,14,19,Admitted,4
+HOSP-4-20240623-0104,PAT-00603,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-23 20:39:49,Sunday,Summer,Evening,Medium,3,0,20,15,25,43,83,Admitted,3
+HOSP-5-20240608-0757,PAT-03823,HOSP-5,Summit Health Center,Urban,2024-06-08 08:04:51,Saturday,Summer,Evening,Low,4,9,154,23,77,80,180,Left Without Being Seen,1
+HOSP-5-20241021-0219,PAT-01245,HOSP-5,Summit Health Center,Urban,2024-10-21 17:41:04,Monday,Fall,Late Morning,High,4,9,62,3,9,18,30,Admitted,4
+HOSP-3-20240221-0969,PAT-04846,HOSP-3,Northside Community Hospital,Rural,2024-02-21 06:12:02,Wednesday,Winter,Afternoon,Critical,2,3,28,5,9,27,41,Admitted,3
+HOSP-4-20240708-0958,PAT-04842,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-08 21:54:40,Monday,Summer,Evening,Critical,1,2,20,1,3,17,21,Discharged,4
+HOSP-2-20241203-0063,PAT-00319,HOSP-2,Riverside Medical Center,Urban,2024-12-03 01:08:50,Tuesday,Winter,Night,Medium,3,9,187,8,24,34,66,Admitted,3
+HOSP-4-20241001-0162,PAT-00829,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-01 10:08:54,Tuesday,Fall,Afternoon,High,3,1,45,4,7,15,26,Discharged,5
+HOSP-2-20240309-0655,PAT-03264,HOSP-2,Riverside Medical Center,Urban,2024-03-09 02:09:09,Saturday,Spring,Evening,Medium,4,1,198,15,24,54,93,Discharged,2
+HOSP-3-20240613-0057,PAT-00275,HOSP-3,Northside Community Hospital,Rural,2024-06-13 06:00:57,Thursday,Summer,Afternoon,Medium,4,0,35,22,17,46,85,Admitted,2
+HOSP-1-20240423-0550,PAT-02665,HOSP-1,Springfield General Hospital,Urban,2024-04-23 01:36:31,Tuesday,Spring,Afternoon,Low,4,9,69,29,47,86,162,Discharged,1
+HOSP-1-20240716-0134,PAT-00550,HOSP-1,Springfield General Hospital,Urban,2024-07-16 08:55:22,Tuesday,Summer,Evening,Medium,4,8,169,27,25,96,148,Discharged,1
+HOSP-2-20240215-0739,PAT-03642,HOSP-2,Riverside Medical Center,Urban,2024-02-15 18:59:09,Thursday,Winter,Evening,Critical,2,3,171,2,4,26,32,Admitted,4
+HOSP-3-20240926-0798,PAT-04054,HOSP-3,Northside Community Hospital,Rural,2024-09-26 05:24:46,Thursday,Fall,Afternoon,Low,5,3,47,16,48,61,125,Discharged,1
+HOSP-4-20240812-0970,PAT-04893,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-12 09:29:34,Monday,Summer,Evening,Low,4,3,13,38,55,137,230,Left Without Being Seen,1
+HOSP-4-20241001-0591,PAT-02935,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-01 02:46:04,Tuesday,Fall,Early Morning,High,3,3,28,2,5,11,18,Discharged,4
+HOSP-1-20241225-0149,PAT-00606,HOSP-1,Springfield General Hospital,Urban,2024-12-25 15:28:45,Wednesday,Winter,Late Morning,Low,5,10,112,22,34,74,130,Discharged,1
+HOSP-4-20241229-0173,PAT-00897,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-29 12:59:59,Sunday,Winter,Evening,Medium,3,0,25,27,38,88,153,Discharged,1
+HOSP-3-20240823-0116,PAT-00528,HOSP-3,Northside Community Hospital,Rural,2024-08-23 19:24:44,Friday,Summer,Evening,High,4,0,44,6,11,43,60,Admitted,3
+HOSP-4-20240311-0912,PAT-04608,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-11 01:40:45,Monday,Spring,Early Morning,Medium,3,2,29,12,22,44,78,Discharged,2
+HOSP-2-20240729-0477,PAT-02348,HOSP-2,Riverside Medical Center,Urban,2024-07-29 23:29:56,Monday,Summer,Late Morning,Medium,4,4,65,15,25,87,127,Discharged,1
+HOSP-4-20240406-0693,PAT-03440,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-06 02:34:12,Saturday,Spring,Afternoon,Low,4,3,14,24,50,55,129,Left Without Being Seen,1
+HOSP-2-20240828-1023,PAT-04999,HOSP-2,Riverside Medical Center,Urban,2024-08-28 03:11:51,Wednesday,Summer,Afternoon,Low,5,4,160,21,35,73,129,Left Without Being Seen,1
+HOSP-1-20240510-0966,PAT-04827,HOSP-1,Springfield General Hospital,Urban,2024-05-10 04:51:39,Friday,Spring,Night,Medium,3,8,86,9,27,54,90,Admitted,2
+HOSP-4-20240107-0778,PAT-03923,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-07 22:16:11,Sunday,Winter,Night,Low,4,3,50,14,48,61,123,Discharged,1
+HOSP-4-20240807-0051,PAT-00299,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-07 00:15:54,Wednesday,Summer,Evening,Low,5,2,20,33,49,133,215,Discharged,1
+HOSP-3-20241217-0418,PAT-02120,HOSP-3,Northside Community Hospital,Rural,2024-12-17 13:22:45,Tuesday,Winter,Evening,Medium,3,1,47,24,51,95,170,Left Without Being Seen,1
+HOSP-1-20241004-0524,PAT-02537,HOSP-1,Springfield General Hospital,Urban,2024-10-04 11:39:58,Friday,Fall,Evening,High,4,7,78,8,14,17,39,Discharged,3
+HOSP-1-20241223-0853,PAT-04204,HOSP-1,Springfield General Hospital,Urban,2024-12-23 03:21:07,Monday,Winter,Late Morning,High,4,6,115,11,20,39,70,Discharged,3
+HOSP-5-20240826-0618,PAT-03255,HOSP-5,Summit Health Center,Urban,2024-08-26 07:37:44,Monday,Summer,Afternoon,High,4,8,156,8,16,41,65,Admitted,2
+HOSP-2-20240908-0756,PAT-03726,HOSP-2,Riverside Medical Center,Urban,2024-09-08 05:31:15,Sunday,Fall,Night,Medium,4,4,125,6,10,29,45,Admitted,3
+HOSP-5-20241028-0223,PAT-01261,HOSP-5,Summit Health Center,Urban,2024-10-28 10:54:58,Monday,Fall,Early Morning,High,4,2,133,5,9,17,31,Admitted,4
+HOSP-1-20240401-0329,PAT-01559,HOSP-1,Springfield General Hospital,Urban,2024-04-01 09:55:48,Monday,Spring,Afternoon,High,4,2,156,5,15,31,51,Admitted,3
+HOSP-5-20241211-0624,PAT-03270,HOSP-5,Summit Health Center,Urban,2024-12-11 13:33:23,Wednesday,Winter,Afternoon,High,4,1,163,10,16,35,61,Discharged,3
+HOSP-4-20240310-0805,PAT-04047,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-10 02:56:25,Sunday,Spring,Evening,Low,5,3,26,20,58,69,147,Discharged,1
+HOSP-3-20240922-0161,PAT-00757,HOSP-3,Northside Community Hospital,Rural,2024-09-22 23:19:15,Sunday,Fall,Afternoon,Critical,2,1,40,2,2,10,14,Admitted,5
+HOSP-4-20240216-0197,PAT-01011,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-16 00:56:43,Friday,Winter,Night,Low,5,3,43,21,88,136,245,Discharged,1
+HOSP-5-20240405-0528,PAT-02795,HOSP-5,Summit Health Center,Urban,2024-04-05 18:04:00,Friday,Spring,Afternoon,Low,4,5,64,34,39,117,190,Discharged,1
+HOSP-1-20241026-0610,PAT-02906,HOSP-1,Springfield General Hospital,Urban,2024-10-26 07:40:10,Saturday,Fall,Night,Critical,2,8,88,1,3,12,16,Discharged,5
+HOSP-5-20240831-0329,PAT-01871,HOSP-5,Summit Health Center,Urban,2024-08-31 19:13:57,Saturday,Summer,Evening,Critical,1,6,68,1,3,6,10,Discharged,4
+HOSP-4-20240124-0470,PAT-02230,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-24 21:28:46,Wednesday,Winter,Afternoon,Medium,3,1,35,11,22,51,84,Discharged,2
+HOSP-5-20240427-0206,PAT-01174,HOSP-5,Summit Health Center,Urban,2024-04-27 13:43:02,Saturday,Spring,Evening,Medium,3,7,127,16,32,56,104,Admitted,1
+HOSP-3-20241120-0370,PAT-01833,HOSP-3,Northside Community Hospital,Rural,2024-11-20 11:53:18,Wednesday,Fall,Evening,High,3,0,50,7,10,30,47,Admitted,3
+HOSP-2-20240917-0079,PAT-00377,HOSP-2,Riverside Medical Center,Urban,2024-09-17 18:38:05,Tuesday,Fall,Evening,Low,5,10,155,18,47,87,152,Discharged,1
+HOSP-2-20240910-0782,PAT-03854,HOSP-2,Riverside Medical Center,Urban,2024-09-10 19:27:07,Tuesday,Fall,Late Morning,Low,5,3,162,11,41,47,99,Admitted,1
+HOSP-5-20240919-0711,PAT-03617,HOSP-5,Summit Health Center,Urban,2024-09-19 03:22:31,Thursday,Fall,Late Morning,Critical,2,3,169,0,2,10,12,Discharged,4
+HOSP-4-20240218-0155,PAT-00799,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-18 11:29:20,Sunday,Winter,Late Morning,Critical,1,0,46,1,4,7,12,Admitted,5
+HOSP-1-20241016-0096,PAT-00379,HOSP-1,Springfield General Hospital,Urban,2024-10-16 11:12:57,Wednesday,Fall,Late Morning,Critical,2,4,68,1,1,11,13,Admitted,5
+HOSP-1-20240227-0247,PAT-01159,HOSP-1,Springfield General Hospital,Urban,2024-02-27 07:29:58,Tuesday,Winter,Afternoon,Low,4,5,146,24,66,87,177,Discharged,1
+HOSP-1-20240901-0778,PAT-03820,HOSP-1,Springfield General Hospital,Urban,2024-09-01 08:22:14,Sunday,Fall,Night,Medium,3,9,127,4,18,24,46,Admitted,4
+HOSP-5-20240516-0527,PAT-02793,HOSP-5,Summit Health Center,Urban,2024-05-16 13:43:02,Thursday,Spring,Night,Critical,1,3,91,2,3,11,16,Admitted,5
+HOSP-3-20241023-0443,PAT-02241,HOSP-3,Northside Community Hospital,Rural,2024-10-23 20:07:02,Wednesday,Fall,Evening,Critical,1,3,49,1,5,15,21,Discharged,4
+HOSP-4-20240708-0804,PAT-04036,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-08 04:04:39,Monday,Summer,Afternoon,Low,5,1,25,24,103,119,246,Left Without Being Seen,1
+HOSP-1-20240307-0549,PAT-02663,HOSP-1,Springfield General Hospital,Urban,2024-03-07 18:50:50,Thursday,Spring,Afternoon,Low,4,3,182,13,29,62,104,Admitted,1
+HOSP-5-20240906-0797,PAT-04013,HOSP-5,Summit Health Center,Urban,2024-09-06 06:09:44,Friday,Fall,Late Morning,High,3,4,87,4,4,17,25,Discharged,4
+HOSP-5-20241113-0555,PAT-02958,HOSP-5,Summit Health Center,Urban,2024-11-13 10:51:57,Wednesday,Fall,Evening,Critical,1,10,104,1,2,14,17,Admitted,4
+HOSP-4-20240603-0780,PAT-03928,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-03 13:09:42,Monday,Summer,Evening,Critical,1,3,35,3,5,19,27,Discharged,4
+HOSP-1-20240105-0231,PAT-01039,HOSP-1,Springfield General Hospital,Urban,2024-01-05 13:17:08,Friday,Winter,Evening,Medium,3,8,122,24,35,55,114,Admitted,1
+HOSP-4-20241206-0662,PAT-03260,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-06 03:14:15,Friday,Winter,Late Morning,Low,5,3,33,22,67,96,185,Discharged,1
+HOSP-2-20241001-0280,PAT-01345,HOSP-2,Riverside Medical Center,Urban,2024-10-01 08:42:57,Tuesday,Fall,Evening,High,3,9,73,5,11,16,32,Admitted,4
+HOSP-3-20240501-0510,PAT-02506,HOSP-3,Northside Community Hospital,Rural,2024-05-01 18:08:42,Wednesday,Spring,Night,High,3,3,14,5,6,20,31,Discharged,4
+HOSP-4-20240601-0347,PAT-01722,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-01 04:32:19,Saturday,Summer,Afternoon,Low,4,1,37,28,59,95,182,Left Without Being Seen,1
+HOSP-1-20241013-0938,PAT-04664,HOSP-1,Springfield General Hospital,Urban,2024-10-13 16:06:27,Sunday,Fall,Afternoon,High,4,2,83,4,6,14,24,Admitted,4
+HOSP-4-20240207-0031,PAT-00176,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-07 00:46:54,Wednesday,Winter,Evening,Low,4,3,48,26,128,182,336,Discharged,1
+HOSP-4-20241205-0971,PAT-04894,HOSP-4,St. Mary’s Regional Health,Rural,2024-12-05 21:34:57,Thursday,Winter,Afternoon,Critical,2,1,33,3,6,22,31,Discharged,4
+HOSP-2-20240117-0400,PAT-01910,HOSP-2,Riverside Medical Center,Urban,2024-01-17 16:55:45,Wednesday,Winter,Evening,Critical,2,6,178,6,4,23,33,Admitted,4
+HOSP-3-20240222-0009,PAT-00046,HOSP-3,Northside Community Hospital,Rural,2024-02-22 18:00:11,Thursday,Winter,Evening,High,3,0,18,8,15,54,77,Admitted,3
+HOSP-2-20240715-0686,PAT-03410,HOSP-2,Riverside Medical Center,Urban,2024-07-15 02:10:48,Monday,Summer,Night,Medium,4,4,100,24,47,91,162,Discharged,1
+HOSP-1-20240702-0941,PAT-04675,HOSP-1,Springfield General Hospital,Urban,2024-07-02 03:28:05,Tuesday,Summer,Evening,Low,5,3,121,41,102,109,252,Discharged,1
+HOSP-1-20240807-0239,PAT-01076,HOSP-1,Springfield General Hospital,Urban,2024-08-07 18:35:46,Wednesday,Summer,Early Morning,Critical,1,7,95,2,3,7,12,Admitted,4
+HOSP-1-20240312-0590,PAT-02830,HOSP-1,Springfield General Hospital,Urban,2024-03-12 14:28:20,Tuesday,Spring,Late Morning,Low,4,2,155,22,51,70,143,Discharged,1
+HOSP-5-20240416-0276,PAT-01505,HOSP-5,Summit Health Center,Urban,2024-04-16 14:29:58,Tuesday,Spring,Evening,High,3,1,54,6,14,26,46,Discharged,3
+HOSP-3-20240416-0463,PAT-02310,HOSP-3,Northside Community Hospital,Rural,2024-04-16 14:12:12,Tuesday,Spring,Late Morning,Medium,3,1,42,5,19,27,51,Admitted,3
+HOSP-3-20240820-0297,PAT-01437,HOSP-3,Northside Community Hospital,Rural,2024-08-20 11:16:47,Tuesday,Summer,Evening,Medium,3,3,38,24,24,47,95,Admitted,2
+HOSP-1-20241007-0496,PAT-02419,HOSP-1,Springfield General Hospital,Urban,2024-10-07 12:12:01,Monday,Fall,Afternoon,High,3,9,155,3,6,28,37,Admitted,4
+HOSP-4-20240814-0795,PAT-03987,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-14 21:09:13,Wednesday,Summer,Evening,Medium,3,3,11,11,34,55,100,Admitted,2
+HOSP-4-20240408-0625,PAT-03099,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-08 23:59:57,Monday,Spring,Late Morning,High,4,1,40,4,14,18,36,Discharged,4
+HOSP-4-20240208-0909,PAT-04589,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-08 14:56:54,Thursday,Winter,Evening,Critical,1,2,37,3,8,11,22,Admitted,4
+HOSP-3-20241002-0060,PAT-00284,HOSP-3,Northside Community Hospital,Rural,2024-10-02 21:54:08,Wednesday,Fall,Afternoon,Low,4,2,45,24,46,72,142,Discharged,1
+HOSP-5-20240905-0970,PAT-04919,HOSP-5,Summit Health Center,Urban,2024-09-05 23:14:14,Thursday,Fall,Night,High,3,3,83,2,7,11,20,Admitted,4
+HOSP-1-20240826-0192,PAT-00843,HOSP-1,Springfield General Hospital,Urban,2024-08-26 06:05:44,Monday,Summer,Late Morning,Medium,3,4,55,13,23,31,67,Admitted,3
+HOSP-1-20240315-0315,PAT-01514,HOSP-1,Springfield General Hospital,Urban,2024-03-15 10:36:55,Friday,Spring,Early Morning,Critical,1,4,168,1,3,4,8,Admitted,5
+HOSP-2-20241101-0244,PAT-01169,HOSP-2,Riverside Medical Center,Urban,2024-11-01 16:37:59,Friday,Fall,Evening,Low,4,4,81,25,66,82,173,Discharged,1
+HOSP-4-20240108-0311,PAT-01593,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-08 04:29:36,Monday,Winter,Afternoon,Critical,1,1,14,1,3,10,14,Discharged,4
+HOSP-1-20241118-0711,PAT-03461,HOSP-1,Springfield General Hospital,Urban,2024-11-18 05:08:18,Monday,Fall,Night,High,3,4,56,4,8,30,42,Discharged,4
+HOSP-1-20241126-0662,PAT-03166,HOSP-1,Springfield General Hospital,Urban,2024-11-26 05:17:22,Tuesday,Fall,Evening,High,4,1,109,7,7,38,52,Admitted,4
+HOSP-3-20240620-0456,PAT-02285,HOSP-3,Northside Community Hospital,Rural,2024-06-20 09:25:42,Thursday,Summer,Evening,High,4,2,50,8,19,21,48,Discharged,3
+HOSP-1-20240606-0736,PAT-03576,HOSP-1,Springfield General Hospital,Urban,2024-06-06 15:28:51,Thursday,Summer,Early Morning,Medium,3,4,183,5,16,29,50,Admitted,3
+HOSP-3-20241010-0971,PAT-04871,HOSP-3,Northside Community Hospital,Rural,2024-10-10 23:37:42,Thursday,Fall,Evening,High,4,3,31,5,17,41,63,Discharged,3
+HOSP-1-20240528-0475,PAT-02306,HOSP-1,Springfield General Hospital,Urban,2024-05-28 03:22:59,Tuesday,Spring,Afternoon,Medium,3,6,51,13,17,62,92,Admitted,2
+HOSP-4-20240822-0188,PAT-00953,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-22 11:28:06,Thursday,Summer,Afternoon,Critical,2,0,44,2,4,20,26,Discharged,4
+HOSP-2-20240118-1012,PAT-04943,HOSP-2,Riverside Medical Center,Urban,2024-01-18 08:01:11,Thursday,Winter,Evening,Medium,3,7,89,23,39,59,121,Discharged,1
+HOSP-5-20240408-0575,PAT-03054,HOSP-5,Summit Health Center,Urban,2024-04-08 23:16:55,Monday,Spring,Late Morning,High,3,10,190,5,13,21,39,Admitted,4
+HOSP-2-20241015-0925,PAT-04560,HOSP-2,Riverside Medical Center,Urban,2024-10-15 06:32:14,Tuesday,Fall,Evening,High,4,3,167,5,14,26,45,Discharged,3
+HOSP-4-20240713-0540,PAT-02686,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-13 17:32:25,Saturday,Summer,Afternoon,Low,5,1,13,23,84,88,195,Discharged,1
+HOSP-4-20241127-0289,PAT-01490,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-27 01:32:00,Wednesday,Fall,Early Morning,Medium,3,1,34,8,9,18,35,Discharged,3
+HOSP-1-20240325-0205,PAT-00928,HOSP-1,Springfield General Hospital,Urban,2024-03-25 11:10:40,Monday,Spring,Early Morning,Critical,1,3,87,0,3,8,11,Admitted,5
+HOSP-1-20241122-0259,PAT-01210,HOSP-1,Springfield General Hospital,Urban,2024-11-22 15:58:58,Friday,Fall,Evening,Low,5,3,192,29,91,99,219,Left Without Being Seen,1
+HOSP-5-20240502-0788,PAT-03974,HOSP-5,Summit Health Center,Urban,2024-05-02 00:43:42,Thursday,Spring,Evening,High,3,4,163,5,8,20,33,Discharged,4
+HOSP-3-20241107-0707,PAT-03546,HOSP-3,Northside Community Hospital,Rural,2024-11-07 21:11:28,Thursday,Fall,Afternoon,Critical,1,1,48,0,2,3,5,Discharged,5
+HOSP-3-20240801-0869,PAT-04362,HOSP-3,Northside Community Hospital,Rural,2024-08-01 18:02:03,Thursday,Summer,Afternoon,Critical,1,2,44,3,2,17,22,Discharged,4
+HOSP-4-20240811-0399,PAT-01922,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-11 13:47:33,Sunday,Summer,Evening,Medium,4,2,45,28,39,71,138,Discharged,1
+HOSP-1-20240831-0090,PAT-00352,HOSP-1,Springfield General Hospital,Urban,2024-08-31 06:11:16,Saturday,Summer,Afternoon,Critical,1,4,200,1,4,15,20,Discharged,5
+HOSP-3-20240514-0978,PAT-04899,HOSP-3,Northside Community Hospital,Rural,2024-05-14 06:01:29,Tuesday,Spring,Evening,High,3,3,50,4,12,27,43,Discharged,4
+HOSP-3-20240418-0681,PAT-03394,HOSP-3,Northside Community Hospital,Rural,2024-04-18 04:30:45,Thursday,Spring,Night,Critical,2,1,23,3,2,13,18,Discharged,4
+HOSP-1-20240929-0563,PAT-02722,HOSP-1,Springfield General Hospital,Urban,2024-09-29 21:42:55,Sunday,Fall,Evening,Medium,4,7,195,19,22,63,104,Admitted,2
+HOSP-5-20240102-0985,PAT-04982,HOSP-5,Summit Health Center,Urban,2024-01-02 08:10:28,Tuesday,Winter,Night,Medium,4,10,176,8,42,78,128,Discharged,1
+HOSP-2-20240119-0135,PAT-00719,HOSP-2,Riverside Medical Center,Urban,2024-01-19 06:52:18,Friday,Winter,Evening,Low,5,5,102,38,135,124,297,Discharged,1
+HOSP-3-20241023-0544,PAT-02703,HOSP-3,Northside Community Hospital,Rural,2024-10-23 01:41:58,Wednesday,Fall,Afternoon,High,3,0,23,5,11,27,43,Discharged,4
+HOSP-5-20240225-0510,PAT-02723,HOSP-5,Summit Health Center,Urban,2024-02-25 01:27:18,Sunday,Winter,Evening,High,4,7,78,9,14,46,69,Admitted,2
+HOSP-2-20240117-0926,PAT-04562,HOSP-2,Riverside Medical Center,Urban,2024-01-17 22:58:03,Wednesday,Winter,Afternoon,High,3,8,130,6,8,31,45,Admitted,4
+HOSP-4-20240504-0055,PAT-00309,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-04 08:32:37,Saturday,Spring,Afternoon,Low,5,1,12,18,29,59,106,Discharged,1
+HOSP-3-20240423-0345,PAT-01676,HOSP-3,Northside Community Hospital,Rural,2024-04-23 18:48:50,Tuesday,Spring,Evening,Low,5,1,31,30,43,129,202,Discharged,1
+HOSP-5-20241213-0151,PAT-00834,HOSP-5,Summit Health Center,Urban,2024-12-13 00:54:09,Friday,Winter,Evening,Critical,1,2,110,4,10,22,36,Admitted,4
+HOSP-1-20241028-0094,PAT-00367,HOSP-1,Springfield General Hospital,Urban,2024-10-28 02:48:34,Monday,Fall,Evening,Medium,4,1,139,17,35,76,128,Discharged,1
+HOSP-5-20240816-0892,PAT-04507,HOSP-5,Summit Health Center,Urban,2024-08-16 11:39:43,Friday,Summer,Afternoon,Low,5,4,194,23,71,86,180,Discharged,1
+HOSP-1-20240620-0424,PAT-02079,HOSP-1,Springfield General Hospital,Urban,2024-06-20 16:37:40,Thursday,Summer,Evening,Critical,2,8,70,5,5,9,19,Admitted,5
+HOSP-2-20240612-0819,PAT-04039,HOSP-2,Riverside Medical Center,Urban,2024-06-12 05:01:18,Wednesday,Summer,Early Morning,Medium,4,5,79,6,14,38,58,Discharged,3
+HOSP-2-20240328-0989,PAT-04847,HOSP-2,Riverside Medical Center,Urban,2024-03-28 09:00:19,Thursday,Spring,Afternoon,Low,5,2,163,22,55,65,142,Left Without Being Seen,1
+HOSP-1-20240925-0901,PAT-04480,HOSP-1,Springfield General Hospital,Urban,2024-09-25 20:53:53,Wednesday,Fall,Afternoon,Low,4,7,167,26,43,87,156,Discharged,1
+HOSP-2-20240115-0368,PAT-01747,HOSP-2,Riverside Medical Center,Urban,2024-01-15 20:35:04,Monday,Winter,Late Morning,Low,4,2,86,27,87,133,247,Discharged,1
+HOSP-3-20240225-0005,PAT-00020,HOSP-3,Northside Community Hospital,Rural,2024-02-25 18:38:03,Sunday,Winter,Night,Medium,3,3,36,6,11,47,64,Admitted,3
+HOSP-5-20240127-0235,PAT-01323,HOSP-5,Summit Health Center,Urban,2024-01-27 13:14:59,Saturday,Winter,Evening,Medium,4,7,161,11,42,91,144,Discharged,1
+HOSP-1-20240715-0734,PAT-03568,HOSP-1,Springfield General Hospital,Urban,2024-07-15 22:10:25,Monday,Summer,Late Morning,Low,4,10,115,25,89,93,207,Left Without Being Seen,1
+HOSP-4-20240602-0509,PAT-02522,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-02 21:12:49,Sunday,Summer,Late Morning,Low,4,3,47,21,49,63,133,Discharged,1
+HOSP-5-20240209-0040,PAT-00219,HOSP-5,Summit Health Center,Urban,2024-02-09 09:07:55,Friday,Winter,Evening,Medium,3,7,149,15,40,103,158,Discharged,1
+HOSP-2-20240507-0310,PAT-01488,HOSP-2,Riverside Medical Center,Urban,2024-05-07 13:22:08,Tuesday,Spring,Evening,High,4,1,123,5,16,31,52,Admitted,3
+HOSP-1-20241215-0112,PAT-00439,HOSP-1,Springfield General Hospital,Urban,2024-12-15 03:57:23,Sunday,Winter,Late Morning,Low,5,2,58,17,48,66,131,Discharged,1
+HOSP-1-20240810-0847,PAT-04175,HOSP-1,Springfield General Hospital,Urban,2024-08-10 07:43:15,Saturday,Summer,Afternoon,Low,4,4,89,16,53,59,128,Discharged,1
+HOSP-1-20241109-0572,PAT-02751,HOSP-1,Springfield General Hospital,Urban,2024-11-09 19:59:27,Saturday,Fall,Night,Medium,4,4,99,13,24,28,65,Discharged,3
+HOSP-1-20240208-0684,PAT-03289,HOSP-1,Springfield General Hospital,Urban,2024-02-08 01:48:36,Thursday,Winter,Afternoon,Critical,1,3,163,2,4,18,24,Discharged,5
+HOSP-3-20241228-0693,PAT-03434,HOSP-3,Northside Community Hospital,Rural,2024-12-28 22:24:47,Saturday,Winter,Evening,High,3,0,25,6,10,41,57,Discharged,3
+HOSP-3-20240627-0516,PAT-02526,HOSP-3,Northside Community Hospital,Rural,2024-06-27 10:50:00,Thursday,Summer,Early Morning,High,3,0,30,2,7,11,20,Admitted,4
+HOSP-3-20240707-0934,PAT-04651,HOSP-3,Northside Community Hospital,Rural,2024-07-07 17:02:24,Sunday,Summer,Evening,Critical,1,0,47,3,6,17,26,Admitted,4
+HOSP-1-20240211-0749,PAT-03689,HOSP-1,Springfield General Hospital,Urban,2024-02-11 17:38:45,Sunday,Winter,Afternoon,High,4,7,194,8,14,40,62,Admitted,3
+HOSP-1-20240215-0575,PAT-02764,HOSP-1,Springfield General Hospital,Urban,2024-02-15 11:57:22,Thursday,Winter,Evening,Low,5,2,96,37,102,117,256,Left Without Being Seen,1
+HOSP-1-20240823-0188,PAT-00803,HOSP-1,Springfield General Hospital,Urban,2024-08-23 04:34:18,Friday,Summer,Afternoon,High,3,2,115,5,11,33,49,Admitted,3
+HOSP-3-20240611-0604,PAT-02998,HOSP-3,Northside Community Hospital,Rural,2024-06-11 16:16:36,Tuesday,Summer,Night,Medium,3,1,21,9,18,35,62,Discharged,3
+HOSP-2-20240404-0454,PAT-02229,HOSP-2,Riverside Medical Center,Urban,2024-04-04 02:26:18,Thursday,Spring,Evening,High,3,1,133,6,13,36,55,Discharged,3
+HOSP-5-20240519-0949,PAT-04786,HOSP-5,Summit Health Center,Urban,2024-05-19 01:27:21,Sunday,Spring,Evening,High,4,6,131,4,7,23,34,Discharged,4
+HOSP-2-20241009-0427,PAT-02078,HOSP-2,Riverside Medical Center,Urban,2024-10-09 15:20:41,Wednesday,Fall,Evening,Low,4,7,123,20,31,106,157,Left Without Being Seen,1
+HOSP-4-20240906-0102,PAT-00583,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-06 22:40:03,Friday,Fall,Late Morning,Critical,1,3,23,0,4,12,16,Discharged,5
+HOSP-4-20240826-0035,PAT-00204,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-26 08:33:18,Monday,Summer,Evening,Critical,1,3,13,1,5,13,19,Admitted,4
+HOSP-3-20240713-0862,PAT-04347,HOSP-3,Northside Community Hospital,Rural,2024-07-13 19:56:36,Saturday,Summer,Night,Low,5,3,14,20,40,68,128,Discharged,1
+HOSP-1-20241204-0717,PAT-03479,HOSP-1,Springfield General Hospital,Urban,2024-12-04 02:16:35,Wednesday,Winter,Late Morning,Critical,1,1,110,2,3,13,18,Admitted,4
+HOSP-5-20240916-0549,PAT-02930,HOSP-5,Summit Health Center,Urban,2024-09-16 06:19:58,Monday,Fall,Early Morning,Low,5,4,146,14,45,82,141,Discharged,1
+HOSP-3-20241027-0622,PAT-03086,HOSP-3,Northside Community Hospital,Rural,2024-10-27 00:32:27,Sunday,Fall,Early Morning,Medium,4,2,45,4,12,27,43,Discharged,3
+HOSP-1-20240220-0229,PAT-01019,HOSP-1,Springfield General Hospital,Urban,2024-02-20 03:15:10,Tuesday,Winter,Afternoon,Low,4,10,97,36,89,107,232,Discharged,1
+HOSP-1-20240816-0334,PAT-01584,HOSP-1,Springfield General Hospital,Urban,2024-08-16 10:35:57,Friday,Summer,Afternoon,High,3,10,155,4,7,14,25,Admitted,4
+HOSP-2-20240524-0207,PAT-01033,HOSP-2,Riverside Medical Center,Urban,2024-05-24 14:36:37,Friday,Spring,Afternoon,High,4,10,62,7,12,27,46,Admitted,4
+HOSP-1-20240811-0353,PAT-01719,HOSP-1,Springfield General Hospital,Urban,2024-08-11 22:22:07,Sunday,Summer,Late Morning,Medium,3,7,150,11,11,37,59,Admitted,3
+HOSP-3-20241230-0267,PAT-01282,HOSP-3,Northside Community Hospital,Rural,2024-12-30 22:21:56,Monday,Winter,Night,Critical,2,1,40,6,10,18,34,Admitted,4
+HOSP-3-20241107-0508,PAT-02499,HOSP-3,Northside Community Hospital,Rural,2024-11-07 18:03:34,Thursday,Fall,Evening,High,3,2,39,5,6,22,33,Admitted,4
+HOSP-5-20240908-0637,PAT-03351,HOSP-5,Summit Health Center,Urban,2024-09-08 15:41:23,Sunday,Fall,Evening,Low,5,8,71,13,55,52,120,Admitted,1
+HOSP-2-20240821-0103,PAT-00518,HOSP-2,Riverside Medical Center,Urban,2024-08-21 11:22:32,Wednesday,Summer,Afternoon,Critical,2,3,132,4,2,17,23,Discharged,5
+HOSP-4-20240210-0356,PAT-01748,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-10 12:34:39,Saturday,Winter,Afternoon,High,3,1,28,5,14,21,40,Discharged,3
+HOSP-2-20240131-0946,PAT-04653,HOSP-2,Riverside Medical Center,Urban,2024-01-31 06:08:18,Wednesday,Winter,Late Morning,Critical,2,3,105,4,7,19,30,Admitted,4
+HOSP-2-20240627-0757,PAT-03733,HOSP-2,Riverside Medical Center,Urban,2024-06-27 03:37:24,Thursday,Summer,Evening,Critical,1,2,114,1,7,12,20,Admitted,4
+HOSP-5-20240501-0121,PAT-00669,HOSP-5,Summit Health Center,Urban,2024-05-01 02:19:34,Wednesday,Spring,Evening,High,3,8,159,5,8,37,50,Admitted,3
+HOSP-2-20240915-0824,PAT-04060,HOSP-2,Riverside Medical Center,Urban,2024-09-15 14:47:09,Sunday,Fall,Early Morning,High,4,4,184,3,3,11,17,Admitted,4
+HOSP-4-20240621-0610,PAT-03027,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-21 23:24:56,Friday,Summer,Evening,High,4,3,28,7,21,35,63,Admitted,3
+HOSP-5-20241108-0975,PAT-04933,HOSP-5,Summit Health Center,Urban,2024-11-08 09:19:06,Friday,Fall,Evening,Critical,1,9,162,2,2,14,18,Admitted,4
+HOSP-1-20240505-0682,PAT-03287,HOSP-1,Springfield General Hospital,Urban,2024-05-05 16:30:21,Sunday,Spring,Late Morning,Medium,3,5,104,11,21,27,59,Admitted,3
+HOSP-3-20240624-0537,PAT-02651,HOSP-3,Northside Community Hospital,Rural,2024-06-24 12:43:25,Monday,Summer,Evening,Critical,1,1,24,5,5,21,31,Discharged,4
+HOSP-1-20240409-0896,PAT-04454,HOSP-1,Springfield General Hospital,Urban,2024-04-09 16:01:25,Tuesday,Spring,Night,High,4,2,84,4,14,23,41,Discharged,4
+HOSP-4-20241023-0647,PAT-03193,HOSP-4,St. Mary’s Regional Health,Rural,2024-10-23 05:52:23,Wednesday,Fall,Early Morning,Medium,3,1,15,3,16,29,48,Discharged,3
+HOSP-2-20240919-0437,PAT-02125,HOSP-2,Riverside Medical Center,Urban,2024-09-19 02:44:15,Thursday,Fall,Afternoon,Critical,2,8,196,3,5,17,25,Discharged,4
+HOSP-1-20240804-0698,PAT-03376,HOSP-1,Springfield General Hospital,Urban,2024-08-04 23:45:37,Sunday,Summer,Night,Low,4,10,85,12,43,66,121,Discharged,1
+HOSP-2-20240725-0681,PAT-03393,HOSP-2,Riverside Medical Center,Urban,2024-07-25 02:32:19,Thursday,Summer,Evening,Low,5,1,75,38,108,149,295,Discharged,1
+HOSP-4-20240220-0698,PAT-03486,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-20 02:16:50,Tuesday,Winter,Late Morning,Critical,2,0,41,4,5,9,18,Discharged,5
+HOSP-3-20241211-0162,PAT-00760,HOSP-3,Northside Community Hospital,Rural,2024-12-11 20:41:26,Wednesday,Winter,Afternoon,Low,4,2,28,27,59,92,178,Discharged,1
+HOSP-5-20241019-0642,PAT-03380,HOSP-5,Summit Health Center,Urban,2024-10-19 06:51:22,Saturday,Fall,Afternoon,Low,5,2,121,18,53,52,123,Discharged,1
+HOSP-3-20241214-0887,PAT-04441,HOSP-3,Northside Community Hospital,Rural,2024-12-14 16:54:47,Saturday,Winter,Evening,High,3,1,42,5,9,36,50,Admitted,3
+HOSP-3-20241214-0517,PAT-02527,HOSP-3,Northside Community Hospital,Rural,2024-12-14 15:25:42,Saturday,Winter,Afternoon,Critical,1,3,18,3,3,16,22,Admitted,5
+HOSP-1-20240213-0971,PAT-04859,HOSP-1,Springfield General Hospital,Urban,2024-02-13 00:22:15,Tuesday,Winter,Night,Critical,1,2,173,2,4,11,17,Admitted,4
+HOSP-3-20240517-0194,PAT-00908,HOSP-3,Northside Community Hospital,Rural,2024-05-17 00:57:31,Friday,Spring,Evening,High,4,3,48,9,17,30,56,Admitted,3
+HOSP-2-20240826-0549,PAT-02684,HOSP-2,Riverside Medical Center,Urban,2024-08-26 19:59:34,Monday,Summer,Afternoon,Medium,3,1,78,17,21,57,95,Discharged,2
+HOSP-2-20241210-0042,PAT-00215,HOSP-2,Riverside Medical Center,Urban,2024-12-10 20:39:25,Tuesday,Winter,Afternoon,Low,5,10,144,30,69,132,231,Discharged,1
+HOSP-5-20240705-0633,PAT-03332,HOSP-5,Summit Health Center,Urban,2024-07-05 10:22:18,Friday,Summer,Early Morning,High,3,6,98,4,8,17,29,Discharged,4
+HOSP-5-20240518-0879,PAT-04459,HOSP-5,Summit Health Center,Urban,2024-05-18 05:31:41,Saturday,Spring,Afternoon,High,3,8,107,4,5,21,30,Admitted,4
+HOSP-4-20240330-0130,PAT-00694,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-30 09:59:31,Saturday,Spring,Late Morning,Low,4,0,20,16,53,66,135,Left Without Being Seen,1
+HOSP-5-20241104-0275,PAT-01504,HOSP-5,Summit Health Center,Urban,2024-11-04 11:51:44,Monday,Fall,Evening,High,4,5,118,8,17,49,74,Discharged,2
+HOSP-3-20240124-0489,PAT-02415,HOSP-3,Northside Community Hospital,Rural,2024-01-24 03:38:09,Wednesday,Winter,Late Morning,Low,4,1,34,16,76,103,195,Discharged,1
+HOSP-1-20240111-0432,PAT-02119,HOSP-1,Springfield General Hospital,Urban,2024-01-11 10:25:58,Thursday,Winter,Evening,Critical,1,4,108,5,6,13,24,Discharged,5
+HOSP-2-20240630-0783,PAT-03859,HOSP-2,Riverside Medical Center,Urban,2024-06-30 13:43:08,Sunday,Summer,Late Morning,High,3,4,141,3,7,9,19,Admitted,5
+HOSP-2-20240903-0504,PAT-02463,HOSP-2,Riverside Medical Center,Urban,2024-09-03 14:47:41,Tuesday,Fall,Late Morning,Critical,2,8,58,2,2,6,10,Admitted,5
+HOSP-5-20240621-0716,PAT-03636,HOSP-5,Summit Health Center,Urban,2024-06-21 13:43:09,Friday,Summer,Evening,High,3,4,63,7,14,43,64,Discharged,3
+HOSP-3-20240618-0808,PAT-04106,HOSP-3,Northside Community Hospital,Rural,2024-06-18 20:34:08,Tuesday,Summer,Early Morning,Low,4,1,38,16,54,58,128,Discharged,1
+HOSP-5-20241126-0885,PAT-04479,HOSP-5,Summit Health Center,Urban,2024-11-26 04:51:35,Tuesday,Fall,Late Morning,Medium,3,6,170,11,8,19,38,Discharged,4
+HOSP-1-20240301-0054,PAT-00197,HOSP-1,Springfield General Hospital,Urban,2024-03-01 11:24:00,Friday,Spring,Evening,Critical,1,4,191,4,4,9,17,Discharged,5
+HOSP-3-20241212-0937,PAT-04668,HOSP-3,Northside Community Hospital,Rural,2024-12-12 09:51:42,Thursday,Winter,Evening,Medium,3,1,23,27,21,90,138,Discharged,1
+HOSP-3-20240306-0318,PAT-01544,HOSP-3,Northside Community Hospital,Rural,2024-03-06 20:21:56,Wednesday,Spring,Afternoon,Low,4,0,35,22,73,80,175,Discharged,1
+HOSP-3-20240714-0275,PAT-01331,HOSP-3,Northside Community Hospital,Rural,2024-07-14 17:52:31,Sunday,Summer,Afternoon,Critical,2,2,37,2,3,12,17,Discharged,5
+HOSP-4-20240715-0167,PAT-00880,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-15 01:26:12,Monday,Summer,Evening,Critical,2,1,16,6,6,15,27,Admitted,4
+HOSP-1-20241004-0905,PAT-04503,HOSP-1,Springfield General Hospital,Urban,2024-10-04 15:17:13,Friday,Fall,Evening,Medium,3,2,65,11,32,49,92,Admitted,2
+HOSP-5-20240921-0674,PAT-03502,HOSP-5,Summit Health Center,Urban,2024-09-21 15:27:11,Saturday,Fall,Afternoon,Critical,1,3,180,0,2,4,6,Admitted,5
+HOSP-5-20240610-0771,PAT-03895,HOSP-5,Summit Health Center,Urban,2024-06-10 04:58:24,Monday,Summer,Late Morning,Low,5,2,152,31,43,90,164,Left Without Being Seen,1
+HOSP-1-20240913-0993,PAT-04991,HOSP-1,Springfield General Hospital,Urban,2024-09-13 15:50:56,Friday,Fall,Evening,Critical,1,10,123,3,2,14,19,Admitted,4
+HOSP-2-20240713-0168,PAT-00888,HOSP-2,Riverside Medical Center,Urban,2024-07-13 04:38:06,Saturday,Summer,Evening,Critical,2,9,184,4,3,11,18,Discharged,4
+HOSP-2-20240609-0281,PAT-01346,HOSP-2,Riverside Medical Center,Urban,2024-06-09 13:23:39,Sunday,Summer,Late Morning,Medium,3,1,108,13,9,47,69,Admitted,2
+HOSP-5-20240605-0012,PAT-00069,HOSP-5,Summit Health Center,Urban,2024-06-05 04:20:31,Wednesday,Summer,Evening,Critical,2,2,57,1,5,8,14,Admitted,4
+HOSP-5-20240911-0832,PAT-04211,HOSP-5,Summit Health Center,Urban,2024-09-11 09:19:35,Wednesday,Fall,Afternoon,Critical,2,2,196,3,2,10,15,Admitted,5
+HOSP-1-20241105-0375,PAT-01816,HOSP-1,Springfield General Hospital,Urban,2024-11-05 07:28:45,Tuesday,Fall,Evening,Critical,1,9,136,1,4,16,21,Admitted,5
+HOSP-2-20240621-0113,PAT-00569,HOSP-2,Riverside Medical Center,Urban,2024-06-21 03:50:03,Friday,Summer,Evening,Critical,1,5,145,4,4,22,30,Discharged,4
+HOSP-2-20240615-0442,PAT-02168,HOSP-2,Riverside Medical Center,Urban,2024-06-15 10:48:51,Saturday,Summer,Late Morning,Critical,2,8,175,2,3,14,19,Admitted,4
+HOSP-5-20240308-0016,PAT-00097,HOSP-5,Summit Health Center,Urban,2024-03-08 00:33:32,Friday,Spring,Late Morning,High,4,9,109,4,11,15,30,Admitted,4
+HOSP-5-20240917-0825,PAT-04182,HOSP-5,Summit Health Center,Urban,2024-09-17 20:58:29,Tuesday,Fall,Evening,Low,4,9,194,19,38,89,146,Left Without Being Seen,1
+HOSP-1-20240412-0692,PAT-03354,HOSP-1,Springfield General Hospital,Urban,2024-04-12 02:02:25,Friday,Spring,Early Morning,Low,4,8,124,13,19,63,95,Discharged,2
+HOSP-4-20241129-0025,PAT-00140,HOSP-4,St. Mary’s Regional Health,Rural,2024-11-29 08:20:15,Friday,Fall,Afternoon,Medium,4,3,13,18,15,42,75,Discharged,3
+HOSP-3-20241210-0992,PAT-04955,HOSP-3,Northside Community Hospital,Rural,2024-12-10 06:11:09,Tuesday,Winter,Afternoon,Medium,4,3,43,14,20,82,116,Admitted,1
+HOSP-4-20240601-0519,PAT-02603,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-01 08:21:19,Saturday,Summer,Afternoon,Critical,1,0,34,0,2,11,13,Admitted,5
+HOSP-2-20241213-0818,PAT-04024,HOSP-2,Riverside Medical Center,Urban,2024-12-13 18:36:00,Friday,Winter,Evening,Medium,3,1,138,15,27,82,124,Left Without Being Seen,1
+HOSP-2-20240216-0972,PAT-04773,HOSP-2,Riverside Medical Center,Urban,2024-02-16 13:19:31,Friday,Winter,Late Morning,Medium,3,3,57,25,41,62,128,Left Without Being Seen,1
+HOSP-5-20241029-0286,PAT-01607,HOSP-5,Summit Health Center,Urban,2024-10-29 05:14:22,Tuesday,Fall,Afternoon,Critical,1,4,103,1,4,10,15,Admitted,4
+HOSP-4-20240715-0322,PAT-01630,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-15 17:59:49,Monday,Summer,Evening,High,4,3,25,12,18,43,73,Admitted,3
+HOSP-4-20240627-0299,PAT-01540,HOSP-4,St. Mary’s Regional Health,Rural,2024-06-27 20:18:40,Thursday,Summer,Afternoon,High,4,2,24,6,15,27,48,Admitted,4
+HOSP-4-20240105-0340,PAT-01695,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-05 14:13:35,Friday,Winter,Afternoon,High,3,1,20,7,18,41,66,Discharged,3
+HOSP-2-20240525-0425,PAT-02060,HOSP-2,Riverside Medical Center,Urban,2024-05-25 23:47:32,Saturday,Spring,Late Morning,Critical,2,4,52,1,1,10,12,Discharged,4
+HOSP-5-20240716-0076,PAT-00464,HOSP-5,Summit Health Center,Urban,2024-07-16 16:37:31,Tuesday,Summer,Afternoon,Medium,3,9,152,18,25,57,100,Discharged,2
+HOSP-3-20241122-0470,PAT-02331,HOSP-3,Northside Community Hospital,Rural,2024-11-22 04:24:58,Friday,Fall,Early Morning,Critical,2,2,36,0,3,9,12,Admitted,4
+HOSP-5-20240119-0574,PAT-03044,HOSP-5,Summit Health Center,Urban,2024-01-19 06:45:19,Friday,Winter,Evening,Medium,4,3,161,34,52,95,181,Discharged,1
+HOSP-5-20241025-0938,PAT-04735,HOSP-5,Summit Health Center,Urban,2024-10-25 09:32:58,Friday,Fall,Afternoon,Medium,4,7,112,16,32,38,86,Admitted,2
+HOSP-5-20240329-0104,PAT-00595,HOSP-5,Summit Health Center,Urban,2024-03-29 01:42:55,Friday,Spring,Afternoon,Medium,3,5,56,6,33,29,68,Admitted,3
+HOSP-4-20240829-0754,PAT-03815,HOSP-4,St. Mary’s Regional Health,Rural,2024-08-29 03:10:42,Thursday,Summer,Evening,Medium,3,1,50,14,41,46,101,Admitted,2
+HOSP-4-20240721-0111,PAT-00626,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-21 03:26:43,Sunday,Summer,Early Morning,Medium,3,0,36,8,12,30,50,Discharged,4
+HOSP-4-20240715-0077,PAT-00451,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-15 00:56:31,Monday,Summer,Afternoon,Low,4,3,32,42,73,121,236,Discharged,1
+HOSP-4-20240906-0291,PAT-01500,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-06 10:24:00,Friday,Fall,Late Morning,Medium,3,1,45,6,19,41,66,Admitted,2
+HOSP-2-20240729-0502,PAT-02457,HOSP-2,Riverside Medical Center,Urban,2024-07-29 04:05:21,Monday,Summer,Evening,Medium,4,9,183,34,51,92,177,Discharged,1
+HOSP-3-20240103-0947,PAT-04723,HOSP-3,Northside Community Hospital,Rural,2024-01-03 11:09:56,Wednesday,Winter,Early Morning,Medium,3,3,47,12,20,48,80,Admitted,2
+HOSP-4-20240307-0602,PAT-02985,HOSP-4,St. Mary’s Regional Health,Rural,2024-03-07 09:00:16,Thursday,Spring,Early Morning,High,4,3,11,4,7,20,31,Admitted,4
+HOSP-2-20240701-0329,PAT-01570,HOSP-2,Riverside Medical Center,Urban,2024-07-01 11:34:12,Monday,Summer,Evening,Critical,1,5,68,5,7,25,37,Admitted,4
+HOSP-2-20240729-0208,PAT-01035,HOSP-2,Riverside Medical Center,Urban,2024-07-29 01:27:32,Monday,Summer,Night,Low,4,4,133,30,102,91,223,Left Without Being Seen,1
+HOSP-2-20240530-0711,PAT-03519,HOSP-2,Riverside Medical Center,Urban,2024-05-30 03:18:09,Thursday,Spring,Early Morning,Low,4,5,183,20,23,63,106,Discharged,1
+HOSP-4-20240701-0303,PAT-01558,HOSP-4,St. Mary’s Regional Health,Rural,2024-07-01 06:10:14,Monday,Summer,Afternoon,Critical,1,0,45,1,6,15,22,Discharged,4
+HOSP-3-20240413-0721,PAT-03625,HOSP-3,Northside Community Hospital,Rural,2024-04-13 12:20:33,Saturday,Spring,Evening,Critical,1,0,42,2,3,13,18,Discharged,5
+HOSP-5-20240405-0923,PAT-04665,HOSP-5,Summit Health Center,Urban,2024-04-05 21:59:04,Friday,Spring,Afternoon,Critical,1,4,78,0,1,5,6,Discharged,5
+HOSP-2-20240202-0029,PAT-00151,HOSP-2,Riverside Medical Center,Urban,2024-02-02 03:43:01,Friday,Winter,Night,Low,4,9,174,38,53,139,230,Discharged,1
+HOSP-3-20240917-0295,PAT-01421,HOSP-3,Northside Community Hospital,Rural,2024-09-17 18:11:03,Tuesday,Fall,Evening,Critical,2,2,44,1,2,8,11,Discharged,5
+HOSP-5-20240728-0362,PAT-02012,HOSP-5,Summit Health Center,Urban,2024-07-28 22:41:47,Sunday,Summer,Late Morning,Medium,3,6,148,6,19,39,64,Admitted,3
+HOSP-5-20240907-0503,PAT-02687,HOSP-5,Summit Health Center,Urban,2024-09-07 18:38:27,Saturday,Fall,Afternoon,Critical,2,5,94,2,4,10,16,Discharged,5
+HOSP-3-20241023-0362,PAT-01787,HOSP-3,Northside Community Hospital,Rural,2024-10-23 00:38:09,Wednesday,Fall,Early Morning,Medium,4,0,31,10,18,21,49,Discharged,3
+HOSP-1-20240307-0025,PAT-00089,HOSP-1,Springfield General Hospital,Urban,2024-03-07 16:57:43,Thursday,Spring,Late Morning,Low,5,8,61,26,51,52,129,Left Without Being Seen,1
+HOSP-3-20241121-0100,PAT-00458,HOSP-3,Northside Community Hospital,Rural,2024-11-21 19:32:21,Thursday,Fall,Afternoon,High,3,2,25,3,8,21,32,Admitted,4
+HOSP-5-20241119-0233,PAT-01306,HOSP-5,Summit Health Center,Urban,2024-11-19 01:55:55,Tuesday,Fall,Afternoon,Medium,4,2,68,13,13,38,64,Admitted,3
+HOSP-5-20240325-0548,PAT-02926,HOSP-5,Summit Health Center,Urban,2024-03-25 09:18:55,Monday,Spring,Late Morning,Critical,2,8,123,4,2,6,12,Admitted,5
+HOSP-3-20240229-0649,PAT-03271,HOSP-3,Northside Community Hospital,Rural,2024-02-29 20:58:28,Thursday,Winter,Late Morning,Critical,1,1,47,2,2,8,12,Admitted,5
+HOSP-4-20240903-0654,PAT-03228,HOSP-4,St. Mary’s Regional Health,Rural,2024-09-03 16:27:38,Tuesday,Fall,Late Morning,High,3,2,33,2,8,18,28,Discharged,4
+HOSP-1-20240428-0404,PAT-01989,HOSP-1,Springfield General Hospital,Urban,2024-04-28 10:50:34,Sunday,Spring,Early Morning,High,3,9,68,2,5,9,16,Admitted,4
+HOSP-3-20241229-0739,PAT-03755,HOSP-3,Northside Community Hospital,Rural,2024-12-29 11:08:53,Sunday,Winter,Afternoon,High,3,2,43,5,7,22,34,Discharged,4
+HOSP-5-20241028-0720,PAT-03647,HOSP-5,Summit Health Center,Urban,2024-10-28 06:14:21,Monday,Fall,Early Morning,Critical,1,7,103,2,1,6,9,Admitted,5
+HOSP-2-20240917-0156,PAT-00832,HOSP-2,Riverside Medical Center,Urban,2024-09-17 20:50:08,Tuesday,Fall,Night,Critical,1,2,149,2,3,10,15,Admitted,5
+HOSP-5-20240329-0045,PAT-00240,HOSP-5,Summit Health Center,Urban,2024-03-29 15:09:01,Friday,Spring,Late Morning,Low,5,1,164,22,40,93,155,Discharged,1
+HOSP-4-20240522-0924,PAT-04682,HOSP-4,St. Mary’s Regional Health,Rural,2024-05-22 05:49:06,Wednesday,Spring,Evening,High,3,3,35,4,10,19,33,Discharged,4
+HOSP-5-20240729-0567,PAT-03023,HOSP-5,Summit Health Center,Urban,2024-07-29 01:14:31,Monday,Summer,Afternoon,Medium,3,6,130,23,21,45,89,Discharged,2
+HOSP-4-20240204-0634,PAT-03149,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-04 17:19:05,Sunday,Winter,Evening,Critical,1,2,20,1,7,19,27,Discharged,4
+HOSP-3-20240428-0389,PAT-01947,HOSP-3,Northside Community Hospital,Rural,2024-04-28 11:16:06,Sunday,Spring,Night,Medium,3,1,11,9,18,32,59,Admitted,3
+HOSP-2-20240713-0561,PAT-02776,HOSP-2,Riverside Medical Center,Urban,2024-07-13 19:40:28,Saturday,Summer,Night,Low,5,2,183,15,56,93,164,Discharged,1
+HOSP-1-20240104-0051,PAT-00193,HOSP-1,Springfield General Hospital,Urban,2024-01-04 14:45:11,Thursday,Winter,Evening,Low,5,8,139,32,114,107,253,Discharged,1
+HOSP-4-20240218-0960,PAT-04850,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-18 22:50:41,Sunday,Winter,Late Morning,Medium,4,0,40,20,18,41,79,Admitted,3
+HOSP-2-20240828-1011,PAT-04940,HOSP-2,Riverside Medical Center,Urban,2024-08-28 12:42:44,Wednesday,Summer,Night,High,4,10,148,5,13,34,52,Admitted,3
+HOSP-4-20240125-0183,PAT-00945,HOSP-4,St. Mary’s Regional Health,Rural,2024-01-25 07:00:39,Thursday,Winter,Afternoon,Critical,1,2,39,1,2,9,12,Admitted,4
+HOSP-1-20240318-0265,PAT-01269,HOSP-1,Springfield General Hospital,Urban,2024-03-18 17:33:15,Monday,Spring,Evening,Medium,4,9,138,21,44,46,111,Discharged,1
+HOSP-5-20240713-0838,PAT-04232,HOSP-5,Summit Health Center,Urban,2024-07-13 08:35:41,Saturday,Summer,Night,Low,4,10,178,16,59,88,163,Discharged,1
+HOSP-5-20240325-0423,PAT-02308,HOSP-5,Summit Health Center,Urban,2024-03-25 21:16:10,Monday,Spring,Afternoon,Medium,3,6,63,23,35,57,115,Admitted,1
+HOSP-4-20240424-0882,PAT-04425,HOSP-4,St. Mary’s Regional Health,Rural,2024-04-24 18:15:25,Wednesday,Spring,Evening,Low,4,3,10,29,65,106,200,Left Without Being Seen,1
+HOSP-4-20240214-0930,PAT-04712,HOSP-4,St. Mary’s Regional Health,Rural,2024-02-14 09:56:35,Wednesday,Winter,Afternoon,Medium,4,1,26,25,40,42,107,Admitted,2
+HOSP-1-20241202-0477,PAT-02314,HOSP-1,Springfield General Hospital,Urban,2024-12-02 01:07:39,Monday,Winter,Late Morning,Critical,2,6,131,3,5,14,22,Admitted,5
+HOSP-2-20240305-0645,PAT-03215,HOSP-2,Riverside Medical Center,Urban,2024-03-05 16:04:26,Tuesday,Spring,Night,High,4,6,59,5,10,22,37,Discharged,4
+HOSP-2-20240203-0553,PAT-02733,HOSP-2,Riverside Medical Center,Urban,2024-02-03 03:33:23,Saturday,Winter,Night,Low,5,5,145,18,63,88,169,Discharged,1
+HOSP-1-20241121-0394,PAT-01927,HOSP-1,Springfield General Hospital,Urban,2024-11-21 01:39:48,Thursday,Fall,Early Morning,High,3,8,142,2,4,10,16,Admitted,4
