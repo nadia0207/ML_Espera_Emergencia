@@ -2,6 +2,24 @@ import numpy as np
 import pandas as pd
 
 def card_tipo(df,umbral_categoria = 10, umbral_continua = 30):
+    """
+    Analiza la cardinalidad de cada columna del DataFrame y sugiere el tipo de variable.
+
+    Parameters
+    ----------
+    df : pd.DataFrame - DataFrame a analizar.
+    umbral_categoria : int, optional (Por defecto 10)
+    umbral_continua  : float, optional (Por defecto 30)
+
+    Returns
+    -------
+    pd.DataFrame con las columnas: Card, %_Card, Tipo, tipo_sugerido.
+        - Card: número de valores únicos
+        - %_Card: porcentaje de valores únicos sobre el total
+        - Tipo: tipo de dato original
+        - tipo_sugerido: sugerencia de tipo (Binaria, Categorica, Numerica discreta, Numerica continua)
+    """
+
     # Primera parte: Preparo el dataset con cardinalidades, % variación cardinalidad, y tipos
     df_temp = pd.DataFrame([df.nunique(), df.nunique()/len(df) * 100, df.dtypes]) # Cardinaliad y porcentaje de variación de cardinalidad
     df_temp = df_temp.T # Como nos da los valores de las columnas en columnas, y quiero que estas sean filas, la traspongo
@@ -20,20 +38,61 @@ def card_tipo(df,umbral_categoria = 10, umbral_continua = 30):
     return df_temp
 
 # ========================================================================================
-'''
-'Visit ID',
-'Patient ID',
-'Hospital ID',
-'Total Wait Time (min)',
-'Visit Date',
-'Hospital Name' ,
-'Region',
-'Specialist Availability',
-'Facility Size (Beds)
-'''
 
 def elimina_columna(df, *columnas):
+    """
+    Elimina una o varias columnas de un DataFrame.
+
+    Parameters
+    ----------
+    df : pd.DataFrame - DataFrame del que se eliminarán las columnas.
+    *columnas : str - Nombres de las columnas a eliminar. Se pueden pasar múltiples columnas.
+
+    Returns
+    -------
+    pd.DataFrame - DataFrame sin las columnas especificadas.
+
+    Example
+    -------
+    >>> elimina_columna(df, 'Visit ID', 'Patient ID', 'Hospital ID')
+    """   
+
     return df.drop(columns = list(columnas)) 
+
+#=========================================================================================
+#======== Categorizar tiempo de espera hasta médico =======
+def categoriza_espera(df):
+    """
+    Crea una variable categórica ordinal a partir del tiempo de espera hasta ser atendido por un médico.
+
+    Los tramos definidos son:
+        1 → Corta    : 0  a 15 minutos
+        2 → Media    : 15 a 45 minutos
+        3 → Larga    : 45 a 90 minutos
+        4 → Muy larga: más de 90 minutos
+
+    Parameters
+    ----------
+    df : pd.DataFrame - DataFrame que debe contener la columna 'Time to Medical Professional (min)'.
+
+    Returns
+    -------
+    pd.DataFrame - DataFrame con la nueva columna 'categoria_espera' de tipo entero (1-4).
+
+    Example
+    -------
+    >>> categoriza_espera(df)
+    """
+
+    bins = [0, 15, 45, 90, float('inf')] #(90 - hasta infinito)
+    labels = [1, 2, 3, 4]
+    df = df.copy()
+    df['categoria_espera'] = pd.cut(
+        df['Time to Medical Professional (min)'],
+        bins=bins,
+        labels=labels
+    ).astype(int)
+    return df
 
 
 
