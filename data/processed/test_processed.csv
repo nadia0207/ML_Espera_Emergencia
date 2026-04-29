@@ -1,0 +1,1001 @@
+Day of Week,Season,Time of Day,Urgency Level,Nurse-to-Patient Ratio,Time to Registration (min),Time to Triage (min),Time to Medical Professional (min),Patient Satisfaction,categoria_espera
+Monday,Spring,Evening,Low,4,34,97,130,1,4
+Thursday,Winter,Afternoon,Low,5,31,68,91,1,4
+Tuesday,Summer,Afternoon,High,3,6,11,27,3,2
+Monday,Spring,Afternoon,High,4,9,13,32,3,2
+Tuesday,Spring,Night,High,4,5,10,22,4,2
+Tuesday,Winter,Late Morning,Critical,2,1,4,21,4,2
+Tuesday,Spring,Night,Low,4,15,60,86,1,3
+Monday,Spring,Evening,High,3,10,21,38,2,2
+Tuesday,Fall,Night,Low,5,19,33,67,1,3
+Tuesday,Fall,Afternoon,Critical,1,1,4,10,4,1
+Wednesday,Spring,Afternoon,Critical,2,1,5,9,5,1
+Wednesday,Spring,Evening,Medium,4,18,34,76,1,3
+Saturday,Winter,Evening,Medium,4,22,31,93,1,4
+Thursday,Spring,Evening,Critical,1,2,2,9,5,1
+Wednesday,Fall,Afternoon,Low,5,14,32,69,2,3
+Thursday,Summer,Early Morning,High,4,4,12,15,4,1
+Monday,Fall,Afternoon,Medium,3,7,35,72,1,3
+Wednesday,Summer,Early Morning,Low,5,14,26,70,1,3
+Tuesday,Fall,Late Morning,Medium,4,8,16,22,4,2
+Thursday,Fall,Evening,Low,5,16,34,86,1,3
+Saturday,Summer,Evening,Critical,1,3,5,12,5,1
+Sunday,Winter,Night,Low,5,27,56,82,1,3
+Wednesday,Winter,Early Morning,Critical,2,3,3,7,5,1
+Wednesday,Summer,Night,Medium,4,11,21,47,3,3
+Thursday,Spring,Evening,Medium,3,8,32,60,2,3
+Saturday,Summer,Afternoon,Critical,2,3,6,8,4,1
+Saturday,Winter,Late Morning,Medium,3,5,11,34,4,2
+Wednesday,Summer,Evening,High,3,7,11,28,3,2
+Sunday,Winter,Late Morning,Medium,3,6,24,26,3,2
+Sunday,Summer,Late Morning,High,3,3,8,21,4,2
+Saturday,Fall,Early Morning,Low,4,13,22,42,3,2
+Friday,Spring,Night,Medium,3,5,20,44,3,2
+Friday,Fall,Afternoon,Critical,1,2,1,6,4,1
+Saturday,Spring,Afternoon,Critical,1,0,1,6,4,1
+Thursday,Winter,Late Morning,Critical,1,3,3,9,4,1
+Friday,Fall,Late Morning,Medium,3,9,16,26,3,2
+Friday,Winter,Late Morning,High,4,5,17,42,3,2
+Tuesday,Spring,Night,Medium,4,11,21,65,2,3
+Monday,Summer,Afternoon,High,4,6,22,33,3,2
+Sunday,Summer,Afternoon,Medium,3,16,27,45,2,2
+Sunday,Fall,Evening,Critical,1,1,3,8,4,1
+Wednesday,Winter,Afternoon,Critical,2,5,3,25,4,2
+Thursday,Fall,Night,High,3,3,9,10,4,1
+Thursday,Winter,Afternoon,Critical,1,2,4,18,5,2
+Saturday,Winter,Night,Critical,1,3,4,10,4,1
+Wednesday,Fall,Afternoon,High,4,3,6,17,4,2
+Saturday,Summer,Afternoon,Critical,1,2,2,8,5,1
+Saturday,Summer,Afternoon,Medium,3,15,26,26,3,2
+Sunday,Fall,Evening,Medium,3,15,13,35,3,2
+Sunday,Summer,Evening,High,4,4,7,17,4,2
+Wednesday,Winter,Evening,Medium,3,17,36,48,1,3
+Friday,Fall,Evening,Critical,1,2,2,15,4,1
+Thursday,Summer,Night,Medium,3,11,13,47,3,3
+Sunday,Summer,Early Morning,Critical,2,2,3,3,4,1
+Sunday,Winter,Afternoon,High,3,5,10,33,3,2
+Thursday,Winter,Late Morning,Medium,4,23,29,59,1,3
+Monday,Summer,Afternoon,Critical,1,4,7,17,4,2
+Thursday,Winter,Evening,Low,5,44,69,106,1,4
+Wednesday,Fall,Afternoon,Low,4,18,60,85,1,3
+Thursday,Fall,Evening,Medium,3,8,34,49,1,3
+Saturday,Winter,Evening,High,4,8,14,43,2,2
+Sunday,Spring,Early Morning,Critical,1,1,1,3,5,1
+Friday,Fall,Afternoon,High,4,5,9,34,4,2
+Tuesday,Fall,Afternoon,High,3,4,7,15,5,1
+Friday,Fall,Evening,Medium,4,21,33,78,1,3
+Sunday,Spring,Late Morning,Low,5,14,31,54,2,3
+Friday,Spring,Early Morning,Critical,2,2,3,11,4,1
+Saturday,Summer,Late Morning,Low,5,17,37,63,1,3
+Friday,Winter,Early Morning,High,3,3,9,20,4,2
+Friday,Fall,Afternoon,High,4,7,8,36,3,2
+Friday,Spring,Evening,Critical,1,2,5,10,4,1
+Friday,Fall,Evening,Medium,4,28,38,82,1,3
+Tuesday,Summer,Late Morning,High,4,6,7,32,3,2
+Thursday,Summer,Afternoon,Low,4,30,77,87,1,3
+Wednesday,Spring,Afternoon,Medium,4,23,24,66,2,3
+Sunday,Winter,Late Morning,Low,4,13,43,56,1,3
+Monday,Summer,Afternoon,Critical,2,1,3,21,4,2
+Friday,Summer,Afternoon,Medium,3,10,29,62,2,3
+Tuesday,Winter,Early Morning,Critical,2,2,3,8,4,1
+Saturday,Winter,Afternoon,Medium,4,28,39,58,1,3
+Thursday,Fall,Afternoon,Critical,1,2,4,10,5,1
+Monday,Winter,Evening,High,4,13,32,42,3,2
+Thursday,Winter,Evening,Low,4,39,103,108,1,4
+Thursday,Summer,Night,Low,4,26,46,121,1,4
+Friday,Spring,Evening,High,4,10,12,31,4,2
+Sunday,Fall,Evening,Low,5,16,44,56,1,3
+Tuesday,Summer,Afternoon,Medium,4,17,17,59,2,3
+Saturday,Spring,Afternoon,Medium,4,10,12,24,4,2
+Monday,Fall,Afternoon,High,3,3,6,28,4,2
+Saturday,Summer,Afternoon,Medium,3,18,13,28,3,2
+Wednesday,Winter,Night,High,4,8,18,48,2,3
+Friday,Spring,Late Morning,Medium,4,15,14,34,3,2
+Saturday,Fall,Late Morning,Low,5,19,48,67,1,3
+Friday,Winter,Evening,Medium,3,17,43,78,1,3
+Monday,Winter,Late Morning,Critical,1,4,7,13,4,1
+Thursday,Summer,Afternoon,Low,4,18,40,100,1,4
+Sunday,Summer,Early Morning,Medium,3,8,18,20,3,2
+Tuesday,Winter,Evening,High,4,8,24,30,3,2
+Sunday,Spring,Night,Critical,1,1,1,7,5,1
+Thursday,Winter,Night,Medium,4,24,48,54,1,3
+Friday,Spring,Afternoon,Low,5,20,41,85,1,3
+Saturday,Summer,Afternoon,High,4,4,14,38,3,2
+Tuesday,Winter,Evening,Critical,2,6,4,22,4,2
+Monday,Fall,Afternoon,Medium,3,9,19,31,3,2
+Thursday,Spring,Night,Low,5,21,49,72,1,3
+Friday,Spring,Afternoon,Low,4,15,76,105,1,4
+Saturday,Spring,Evening,Critical,1,1,5,10,5,1
+Monday,Winter,Evening,Low,5,41,132,181,1,4
+Saturday,Spring,Afternoon,Critical,1,0,3,12,5,1
+Friday,Summer,Afternoon,High,4,8,12,22,4,2
+Friday,Winter,Afternoon,Low,5,23,66,140,1,4
+Tuesday,Spring,Afternoon,Low,5,14,35,69,1,3
+Thursday,Winter,Afternoon,Critical,2,4,6,12,4,1
+Tuesday,Fall,Evening,Medium,3,20,16,37,3,2
+Wednesday,Fall,Early Morning,Medium,4,14,17,21,4,2
+Friday,Summer,Afternoon,High,3,5,11,33,3,2
+Saturday,Summer,Late Morning,Low,4,16,29,91,1,4
+Monday,Winter,Evening,Medium,4,31,37,96,1,4
+Monday,Fall,Early Morning,Critical,1,2,2,3,5,1
+Saturday,Summer,Afternoon,Low,5,24,73,97,1,4
+Monday,Spring,Afternoon,Critical,2,1,5,14,5,1
+Wednesday,Fall,Early Morning,Low,5,9,35,49,2,3
+Tuesday,Fall,Afternoon,Medium,4,10,30,38,2,2
+Saturday,Spring,Afternoon,Critical,1,0,1,4,5,1
+Thursday,Summer,Afternoon,Low,5,20,78,115,1,4
+Tuesday,Spring,Evening,High,4,7,9,29,3,2
+Tuesday,Spring,Evening,Low,5,31,40,122,1,4
+Saturday,Summer,Night,Medium,3,15,17,52,2,3
+Monday,Summer,Late Morning,Medium,3,25,38,81,1,3
+Friday,Spring,Night,Medium,3,15,14,54,3,3
+Thursday,Summer,Afternoon,Low,4,29,53,86,1,3
+Thursday,Spring,Night,Critical,1,1,2,4,5,1
+Tuesday,Fall,Late Morning,Medium,3,8,10,26,3,2
+Friday,Spring,Early Morning,High,3,2,7,13,5,1
+Wednesday,Spring,Afternoon,High,3,6,12,18,4,2
+Monday,Summer,Afternoon,Medium,4,16,25,107,1,4
+Friday,Summer,Evening,Low,4,28,54,151,1,4
+Tuesday,Spring,Evening,Low,5,35,95,123,1,4
+Sunday,Fall,Afternoon,Low,5,20,47,74,1,3
+Monday,Summer,Afternoon,Medium,3,23,21,45,2,2
+Monday,Winter,Afternoon,Medium,4,28,54,116,1,4
+Saturday,Fall,Evening,Medium,4,14,22,41,3,2
+Wednesday,Summer,Evening,High,3,5,8,30,3,2
+Friday,Spring,Afternoon,Critical,1,0,1,5,5,1
+Monday,Winter,Late Morning,Medium,3,15,21,88,1,3
+Friday,Spring,Late Morning,Critical,1,0,3,5,5,1
+Saturday,Summer,Afternoon,Critical,2,3,5,7,5,1
+Tuesday,Spring,Late Morning,High,3,4,8,19,4,2
+Friday,Winter,Afternoon,High,3,7,12,27,4,2
+Friday,Fall,Evening,Medium,3,15,30,70,1,3
+Tuesday,Spring,Evening,Low,5,23,38,82,1,3
+Saturday,Summer,Afternoon,Low,5,23,37,72,1,3
+Tuesday,Summer,Afternoon,Low,4,31,87,80,1,3
+Monday,Spring,Night,Medium,3,19,22,52,2,3
+Monday,Summer,Evening,Medium,3,21,40,103,1,4
+Monday,Summer,Afternoon,Low,5,36,81,133,1,4
+Sunday,Winter,Early Morning,Critical,2,1,3,4,5,1
+Sunday,Fall,Afternoon,High,4,3,5,20,4,2
+Tuesday,Fall,Late Morning,Low,4,18,49,44,1,2
+Monday,Summer,Early Morning,Low,5,27,66,99,1,4
+Thursday,Winter,Evening,Low,4,26,73,159,1,4
+Thursday,Spring,Afternoon,Medium,4,15,23,62,2,3
+Tuesday,Summer,Late Morning,High,3,3,6,22,4,2
+Thursday,Spring,Night,High,4,5,8,28,3,2
+Wednesday,Winter,Late Morning,Critical,1,1,2,6,5,1
+Monday,Winter,Late Morning,High,3,7,8,24,4,2
+Thursday,Summer,Evening,Low,5,25,107,118,1,4
+Monday,Fall,Evening,Critical,2,3,9,18,4,2
+Thursday,Fall,Evening,High,3,5,6,22,4,2
+Sunday,Winter,Night,High,3,6,12,14,4,1
+Monday,Summer,Evening,Low,5,53,136,192,1,4
+Saturday,Winter,Evening,Critical,2,3,3,10,4,1
+Monday,Fall,Afternoon,Low,5,15,43,69,1,3
+Wednesday,Fall,Afternoon,Critical,1,0,2,6,5,1
+Friday,Winter,Afternoon,High,3,8,12,40,3,2
+Sunday,Fall,Evening,Low,4,18,27,79,1,3
+Thursday,Spring,Evening,High,3,5,14,26,3,2
+Monday,Summer,Afternoon,Critical,1,4,7,14,4,1
+Tuesday,Spring,Afternoon,Critical,1,2,3,15,4,1
+Thursday,Fall,Evening,Medium,4,16,35,69,1,3
+Saturday,Summer,Late Morning,Low,4,14,61,68,1,3
+Tuesday,Winter,Afternoon,Critical,2,1,7,18,4,2
+Monday,Summer,Night,Medium,4,24,47,91,1,4
+Monday,Summer,Afternoon,Medium,3,30,34,59,1,3
+Monday,Summer,Evening,High,3,9,12,59,3,3
+Thursday,Winter,Night,High,3,7,9,20,4,2
+Wednesday,Winter,Evening,Medium,3,15,48,92,1,4
+Saturday,Summer,Late Morning,Low,4,14,36,57,1,3
+Wednesday,Winter,Afternoon,Medium,3,22,44,59,1,3
+Thursday,Summer,Afternoon,Low,4,20,83,68,1,3
+Tuesday,Fall,Evening,High,4,5,14,26,3,2
+Monday,Fall,Afternoon,Low,5,22,71,85,1,3
+Tuesday,Winter,Afternoon,Medium,3,20,16,64,2,3
+Monday,Winter,Early Morning,Low,4,20,70,109,1,4
+Sunday,Winter,Afternoon,Low,4,25,83,80,1,3
+Wednesday,Spring,Evening,Medium,3,15,19,33,3,2
+Monday,Spring,Afternoon,Medium,3,16,35,52,1,3
+Tuesday,Spring,Afternoon,High,3,3,8,23,3,2
+Monday,Spring,Late Morning,High,4,5,8,15,4,1
+Wednesday,Summer,Evening,High,4,7,11,28,4,2
+Monday,Summer,Late Morning,High,4,9,10,43,3,2
+Monday,Summer,Late Morning,High,4,9,9,25,3,2
+Saturday,Summer,Afternoon,Critical,1,2,2,14,5,1
+Sunday,Winter,Early Morning,Critical,1,1,3,7,4,1
+Sunday,Winter,Evening,Medium,4,12,47,67,1,3
+Sunday,Fall,Evening,Critical,1,2,3,5,4,1
+Thursday,Winter,Late Morning,Critical,1,2,2,8,5,1
+Monday,Spring,Evening,Low,5,22,85,103,1,4
+Wednesday,Summer,Evening,Low,5,33,49,133,1,4
+Monday,Winter,Afternoon,Critical,2,4,8,27,4,2
+Saturday,Summer,Afternoon,Low,4,24,47,76,1,3
+Sunday,Winter,Late Morning,High,3,4,10,25,4,2
+Thursday,Spring,Night,Low,5,17,58,82,1,3
+Friday,Spring,Afternoon,Medium,3,13,29,60,1,3
+Saturday,Summer,Late Morning,Medium,4,14,26,57,2,3
+Thursday,Spring,Afternoon,Low,5,18,30,100,1,4
+Sunday,Fall,Evening,Medium,4,15,14,36,2,2
+Thursday,Winter,Evening,Low,4,31,107,162,1,4
+Thursday,Summer,Evening,High,4,9,11,48,3,3
+Monday,Spring,Afternoon,Critical,1,1,2,13,4,1
+Tuesday,Winter,Early Morning,High,4,5,6,27,4,2
+Wednesday,Winter,Evening,Medium,3,25,51,59,1,3
+Sunday,Winter,Late Morning,Medium,4,10,25,53,2,3
+Wednesday,Winter,Afternoon,Critical,1,2,5,10,4,1
+Sunday,Summer,Night,Critical,1,0,2,10,5,1
+Wednesday,Summer,Early Morning,High,3,4,10,12,4,1
+Monday,Fall,Afternoon,Medium,3,7,18,69,2,3
+Wednesday,Winter,Evening,Critical,1,5,5,15,4,1
+Wednesday,Winter,Late Morning,Critical,2,3,4,9,4,1
+Friday,Winter,Evening,Medium,3,19,29,124,1,4
+Monday,Spring,Afternoon,Critical,1,1,2,6,5,1
+Thursday,Spring,Afternoon,High,3,4,10,14,5,1
+Friday,Spring,Night,High,4,3,9,28,4,2
+Wednesday,Spring,Evening,Low,4,38,48,121,1,4
+Saturday,Spring,Late Morning,High,3,3,5,12,5,1
+Monday,Winter,Afternoon,Medium,3,10,29,73,1,3
+Monday,Fall,Afternoon,High,4,6,8,43,3,2
+Monday,Winter,Afternoon,Low,4,38,108,116,1,4
+Wednesday,Spring,Late Morning,Critical,1,0,2,4,5,1
+Monday,Summer,Evening,Medium,4,26,72,66,1,3
+Saturday,Winter,Early Morning,High,4,4,5,21,4,2
+Monday,Spring,Late Morning,High,3,5,9,19,4,2
+Friday,Spring,Night,Low,5,14,55,87,1,3
+Sunday,Spring,Afternoon,Critical,2,2,2,12,4,1
+Tuesday,Fall,Evening,Critical,1,1,4,11,5,1
+Monday,Winter,Afternoon,Medium,4,28,51,116,1,4
+Thursday,Winter,Early Morning,Critical,1,1,2,12,5,1
+Sunday,Fall,Evening,Critical,2,2,4,8,4,1
+Saturday,Summer,Early Morning,Low,4,16,34,48,2,3
+Thursday,Winter,Afternoon,Medium,3,16,25,45,2,2
+Wednesday,Spring,Evening,High,4,9,15,45,2,2
+Tuesday,Winter,Evening,Medium,4,33,64,59,1,3
+Monday,Winter,Early Morning,Medium,4,13,29,58,1,3
+Wednesday,Fall,Evening,Critical,1,1,5,16,4,2
+Saturday,Summer,Evening,Low,5,38,60,120,1,4
+Friday,Spring,Late Morning,Critical,1,2,2,4,5,1
+Thursday,Summer,Night,Critical,1,1,3,10,4,1
+Saturday,Fall,Evening,High,4,3,11,23,3,2
+Thursday,Winter,Late Morning,Low,4,31,80,67,1,3
+Wednesday,Summer,Night,Critical,1,3,5,16,4,2
+Monday,Fall,Late Morning,High,4,3,9,18,4,2
+Tuesday,Spring,Afternoon,High,3,5,12,25,4,2
+Wednesday,Fall,Night,Medium,3,10,25,52,2,3
+Monday,Winter,Late Morning,Medium,3,21,23,73,1,3
+Wednesday,Summer,Afternoon,Medium,4,23,23,38,2,2
+Sunday,Fall,Late Morning,Medium,4,4,9,31,4,2
+Saturday,Spring,Evening,Medium,4,11,36,37,2,2
+Sunday,Spring,Afternoon,High,3,5,10,25,3,2
+Sunday,Winter,Afternoon,High,3,5,7,22,4,2
+Friday,Summer,Evening,Medium,3,12,36,47,2,3
+Tuesday,Winter,Evening,Critical,1,1,3,15,4,1
+Wednesday,Winter,Late Morning,Critical,1,2,2,13,4,1
+Tuesday,Winter,Night,Critical,1,3,4,11,5,1
+Sunday,Fall,Night,Low,4,16,35,49,2,3
+Thursday,Winter,Afternoon,Low,4,21,58,114,1,4
+Tuesday,Winter,Evening,Medium,3,11,56,63,1,3
+Saturday,Summer,Evening,High,3,6,16,32,3,2
+Monday,Fall,Afternoon,Low,5,25,35,121,1,4
+Monday,Spring,Early Morning,Critical,1,0,3,9,5,1
+Friday,Spring,Afternoon,Medium,4,19,25,45,2,2
+Friday,Winter,Evening,High,3,6,13,41,3,2
+Monday,Winter,Afternoon,Critical,2,2,4,29,4,2
+Saturday,Winter,Late Morning,High,3,3,7,12,5,1
+Tuesday,Summer,Afternoon,Critical,2,3,6,10,5,1
+Monday,Winter,Afternoon,High,3,11,17,44,3,2
+Monday,Summer,Evening,Critical,2,4,4,16,4,2
+Thursday,Spring,Evening,Critical,1,1,2,5,5,1
+Saturday,Winter,Night,Medium,4,18,30,70,1,3
+Tuesday,Summer,Afternoon,High,4,6,12,22,4,2
+Monday,Winter,Evening,Medium,4,15,31,143,1,4
+Thursday,Fall,Afternoon,Low,5,24,68,64,1,3
+Thursday,Summer,Early Morning,High,4,4,7,24,4,2
+Friday,Winter,Late Morning,High,4,7,18,31,3,2
+Wednesday,Winter,Evening,Low,4,34,51,102,1,4
+Tuesday,Spring,Afternoon,Medium,4,7,18,61,2,3
+Tuesday,Summer,Late Morning,Low,5,25,40,70,1,3
+Saturday,Spring,Evening,Medium,4,14,26,41,3,2
+Tuesday,Summer,Evening,Medium,3,10,24,51,2,3
+Sunday,Spring,Night,Critical,1,1,3,6,5,1
+Monday,Fall,Evening,Medium,4,20,30,98,1,4
+Wednesday,Fall,Late Morning,Medium,3,13,18,20,3,2
+Friday,Winter,Afternoon,Low,4,23,107,144,1,4
+Monday,Fall,Afternoon,Critical,2,1,2,21,4,2
+Tuesday,Spring,Evening,High,4,8,14,37,3,2
+Wednesday,Spring,Evening,Low,5,21,40,135,1,4
+Thursday,Summer,Afternoon,Critical,2,2,7,14,4,1
+Monday,Summer,Afternoon,Low,4,44,92,127,1,4
+Friday,Summer,Evening,Critical,1,1,7,22,4,2
+Sunday,Spring,Evening,Critical,2,1,4,8,5,1
+Wednesday,Summer,Night,Low,4,15,35,58,2,3
+Monday,Winter,Early Morning,Critical,2,4,3,21,4,2
+Sunday,Winter,Evening,High,4,7,18,37,3,2
+Friday,Winter,Afternoon,Medium,4,31,45,47,1,3
+Monday,Winter,Night,High,4,6,13,49,3,3
+Tuesday,Spring,Afternoon,Critical,1,3,3,9,4,1
+Sunday,Spring,Afternoon,High,4,4,9,25,4,2
+Wednesday,Summer,Early Morning,Low,4,21,32,59,2,3
+Monday,Fall,Late Morning,Critical,2,1,2,16,5,2
+Sunday,Winter,Evening,Low,5,31,73,102,1,4
+Thursday,Spring,Late Morning,Medium,3,8,10,53,2,3
+Tuesday,Winter,Late Morning,Medium,3,17,33,42,2,2
+Wednesday,Spring,Night,High,4,6,12,29,3,2
+Saturday,Winter,Evening,High,3,7,11,47,3,3
+Thursday,Winter,Afternoon,Low,5,25,78,105,1,4
+Monday,Spring,Afternoon,Critical,2,3,6,20,4,2
+Friday,Spring,Evening,Medium,3,16,27,47,2,3
+Monday,Winter,Late Morning,High,3,5,9,28,3,2
+Saturday,Summer,Afternoon,Critical,2,1,3,15,4,1
+Sunday,Winter,Afternoon,Critical,2,1,3,6,5,1
+Saturday,Summer,Evening,Medium,3,16,29,68,1,3
+Thursday,Winter,Evening,Critical,1,3,8,11,4,1
+Monday,Fall,Night,Critical,1,1,5,6,5,1
+Tuesday,Spring,Late Morning,Medium,4,7,29,32,3,2
+Monday,Winter,Afternoon,High,3,10,20,20,3,2
+Wednesday,Fall,Afternoon,High,3,3,10,11,4,1
+Wednesday,Spring,Evening,High,3,4,12,17,4,2
+Friday,Fall,Evening,High,4,9,11,31,3,2
+Sunday,Winter,Evening,Medium,3,7,29,50,2,3
+Saturday,Winter,Afternoon,High,4,5,16,35,3,2
+Monday,Fall,Evening,Medium,3,19,31,72,1,3
+Sunday,Fall,Afternoon,Critical,2,1,2,12,4,1
+Monday,Fall,Evening,Low,5,38,40,125,1,4
+Saturday,Summer,Afternoon,Critical,2,2,3,6,5,1
+Monday,Summer,Evening,High,4,11,14,36,3,2
+Tuesday,Summer,Night,High,4,4,14,31,3,2
+Tuesday,Spring,Evening,Low,5,35,74,113,1,4
+Saturday,Spring,Afternoon,Medium,3,8,22,30,3,2
+Sunday,Winter,Evening,High,4,6,10,36,3,2
+Wednesday,Fall,Afternoon,High,3,3,7,27,4,2
+Thursday,Summer,Evening,Critical,1,2,6,13,4,1
+Friday,Summer,Evening,Medium,4,32,48,107,1,4
+Wednesday,Fall,Late Morning,High,4,5,7,21,4,2
+Thursday,Fall,Evening,High,3,6,9,23,4,2
+Saturday,Summer,Afternoon,Medium,3,19,21,45,2,2
+Tuesday,Fall,Afternoon,Low,4,24,38,59,1,3
+Friday,Winter,Early Morning,Low,4,20,56,82,1,3
+Thursday,Summer,Evening,Low,5,29,103,146,1,4
+Thursday,Spring,Night,Medium,3,7,22,32,3,2
+Saturday,Winter,Late Morning,High,4,4,12,32,3,2
+Wednesday,Spring,Late Morning,Critical,2,1,3,8,4,1
+Friday,Fall,Early Morning,Low,5,10,30,61,2,3
+Thursday,Summer,Night,Low,5,26,49,98,1,4
+Tuesday,Fall,Afternoon,Medium,4,14,29,29,2,2
+Monday,Summer,Evening,High,4,13,15,63,2,3
+Sunday,Summer,Late Morning,Medium,3,11,11,37,3,2
+Wednesday,Summer,Night,Medium,3,8,23,36,3,2
+Saturday,Fall,Evening,Low,4,26,71,77,1,3
+Sunday,Spring,Evening,High,4,6,6,16,4,2
+Monday,Winter,Evening,Critical,1,2,4,31,4,2
+Sunday,Fall,Afternoon,High,3,2,4,15,4,1
+Monday,Fall,Afternoon,Critical,1,2,2,17,4,2
+Saturday,Winter,Early Morning,Critical,1,2,3,7,5,1
+Wednesday,Winter,Late Morning,Critical,2,4,7,19,4,2
+Thursday,Summer,Late Morning,Medium,4,6,19,31,4,2
+Thursday,Fall,Evening,High,4,7,7,24,4,2
+Thursday,Spring,Night,Low,5,17,46,77,1,3
+Saturday,Fall,Afternoon,High,3,3,7,10,5,1
+Monday,Winter,Evening,Critical,2,8,11,41,3,2
+Sunday,Winter,Afternoon,High,4,6,13,19,4,2
+Monday,Summer,Afternoon,Medium,3,17,21,57,2,3
+Sunday,Winter,Night,Low,5,23,33,89,1,3
+Sunday,Winter,Late Morning,Low,5,17,48,66,1,3
+Saturday,Summer,Late Morning,Critical,2,2,3,14,4,1
+Tuesday,Spring,Early Morning,Critical,2,1,3,8,5,1
+Saturday,Spring,Night,Medium,4,19,32,39,2,2
+Saturday,Summer,Night,Low,5,20,40,68,1,3
+Wednesday,Summer,Evening,Low,5,21,47,89,1,3
+Friday,Winter,Evening,High,4,11,13,36,3,2
+Thursday,Summer,Afternoon,Low,4,25,64,104,1,4
+Tuesday,Summer,Evening,Medium,4,25,53,99,1,4
+Friday,Fall,Night,Medium,4,9,27,40,2,2
+Wednesday,Winter,Afternoon,Critical,2,3,8,8,4,1
+Wednesday,Summer,Late Morning,Low,5,23,47,55,1,3
+Tuesday,Summer,Early Morning,Medium,3,8,17,26,3,2
+Wednesday,Spring,Evening,Medium,3,21,31,38,2,2
+Wednesday,Summer,Evening,Low,4,22,90,158,1,4
+Saturday,Summer,Early Morning,Critical,2,0,3,5,5,1
+Tuesday,Winter,Evening,Critical,1,3,3,12,4,1
+Thursday,Summer,Afternoon,High,4,5,10,34,3,2
+Wednesday,Winter,Late Morning,Low,4,16,76,103,1,4
+Thursday,Winter,Evening,High,3,10,16,39,3,2
+Monday,Summer,Afternoon,Low,4,37,92,147,1,4
+Sunday,Summer,Early Morning,Low,5,12,19,39,3,2
+Monday,Spring,Late Morning,Critical,2,4,2,6,5,1
+Wednesday,Fall,Night,Low,4,24,48,68,1,3
+Friday,Spring,Afternoon,Low,5,22,52,61,1,3
+Monday,Fall,Evening,Low,5,25,46,106,1,4
+Friday,Summer,Late Morning,Medium,3,16,32,44,2,2
+Friday,Fall,Night,Critical,1,2,4,4,4,1
+Thursday,Spring,Afternoon,High,3,6,11,16,4,2
+Wednesday,Spring,Afternoon,High,3,3,5,25,4,2
+Monday,Winter,Evening,Medium,4,19,39,129,1,4
+Tuesday,Winter,Afternoon,Low,5,22,49,129,1,4
+Tuesday,Spring,Evening,High,4,5,17,41,3,2
+Saturday,Summer,Afternoon,Low,5,16,39,112,1,4
+Monday,Spring,Evening,Medium,3,20,20,81,1,3
+Wednesday,Fall,Afternoon,Low,4,24,46,72,1,3
+Tuesday,Spring,Evening,High,3,7,7,30,3,2
+Monday,Spring,Afternoon,Critical,2,3,3,13,5,1
+Saturday,Fall,Late Morning,Low,4,20,41,51,2,3
+Tuesday,Spring,Evening,High,3,6,14,26,3,2
+Thursday,Summer,Evening,Low,4,23,110,101,1,4
+Monday,Fall,Late Morning,Medium,4,19,30,44,1,2
+Saturday,Summer,Early Morning,Low,4,17,33,38,2,2
+Sunday,Fall,Evening,Critical,1,1,2,6,5,1
+Friday,Fall,Evening,Critical,2,4,4,7,5,1
+Saturday,Winter,Evening,Critical,2,6,10,16,4,2
+Monday,Summer,Late Morning,Low,4,27,44,87,1,3
+Saturday,Spring,Evening,Medium,4,15,24,54,2,3
+Saturday,Spring,Afternoon,Low,5,13,62,69,1,3
+Friday,Spring,Evening,High,3,8,11,21,4,2
+Friday,Fall,Early Morning,High,3,3,7,15,4,1
+Monday,Fall,Afternoon,Critical,1,2,5,6,4,1
+Saturday,Summer,Late Morning,Low,4,14,53,53,1,3
+Thursday,Winter,Evening,High,3,8,15,54,3,3
+Friday,Spring,Afternoon,Medium,3,8,23,56,3,3
+Sunday,Spring,Evening,Medium,3,19,25,59,2,3
+Sunday,Spring,Late Morning,High,3,3,5,13,5,1
+Sunday,Fall,Afternoon,Medium,3,7,11,38,3,2
+Thursday,Fall,Late Morning,Low,5,15,47,57,1,3
+Monday,Spring,Afternoon,High,3,5,8,17,4,2
+Thursday,Spring,Late Morning,Critical,1,1,2,12,4,1
+Thursday,Fall,Late Morning,High,4,3,6,16,4,2
+Sunday,Winter,Late Morning,Medium,3,5,20,33,3,2
+Saturday,Summer,Evening,Low,5,30,103,134,1,4
+Tuesday,Summer,Night,High,4,6,8,23,4,2
+Wednesday,Winter,Evening,Medium,4,27,30,70,1,3
+Tuesday,Winter,Evening,Critical,2,6,8,16,4,2
+Thursday,Spring,Afternoon,Low,5,23,49,77,1,3
+Tuesday,Spring,Night,High,3,4,6,18,4,2
+Saturday,Fall,Night,Critical,2,1,3,12,5,1
+Wednesday,Summer,Evening,Medium,4,14,46,81,1,3
+Friday,Spring,Night,Critical,2,3,3,6,4,1
+Friday,Summer,Afternoon,Low,5,21,82,121,1,4
+Tuesday,Spring,Evening,High,3,4,11,40,3,2
+Thursday,Winter,Evening,Medium,4,29,29,89,1,3
+Tuesday,Summer,Evening,High,4,10,12,29,3,2
+Friday,Spring,Afternoon,Critical,1,3,4,12,5,1
+Monday,Winter,Afternoon,Low,4,47,107,135,1,4
+Sunday,Spring,Late Morning,High,3,2,7,18,4,2
+Friday,Winter,Afternoon,Medium,3,14,23,84,1,3
+Thursday,Fall,Afternoon,Low,4,17,45,53,1,3
+Saturday,Fall,Evening,Medium,4,17,39,78,1,3
+Monday,Fall,Night,High,4,6,9,32,4,2
+Saturday,Spring,Afternoon,Medium,4,13,28,45,2,2
+Sunday,Summer,Late Morning,Medium,3,13,9,47,2,3
+Saturday,Spring,Night,Medium,4,8,21,32,3,2
+Thursday,Fall,Afternoon,High,3,5,6,24,4,2
+Monday,Winter,Late Morning,Medium,4,9,29,79,1,3
+Thursday,Spring,Night,Low,4,22,45,79,1,3
+Saturday,Summer,Night,Low,5,15,56,93,1,4
+Saturday,Summer,Afternoon,Critical,2,3,2,18,4,2
+Thursday,Winter,Evening,Low,4,38,48,146,1,4
+Saturday,Fall,Afternoon,Medium,4,12,19,42,3,2
+Friday,Winter,Evening,Medium,4,15,42,71,1,3
+Thursday,Winter,Night,Critical,2,4,5,8,4,1
+Tuesday,Summer,Afternoon,Critical,2,2,4,19,4,2
+Friday,Winter,Late Morning,High,4,9,15,23,4,2
+Thursday,Winter,Evening,Medium,3,23,39,59,1,3
+Thursday,Spring,Evening,Critical,1,3,6,7,4,1
+Wednesday,Winter,Late Morning,Critical,2,1,3,9,5,1
+Saturday,Winter,Late Morning,High,4,7,14,34,3,2
+Thursday,Fall,Evening,Low,4,23,64,87,1,3
+Sunday,Summer,Afternoon,Low,4,25,56,89,1,3
+Tuesday,Fall,Late Morning,Critical,2,2,4,5,4,1
+Wednesday,Winter,Afternoon,Medium,3,14,39,87,1,3
+Thursday,Winter,Evening,High,4,10,17,51,2,3
+Thursday,Winter,Afternoon,Medium,4,30,39,103,1,4
+Friday,Spring,Afternoon,Medium,3,6,33,29,3,2
+Wednesday,Summer,Early Morning,High,4,4,7,25,4,2
+Monday,Spring,Afternoon,Medium,3,18,24,43,2,2
+Wednesday,Spring,Early Morning,High,3,3,3,15,5,1
+Friday,Spring,Evening,High,3,8,15,33,3,2
+Friday,Summer,Afternoon,Medium,3,10,29,50,2,3
+Thursday,Winter,Evening,High,3,6,18,28,3,2
+Thursday,Fall,Late Morning,Critical,2,0,2,10,4,1
+Sunday,Fall,Late Morning,Low,5,11,36,45,2,2
+Wednesday,Spring,Evening,Low,5,16,84,79,1,3
+Thursday,Spring,Evening,Medium,4,25,23,45,2,2
+Monday,Spring,Afternoon,Critical,1,4,5,20,4,2
+Wednesday,Winter,Evening,Critical,1,4,4,12,4,1
+Friday,Summer,Late Morning,Low,5,18,65,111,1,4
+Wednesday,Winter,Early Morning,Critical,2,2,2,10,5,1
+Friday,Fall,Night,Low,5,14,32,76,1,3
+Sunday,Summer,Afternoon,High,3,3,11,19,4,2
+Sunday,Fall,Afternoon,Medium,4,6,13,45,3,2
+Thursday,Winter,Evening,High,4,6,16,48,3,3
+Sunday,Winter,Afternoon,Critical,1,1,3,11,4,1
+Saturday,Winter,Evening,Medium,3,17,23,56,2,3
+Monday,Winter,Afternoon,Critical,1,4,4,20,4,2
+Saturday,Fall,Afternoon,High,4,3,11,11,4,1
+Monday,Summer,Evening,Low,5,51,123,117,1,4
+Monday,Summer,Late Morning,High,3,4,7,34,3,2
+Friday,Summer,Early Morning,Critical,2,1,5,11,5,1
+Thursday,Winter,Late Morning,High,4,7,12,17,3,2
+Tuesday,Winter,Afternoon,High,3,7,10,17,4,2
+Tuesday,Fall,Afternoon,Medium,3,5,19,28,3,2
+Wednesday,Winter,Afternoon,Low,5,21,46,124,1,4
+Wednesday,Winter,Night,Medium,3,17,35,29,2,2
+Monday,Winter,Evening,Low,4,37,88,207,1,4
+Friday,Spring,Afternoon,Low,5,29,67,83,1,3
+Thursday,Fall,Early Morning,Medium,4,10,18,30,3,2
+Sunday,Fall,Afternoon,Low,5,14,25,50,2,3
+Tuesday,Summer,Evening,Low,5,36,84,123,1,4
+Friday,Fall,Late Morning,Low,4,11,41,57,1,3
+Wednesday,Summer,Afternoon,High,3,4,9,17,4,2
+Wednesday,Fall,Late Morning,Critical,1,2,3,9,5,1
+Thursday,Winter,Afternoon,Medium,3,25,23,72,1,3
+Wednesday,Spring,Afternoon,Low,4,20,59,85,1,3
+Friday,Spring,Afternoon,Low,5,21,56,112,1,4
+Tuesday,Spring,Late Morning,Critical,2,2,3,5,5,1
+Thursday,Spring,Afternoon,Low,4,18,76,67,1,3
+Sunday,Winter,Evening,Medium,4,15,36,73,1,3
+Sunday,Winter,Night,Critical,1,1,2,12,4,1
+Sunday,Fall,Afternoon,Low,5,13,35,61,1,3
+Saturday,Summer,Evening,Critical,1,3,4,13,5,1
+Tuesday,Winter,Early Morning,Medium,4,7,24,28,3,2
+Wednesday,Fall,Early Morning,High,4,2,6,19,4,2
+Monday,Winter,Late Morning,High,4,6,13,41,3,2
+Tuesday,Fall,Late Morning,Critical,1,0,3,7,5,1
+Tuesday,Spring,Night,Critical,1,0,4,14,5,1
+Saturday,Summer,Afternoon,High,3,6,9,28,3,2
+Thursday,Summer,Early Morning,Low,5,18,54,79,1,3
+Friday,Fall,Evening,High,4,4,16,21,4,2
+Sunday,Fall,Evening,Critical,2,2,2,11,5,1
+Sunday,Spring,Evening,Medium,3,16,26,32,2,2
+Friday,Spring,Night,Medium,4,12,32,68,1,3
+Saturday,Fall,Evening,High,4,6,11,31,3,2
+Wednesday,Spring,Late Morning,High,4,5,5,11,4,1
+Saturday,Winter,Late Morning,Medium,3,12,12,52,3,3
+Monday,Summer,Afternoon,Critical,1,4,7,15,4,1
+Wednesday,Spring,Evening,High,3,5,9,23,4,2
+Sunday,Spring,Late Morning,Low,5,13,18,41,3,2
+Saturday,Fall,Late Morning,Medium,4,12,11,49,3,3
+Saturday,Spring,Evening,Medium,4,17,36,54,2,3
+Wednesday,Fall,Early Morning,Low,4,11,22,49,2,3
+Tuesday,Spring,Night,Low,4,22,69,94,1,4
+Tuesday,Winter,Early Morning,Critical,1,2,2,6,5,1
+Thursday,Summer,Afternoon,Medium,4,22,17,46,2,3
+Sunday,Fall,Evening,High,3,5,5,22,4,2
+Wednesday,Spring,Evening,High,4,9,15,25,4,2
+Monday,Winter,Night,Medium,4,13,41,81,1,3
+Monday,Fall,Late Morning,High,4,6,6,25,3,2
+Monday,Summer,Afternoon,High,4,10,21,49,3,3
+Tuesday,Spring,Evening,High,3,4,12,27,4,2
+Wednesday,Fall,Night,High,4,4,6,22,4,2
+Tuesday,Summer,Afternoon,Medium,4,20,22,38,3,2
+Sunday,Winter,Late Morning,Low,4,25,51,50,1,3
+Tuesday,Spring,Evening,Medium,3,23,27,46,1,3
+Wednesday,Winter,Evening,Low,4,26,128,182,1,4
+Friday,Spring,Early Morning,Low,4,14,48,69,1,3
+Thursday,Summer,Night,Low,4,20,74,59,1,3
+Wednesday,Fall,Afternoon,High,4,7,11,35,4,2
+Monday,Summer,Late Morning,Low,4,32,51,112,1,4
+Wednesday,Summer,Night,Low,4,25,59,106,1,4
+Wednesday,Fall,Late Morning,High,4,5,11,21,4,2
+Wednesday,Fall,Early Morning,Medium,3,8,9,18,3,2
+Thursday,Winter,Night,Low,5,24,84,120,1,4
+Thursday,Spring,Early Morning,Critical,1,1,2,4,5,1
+Friday,Fall,Late Morning,Medium,3,11,11,28,3,2
+Sunday,Fall,Evening,High,3,4,7,14,4,1
+Monday,Fall,Night,High,4,4,15,25,3,2
+Friday,Fall,Evening,Medium,4,8,19,80,1,3
+Saturday,Winter,Evening,Medium,4,11,27,46,3,3
+Monday,Summer,Evening,High,4,11,25,34,2,2
+Sunday,Fall,Afternoon,High,4,3,7,16,4,2
+Wednesday,Summer,Afternoon,Medium,3,10,24,59,1,3
+Thursday,Summer,Evening,Critical,1,3,6,21,4,2
+Tuesday,Spring,Afternoon,Low,4,14,37,86,1,3
+Thursday,Summer,Early Morning,Critical,1,0,3,9,5,1
+Saturday,Summer,Evening,Critical,2,5,8,8,4,1
+Sunday,Fall,Evening,Critical,2,2,3,9,4,1
+Tuesday,Fall,Evening,Medium,4,7,35,47,2,3
+Wednesday,Spring,Afternoon,Medium,4,16,21,39,2,2
+Friday,Fall,Evening,Low,5,19,85,77,1,3
+Tuesday,Winter,Evening,High,4,7,14,30,4,2
+Saturday,Fall,Evening,Medium,3,17,23,44,2,2
+Friday,Spring,Evening,Medium,3,16,37,57,2,3
+Sunday,Spring,Evening,High,4,7,11,18,3,2
+Saturday,Fall,Afternoon,Medium,3,9,20,24,3,2
+Monday,Fall,Evening,Low,5,39,55,110,1,4
+Thursday,Summer,Night,High,4,8,15,22,4,2
+Monday,Summer,Early Morning,High,3,4,6,28,4,2
+Wednesday,Summer,Evening,Medium,4,15,23,82,1,3
+Thursday,Summer,Evening,Low,4,39,105,108,1,4
+Monday,Fall,Afternoon,Critical,2,2,3,15,5,1
+Sunday,Spring,Afternoon,Medium,3,13,16,26,3,2
+Monday,Fall,Early Morning,High,3,3,8,14,4,1
+Sunday,Winter,Early Morning,Medium,3,6,24,41,3,2
+Tuesday,Fall,Late Morning,Low,5,19,29,65,1,3
+Friday,Winter,Afternoon,High,4,7,19,29,3,2
+Sunday,Winter,Evening,Medium,3,9,22,32,3,2
+Wednesday,Winter,Afternoon,Critical,2,3,4,15,5,1
+Sunday,Fall,Afternoon,High,3,4,6,8,4,1
+Sunday,Spring,Early Morning,Low,5,14,31,47,2,3
+Friday,Spring,Afternoon,Critical,2,4,4,18,4,2
+Thursday,Summer,Evening,Critical,1,4,4,18,5,2
+Tuesday,Summer,Afternoon,Low,5,27,72,96,1,4
+Thursday,Fall,Evening,High,4,4,9,22,3,2
+Thursday,Spring,Afternoon,Critical,1,1,4,9,4,1
+Friday,Winter,Afternoon,Low,4,47,65,127,1,4
+Thursday,Winter,Late Morning,Medium,3,7,31,38,3,2
+Saturday,Fall,Late Morning,Critical,2,1,3,3,4,1
+Wednesday,Summer,Late Morning,High,3,6,8,29,4,2
+Sunday,Fall,Night,Low,4,16,20,58,2,3
+Wednesday,Winter,Early Morning,Low,5,18,34,70,1,3
+Monday,Winter,Night,Low,5,23,109,107,1,4
+Friday,Spring,Afternoon,Medium,4,20,25,39,2,2
+Friday,Fall,Evening,High,3,6,8,30,4,2
+Friday,Winter,Night,Critical,1,3,3,13,4,1
+Monday,Summer,Afternoon,Low,5,24,103,119,1,4
+Wednesday,Spring,Evening,Critical,1,1,2,11,4,1
+Sunday,Spring,Late Morning,Medium,3,9,18,25,3,2
+Thursday,Spring,Early Morning,High,4,2,5,15,4,1
+Tuesday,Summer,Night,Low,5,18,74,97,1,4
+Thursday,Fall,Late Morning,High,3,3,5,9,5,1
+Sunday,Winter,Late Morning,Medium,3,17,23,23,3,2
+Tuesday,Spring,Afternoon,Medium,3,7,15,62,2,3
+Monday,Winter,Late Morning,Critical,1,1,7,13,4,1
+Monday,Summer,Night,Low,5,37,92,109,1,4
+Thursday,Winter,Evening,High,4,9,18,54,2,3
+Sunday,Spring,Evening,Critical,1,2,1,11,5,1
+Thursday,Winter,Afternoon,Critical,2,4,4,23,4,2
+Wednesday,Winter,Late Morning,Low,5,29,42,95,1,4
+Thursday,Spring,Late Morning,Low,4,20,30,66,1,3
+Tuesday,Spring,Early Morning,High,4,3,7,18,4,2
+Friday,Fall,Late Morning,High,3,5,6,11,4,1
+Friday,Summer,Afternoon,High,3,7,11,31,4,2
+Monday,Spring,Night,Medium,3,18,21,52,2,3
+Saturday,Spring,Evening,Critical,1,2,5,8,5,1
+Sunday,Winter,Afternoon,Low,4,23,57,91,1,4
+Thursday,Spring,Late Morning,Medium,3,9,19,31,3,2
+Saturday,Spring,Evening,Critical,1,2,5,17,4,2
+Thursday,Winter,Afternoon,Medium,3,15,18,55,2,3
+Friday,Spring,Early Morning,High,3,4,4,14,5,1
+Sunday,Winter,Evening,Critical,2,3,6,17,4,2
+Saturday,Winter,Early Morning,High,3,2,9,10,4,1
+Thursday,Fall,Early Morning,Medium,4,7,10,21,4,2
+Thursday,Summer,Late Morning,Critical,2,1,3,13,4,1
+Monday,Summer,Evening,Critical,2,6,11,30,4,2
+Wednesday,Spring,Evening,Critical,1,2,2,12,5,1
+Wednesday,Spring,Early Morning,Low,5,18,36,55,1,3
+Monday,Fall,Early Morning,Medium,4,12,18,51,2,3
+Monday,Spring,Evening,Medium,4,18,48,58,1,3
+Saturday,Summer,Afternoon,Low,5,31,39,90,1,3
+Wednesday,Winter,Early Morning,Medium,3,12,20,48,2,3
+Saturday,Summer,Evening,Critical,1,2,5,13,5,1
+Wednesday,Winter,Night,Medium,4,13,48,97,1,4
+Friday,Summer,Afternoon,Critical,1,3,3,13,4,1
+Sunday,Fall,Night,Critical,2,1,3,11,4,1
+Saturday,Spring,Afternoon,Low,4,24,50,55,1,3
+Monday,Spring,Afternoon,Critical,1,1,2,9,5,1
+Tuesday,Winter,Evening,High,4,8,24,62,2,3
+Wednesday,Winter,Night,Low,5,17,73,100,1,4
+Friday,Winter,Afternoon,Critical,2,5,5,25,4,2
+Friday,Spring,Evening,High,4,9,17,30,3,2
+Monday,Spring,Evening,Low,4,27,106,110,1,4
+Wednesday,Fall,Night,High,4,4,7,11,4,1
+Saturday,Spring,Evening,High,3,6,11,16,4,2
+Wednesday,Winter,Evening,High,3,9,15,40,3,2
+Friday,Spring,Late Morning,Low,5,13,45,66,1,3
+Wednesday,Winter,Afternoon,Medium,4,11,48,90,1,3
+Wednesday,Spring,Evening,High,4,7,13,39,3,2
+Friday,Summer,Evening,Medium,3,21,42,65,1,3
+Thursday,Summer,Afternoon,Medium,3,17,14,58,2,3
+Saturday,Summer,Evening,Critical,2,3,7,10,4,1
+Sunday,Spring,Evening,Medium,4,20,16,60,1,3
+Tuesday,Summer,Late Morning,Low,5,24,41,65,1,3
+Friday,Summer,Afternoon,Low,5,19,86,116,1,4
+Monday,Spring,Evening,Low,4,30,107,92,1,4
+Tuesday,Summer,Afternoon,Low,5,31,54,69,1,3
+Friday,Summer,Early Morning,High,4,5,10,25,4,2
+Tuesday,Fall,Evening,Low,4,32,75,76,1,3
+Monday,Fall,Early Morning,Medium,3,5,9,31,4,2
+Thursday,Fall,Late Morning,Low,5,16,29,42,3,2
+Friday,Spring,Afternoon,Low,5,33,57,111,1,4
+Saturday,Fall,Early Morning,Medium,4,3,14,29,3,2
+Sunday,Summer,Night,Medium,4,11,15,55,2,3
+Saturday,Summer,Night,Medium,4,19,15,44,2,2
+Wednesday,Spring,Evening,Low,5,22,52,96,1,4
+Tuesday,Winter,Evening,Medium,4,35,27,86,1,3
+Tuesday,Summer,Evening,Low,5,41,113,134,1,4
+Friday,Winter,Afternoon,Low,5,42,72,123,1,4
+Saturday,Fall,Evening,Critical,2,3,2,10,5,1
+Wednesday,Fall,Early Morning,Medium,4,6,19,34,3,2
+Thursday,Spring,Evening,Medium,4,29,35,65,1,3
+Tuesday,Winter,Late Morning,Medium,3,9,15,51,2,3
+Wednesday,Fall,Night,Medium,3,7,10,50,3,3
+Thursday,Spring,Evening,Critical,1,3,4,9,4,1
+Saturday,Spring,Afternoon,Medium,4,11,28,68,2,3
+Thursday,Summer,Evening,High,4,5,11,39,4,2
+Tuesday,Winter,Afternoon,Critical,2,1,8,8,5,1
+Thursday,Winter,Late Morning,Critical,1,3,2,14,4,1
+Monday,Winter,Late Morning,Low,5,29,68,143,1,4
+Monday,Winter,Afternoon,Critical,2,2,4,26,3,2
+Tuesday,Fall,Evening,Medium,4,26,42,38,1,2
+Tuesday,Winter,Evening,Medium,3,12,47,43,2,2
+Saturday,Winter,Afternoon,Critical,1,2,3,6,5,1
+Monday,Summer,Evening,Critical,1,5,9,27,4,2
+Saturday,Winter,Late Morning,High,4,5,14,31,3,2
+Thursday,Summer,Afternoon,High,4,6,15,27,4,2
+Sunday,Summer,Night,Low,4,15,32,73,1,3
+Friday,Spring,Afternoon,High,4,4,11,16,4,2
+Wednesday,Summer,Evening,High,4,8,10,32,3,2
+Sunday,Summer,Late Morning,Critical,1,0,3,10,5,1
+Monday,Winter,Afternoon,High,3,6,10,46,3,3
+Wednesday,Winter,Evening,Critical,1,1,8,8,4,1
+Saturday,Winter,Afternoon,Medium,3,13,19,74,2,3
+Tuesday,Summer,Night,Medium,3,10,16,66,2,3
+Sunday,Fall,Late Morning,Critical,1,1,2,5,4,1
+Thursday,Summer,Early Morning,Low,4,11,46,68,1,3
+Thursday,Spring,Late Morning,Medium,4,10,22,54,2,3
+Monday,Summer,Late Morning,Medium,3,15,29,35,2,2
+Wednesday,Summer,Evening,Medium,3,21,36,36,2,2
+Monday,Fall,Early Morning,High,3,3,6,12,4,1
+Saturday,Winter,Night,Critical,1,3,5,12,4,1
+Saturday,Fall,Evening,Low,4,22,70,65,1,3
+Saturday,Spring,Evening,Low,5,25,72,69,1,3
+Sunday,Winter,Night,Low,5,18,43,76,1,3
+Tuesday,Fall,Evening,Critical,1,1,4,16,5,2
+Tuesday,Winter,Afternoon,Critical,1,2,7,16,5,2
+Saturday,Summer,Afternoon,Critical,1,1,5,15,4,1
+Wednesday,Fall,Afternoon,Low,4,15,38,79,1,3
+Monday,Spring,Late Morning,High,4,6,10,18,4,2
+Wednesday,Winter,Night,High,3,4,9,26,4,2
+Monday,Spring,Afternoon,Low,4,32,41,85,1,3
+Monday,Fall,Evening,Low,5,37,78,159,1,4
+Monday,Fall,Evening,Critical,1,4,4,20,4,2
+Friday,Fall,Evening,Low,5,24,45,64,1,3
+Saturday,Winter,Night,Medium,3,12,20,39,3,2
+Wednesday,Winter,Late Morning,Medium,4,12,24,49,2,3
+Friday,Spring,Early Morning,Critical,1,1,3,11,4,1
+Friday,Fall,Evening,Critical,1,1,2,5,5,1
+Thursday,Spring,Afternoon,High,3,3,5,24,4,2
+Thursday,Summer,Evening,High,4,11,22,53,2,3
+Monday,Spring,Afternoon,High,3,6,10,18,4,2
+Monday,Winter,Early Morning,Critical,2,1,6,15,4,1
+Friday,Spring,Afternoon,Medium,3,8,14,28,4,2
+Monday,Winter,Evening,Medium,3,21,62,128,1,4
+Friday,Summer,Afternoon,Critical,1,2,3,13,5,1
+Monday,Summer,Late Morning,Low,5,31,43,90,1,3
+Friday,Fall,Night,Critical,1,2,3,7,5,1
+Wednesday,Winter,Late Morning,Low,5,18,78,74,1,3
+Monday,Spring,Evening,Medium,4,31,52,117,1,4
+Thursday,Winter,Late Morning,Critical,1,2,3,6,5,1
+Sunday,Winter,Evening,High,3,4,14,36,3,2
+Friday,Fall,Evening,Critical,1,2,3,17,4,2
+Monday,Spring,Early Morning,High,4,4,12,15,4,1
+Sunday,Spring,Evening,Medium,3,12,17,43,3,2
+Tuesday,Summer,Afternoon,High,3,5,13,27,3,2
+Wednesday,Fall,Afternoon,Critical,1,1,2,13,5,1
+Monday,Fall,Afternoon,Critical,1,1,3,16,4,2
+Wednesday,Fall,Afternoon,High,4,6,12,15,4,1
+Saturday,Summer,Afternoon,Medium,3,7,25,51,3,3
+Monday,Summer,Afternoon,Low,5,40,95,108,1,4
+Wednesday,Fall,Night,High,4,5,8,18,4,2
+Monday,Winter,Afternoon,Critical,1,1,3,10,4,1
+Monday,Spring,Evening,Medium,3,10,20,40,3,2
+Friday,Spring,Late Morning,Medium,4,11,13,34,3,2
+Monday,Winter,Evening,Critical,1,2,8,12,4,1
+Sunday,Fall,Evening,High,4,6,6,24,3,2
+Sunday,Spring,Late Morning,Medium,4,10,14,49,3,3
+Tuesday,Fall,Early Morning,High,3,3,5,7,5,1
+Wednesday,Fall,Late Morning,High,3,2,7,9,4,1
+Tuesday,Fall,Afternoon,Medium,4,7,11,38,3,2
+Thursday,Winter,Late Morning,Medium,3,17,31,28,2,2
+Thursday,Winter,Evening,High,4,11,23,50,3,3
+Monday,Summer,Evening,Critical,2,2,10,21,4,2
+Sunday,Winter,Evening,High,4,9,11,41,3,2
+Thursday,Spring,Afternoon,High,3,5,8,18,4,2
+Thursday,Winter,Late Morning,Low,5,27,48,82,1,3
+Monday,Winter,Afternoon,High,4,8,21,64,2,3
+Sunday,Spring,Early Morning,Low,5,13,31,44,2,2
+Friday,Summer,Late Morning,Medium,3,10,19,50,3,3
+Monday,Winter,Afternoon,High,3,9,18,37,3,2
+Monday,Summer,Evening,Medium,4,31,62,107,1,4
+Sunday,Spring,Afternoon,Low,5,12,41,82,1,3
+Wednesday,Winter,Evening,Low,5,44,90,139,1,4
+Wednesday,Fall,Afternoon,High,3,3,9,26,3,2
+Friday,Spring,Early Morning,High,4,3,5,25,4,2
+Thursday,Fall,Evening,High,3,6,6,18,4,2
+Monday,Winter,Evening,Medium,4,34,37,75,1,3
+Friday,Winter,Night,Low,5,21,88,136,1,4
+Monday,Spring,Afternoon,High,3,5,8,20,4,2
+Sunday,Winter,Night,Low,4,14,48,61,1,3
+Wednesday,Winter,Late Morning,Critical,1,1,3,8,5,1
+Friday,Summer,Afternoon,Critical,2,4,6,24,4,2
+Friday,Fall,Early Morning,Critical,2,2,1,6,5,1
+Tuesday,Spring,Night,Critical,2,2,3,10,5,1
+Friday,Spring,Early Morning,Low,5,18,52,67,1,3
+Thursday,Spring,Afternoon,Critical,1,1,2,13,4,1
+Tuesday,Winter,Early Morning,High,4,4,8,18,4,2
+Saturday,Fall,Night,High,3,2,7,18,4,2
+Sunday,Fall,Night,Medium,3,10,20,33,2,2
+Wednesday,Spring,Afternoon,Critical,2,1,2,5,5,1
+Thursday,Fall,Late Morning,Critical,1,0,2,3,5,1
+Wednesday,Fall,Afternoon,High,4,6,6,23,4,2
+Saturday,Spring,Evening,Critical,2,1,4,14,4,1
+Monday,Fall,Late Morning,Medium,4,11,30,63,2,3
+Tuesday,Fall,Early Morning,Low,4,8,30,61,2,3
+Monday,Summer,Afternoon,Critical,2,1,9,21,4,2
+Sunday,Fall,Late Morning,Medium,4,13,15,34,3,2
+Tuesday,Summer,Afternoon,High,4,4,8,38,3,2
+Saturday,Summer,Afternoon,High,3,6,8,24,3,2
+Friday,Summer,Afternoon,High,4,10,10,28,4,2
+Friday,Spring,Evening,High,3,4,11,28,3,2
+Friday,Spring,Evening,Low,5,28,67,107,1,4
+Sunday,Spring,Evening,High,4,7,8,14,4,1
+Saturday,Spring,Night,Low,5,18,56,83,1,3
+Sunday,Fall,Afternoon,Medium,3,4,10,25,4,2
+Sunday,Fall,Afternoon,Medium,4,6,15,47,3,3
+Thursday,Fall,Night,Medium,4,9,14,25,4,2
+Friday,Spring,Early Morning,Low,5,16,24,60,2,3
+Sunday,Summer,Evening,High,4,7,11,38,3,2
+Thursday,Winter,Afternoon,High,3,6,11,27,4,2
+Saturday,Winter,Afternoon,High,4,8,13,36,3,2
+Thursday,Winter,Late Morning,Medium,3,18,28,59,2,3
+Monday,Fall,Night,Low,5,19,50,93,1,4
+Friday,Spring,Evening,Critical,1,2,4,15,4,1
+Tuesday,Winter,Night,Medium,4,26,34,90,1,3
+Tuesday,Fall,Afternoon,Low,5,12,27,74,1,3
+Saturday,Fall,Night,Medium,3,7,19,46,3,3
+Monday,Fall,Late Morning,Low,4,16,63,67,1,3
+Thursday,Fall,Evening,Medium,3,6,24,38,2,2
+Saturday,Summer,Evening,High,4,10,16,24,3,2
+Thursday,Fall,Evening,Medium,3,19,16,47,2,3
+Monday,Summer,Afternoon,High,3,8,14,42,3,2
+Sunday,Summer,Late Morning,High,3,3,7,9,5,1
+Thursday,Summer,Early Morning,Critical,1,1,2,9,5,1
+Wednesday,Summer,Evening,High,3,5,15,32,4,2
+Friday,Summer,Night,Critical,1,1,3,14,4,1
+Monday,Fall,Evening,High,3,8,8,37,3,2
+Thursday,Fall,Evening,Critical,2,1,2,13,5,1
+Wednesday,Summer,Afternoon,Critical,1,3,5,6,5,1
+Saturday,Winter,Evening,High,4,9,24,62,2,3
+Tuesday,Spring,Evening,Medium,3,20,39,58,1,3
+Thursday,Summer,Night,Medium,4,20,39,47,2,3
+Sunday,Summer,Evening,Low,4,19,88,79,1,3
+Tuesday,Summer,Evening,High,4,8,12,28,3,2
+Saturday,Fall,Early Morning,Low,5,11,26,41,3,2
+Tuesday,Fall,Evening,High,3,5,12,20,4,2
+Wednesday,Spring,Afternoon,Medium,3,7,27,36,3,2
+Friday,Summer,Afternoon,Low,4,38,40,131,1,4
+Monday,Summer,Afternoon,Critical,2,4,4,12,4,1
+Friday,Summer,Evening,High,3,5,13,35,3,2
+Tuesday,Winter,Afternoon,High,4,10,19,45,3,2
+Monday,Summer,Night,Medium,4,9,44,80,1,3
+Tuesday,Spring,Evening,Low,4,28,59,114,1,4
+Wednesday,Winter,Afternoon,Medium,4,21,32,45,2,2
+Friday,Winter,Evening,Low,5,38,135,124,1,4
+Thursday,Spring,Afternoon,High,4,6,6,31,4,2
+Tuesday,Winter,Evening,Low,4,34,105,105,1,4
+Sunday,Winter,Afternoon,Medium,4,12,24,45,2,2
+Monday,Summer,Late Morning,Medium,4,12,25,88,1,3
+Tuesday,Summer,Afternoon,Critical,2,3,7,23,4,2
+Friday,Fall,Evening,Low,5,29,91,99,1,4
+Thursday,Spring,Evening,Low,4,31,58,91,1,4
+Sunday,Spring,Evening,High,4,5,11,20,4,2
+Monday,Spring,Late Morning,High,4,4,13,30,3,2
+Saturday,Fall,Evening,Medium,4,19,28,51,2,3
+Sunday,Spring,Late Morning,Medium,3,11,8,31,3,2
+Friday,Summer,Early Morning,High,3,4,8,17,4,2
+Sunday,Winter,Afternoon,Critical,2,1,2,12,5,1
+Wednesday,Spring,Night,High,4,5,10,25,4,2
+Saturday,Spring,Afternoon,Critical,2,3,4,16,4,2
+Wednesday,Fall,Afternoon,Low,4,21,48,71,1,3
+Friday,Summer,Evening,Low,5,37,93,110,1,4
+Thursday,Fall,Evening,High,4,6,15,17,4,2
+Sunday,Summer,Evening,Critical,2,1,2,13,4,1
+Monday,Fall,Afternoon,Critical,2,3,5,10,4,1
+Friday,Fall,Evening,Low,4,33,37,93,1,4
+Thursday,Spring,Night,Critical,2,3,2,13,4,1
+Monday,Summer,Evening,High,4,13,21,43,2,2
+Sunday,Summer,Evening,Critical,2,4,4,19,4,2
+Tuesday,Summer,Afternoon,Critical,2,2,2,11,4,1
+Friday,Fall,Evening,Critical,2,4,4,14,5,1
+Sunday,Summer,Evening,Low,4,16,41,69,1,3
+Tuesday,Fall,Night,Critical,2,2,2,8,4,1
+Tuesday,Summer,Evening,High,3,8,8,22,4,2
+Friday,Winter,Late Morning,Medium,4,13,20,73,1,3
+Sunday,Summer,Evening,Low,4,27,75,125,1,4
+Friday,Fall,Evening,Critical,2,1,4,22,4,2
+Monday,Fall,Evening,Medium,4,9,40,89,1,3
+Saturday,Winter,Late Morning,Medium,3,13,34,49,1,3
+Saturday,Winter,Afternoon,Low,4,34,82,104,1,4
+Tuesday,Fall,Late Morning,Medium,4,13,20,45,2,2
+Wednesday,Summer,Late Morning,Medium,3,12,13,27,3,2
+Friday,Summer,Late Morning,Low,4,16,33,93,1,4
+Sunday,Summer,Afternoon,High,3,6,10,31,3,2
+Saturday,Summer,Afternoon,Medium,4,15,21,70,2,3
+Monday,Winter,Early Morning,Critical,2,3,4,17,4,2
+Monday,Summer,Afternoon,High,4,9,13,34,3,2
+Saturday,Summer,Late Morning,Low,5,15,57,48,1,3
+Saturday,Spring,Night,Low,4,19,54,48,1,3
+Tuesday,Winter,Early Morning,High,4,4,14,33,4,2
+Wednesday,Spring,Evening,Critical,2,2,5,18,4,2
+Wednesday,Fall,Evening,High,3,4,10,16,4,2
+Monday,Winter,Afternoon,High,3,9,16,55,2,3
+Sunday,Fall,Evening,Low,5,16,69,87,1,3
+Saturday,Summer,Evening,Critical,1,3,6,15,4,1
+Tuesday,Summer,Evening,Critical,1,4,6,7,4,1
+Tuesday,Fall,Evening,High,4,6,7,33,3,2
+Friday,Spring,Early Morning,Critical,1,1,2,3,5,1
+Friday,Spring,Evening,Critical,2,1,7,19,4,2
+Saturday,Summer,Evening,Critical,1,1,3,6,4,1
+Wednesday,Winter,Late Morning,Low,5,30,55,82,1,3
+Monday,Spring,Evening,Critical,1,5,5,8,5,1
+Friday,Spring,Night,High,3,3,10,26,4,2
+Friday,Summer,Early Morning,High,3,3,10,28,4,2
+Monday,Summer,Late Morning,Medium,4,15,25,87,1,3
+Thursday,Winter,Late Morning,Low,5,18,42,82,1,3
+Thursday,Spring,Afternoon,Medium,4,20,21,45,2,2
+Saturday,Spring,Late Morning,Medium,3,9,15,25,4,2
+Sunday,Winter,Night,High,4,4,7,33,3,2
+Saturday,Spring,Evening,Low,5,19,45,68,1,3
+Wednesday,Spring,Evening,Low,4,29,65,106,1,4
+Monday,Summer,Night,Medium,4,18,33,65,1,3
+Friday,Summer,Late Morning,Critical,1,1,5,6,5,1
+Saturday,Summer,Afternoon,Medium,4,19,20,34,3,2
+Thursday,Summer,Evening,Critical,1,2,4,18,4,2
+Saturday,Summer,Late Morning,Critical,2,3,4,5,4,1
+Saturday,Spring,Late Morning,Critical,1,0,3,9,5,1
+Thursday,Spring,Late Morning,High,3,5,7,20,4,2
+Monday,Fall,Afternoon,High,4,4,7,18,4,2
+Monday,Fall,Evening,Low,4,26,51,97,1,4
+Sunday,Summer,Afternoon,High,4,4,13,16,4,2
+Thursday,Fall,Afternoon,Low,5,11,47,66,1,3
+Friday,Spring,Afternoon,Low,5,20,34,71,1,3
+Tuesday,Spring,Evening,Critical,2,4,7,10,5,1
+Thursday,Fall,Afternoon,Medium,4,11,22,55,2,3
+Wednesday,Fall,Late Morning,Low,4,11,46,42,1,2
+Thursday,Fall,Late Morning,Critical,1,1,1,8,5,1
+Saturday,Summer,Afternoon,Critical,2,1,7,11,4,1
+Sunday,Summer,Afternoon,High,4,5,8,28,4,2
+Monday,Winter,Night,Medium,4,23,39,74,1,3
+Friday,Spring,Afternoon,High,4,7,12,27,4,2
+Friday,Summer,Late Morning,Critical,1,3,2,9,4,1
+Sunday,Summer,Afternoon,Medium,3,9,21,39,3,2
+Friday,Winter,Late Morning,Medium,3,25,41,62,1,3
+Sunday,Fall,Evening,Medium,4,9,13,55,2,3
+Saturday,Spring,Evening,Low,5,22,38,77,1,3
+Thursday,Summer,Evening,Critical,1,1,2,13,5,1
+Sunday,Spring,Afternoon,Low,5,12,33,72,1,3
+Tuesday,Spring,Afternoon,Low,4,29,47,86,1,3
+Friday,Summer,Evening,Critical,1,4,6,14,5,1
+Monday,Fall,Evening,Medium,4,21,43,48,1,3
+Sunday,Summer,Evening,High,4,4,16,21,4,2
+Monday,Spring,Late Morning,High,3,5,7,13,4,1
+Thursday,Winter,Evening,Low,4,41,63,161,1,4
+Sunday,Winter,Late Morning,Low,5,24,42,65,1,3
+Monday,Spring,Late Morning,High,3,3,6,16,4,2
+Sunday,Winter,Evening,Medium,3,16,25,55,2,3
+Monday,Summer,Evening,Low,4,41,54,162,1,4
+Tuesday,Winter,Late Morning,Critical,1,1,4,15,4,1
+Tuesday,Spring,Late Morning,Low,4,22,51,70,1,3
+Tuesday,Spring,Late Morning,Low,5,21,42,80,1,3
+Friday,Spring,Evening,Medium,3,20,22,50,2,3
+Saturday,Fall,Afternoon,Critical,1,1,3,11,4,1
+Wednesday,Summer,Early Morning,Critical,1,2,2,9,4,1
+Friday,Fall,Afternoon,Medium,3,15,27,36,2,2
+Tuesday,Fall,Evening,High,4,6,11,26,3,2
+Friday,Winter,Night,Medium,4,28,46,79,1,3
+Sunday,Spring,Afternoon,High,3,5,7,24,4,2
+Saturday,Spring,Evening,Low,5,24,42,81,1,3
+Monday,Spring,Evening,High,3,5,8,28,3,2
+Thursday,Winter,Late Morning,Critical,2,2,2,10,5,1
+Saturday,Spring,Night,Low,5,18,29,72,1,3
+Wednesday,Spring,Late Morning,High,3,5,7,13,4,1
+Thursday,Fall,Afternoon,Low,5,25,34,56,2,3
+Tuesday,Fall,Afternoon,High,4,6,11,18,4,2
+Sunday,Fall,Evening,High,3,5,9,26,4,2
+Friday,Winter,Evening,Low,4,29,146,179,1,4
+Saturday,Fall,Late Morning,Critical,1,1,1,6,5,1
+Wednesday,Fall,Late Morning,Medium,3,8,10,38,3,2
+Wednesday,Winter,Evening,Critical,1,4,3,21,4,2
+Monday,Winter,Night,High,3,7,11,36,3,2
+Sunday,Winter,Night,High,3,6,6,16,4,2
+Monday,Spring,Early Morning,High,4,5,6,31,4,2
+Friday,Summer,Afternoon,Critical,2,4,5,21,4,2
+Saturday,Spring,Afternoon,Medium,4,13,29,29,2,2
