@@ -24,16 +24,17 @@ def card_tipo(df,umbral_categoria = 10, umbral_continua = 30):
 'Visit ID',
 'Patient ID',
 'Hospital ID',
-Total Wait Time (min),
+'Total Wait Time (min)',
 'Visit Date',
-
-'Hospital Name' 
-'Region'
+'Hospital Name' ,
+'Region',
+'Specialist Availability',
+'Facility Size (Beds)
 '''
 
 def elimina_columna(df, *columnas):
     return df.drop(columns = list(columnas)) 
-#errors = 'ignore' para ignorar el error si la columna no existe
+
 
 
 
