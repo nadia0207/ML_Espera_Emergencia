@@ -66,10 +66,10 @@ def categoriza_espera(df):
     Crea una variable categórica ordinal a partir del tiempo de espera hasta ser atendido por un médico.
 
     Los tramos definidos son:
-        1 → Corta    : 0  a 15 minutos
-        2 → Media    : 15 a 45 minutos
-        3 → Larga    : 45 a 90 minutos
-        4 → Muy larga: más de 90 minutos
+    1 --> Corta    : 0  a 15 minutos
+    2 --> Media    : 15 a 45 minutos
+    3 -->  Larga    : 45 a 90 minutos
+    4 --> Muy larga: más de 90 minutos
 
     Parameters
     ----------
