@@ -17,7 +17,7 @@ Este proyecto desarrolla un modelo de clasificación multiclase supervisada que 
 
 ---
 
-## 📁 Estructura del proyecto
+## <img src="img/estructura_proyecto.png" width="40" height="40"> Estructura del proyecto
 
 ```
 Espera_Emergencia_ML/
@@ -86,7 +86,7 @@ Espera_Emergencia_ML/
 
 ---
 
-## 🔧 Metodología
+## <img src="img/metodologia.png" width="40" height="40"> Metodología
 
 ### 1. Limpieza y Feature Engineering
 - Eliminación de identificadores, variables con data leakage y variables con correlación casi nula con el target
@@ -117,7 +117,7 @@ CV inicial (6 modelos) → Top 3 → GridSearchCV → Evaluación en X_test → 
 
 ---
 
-## 📈 Resultados
+## <img src="img/modelo_ml.png" width="40" height="40"> Resultados
 
 ### Comparativa Top 3 modelos (evaluación sobre X_test)
 
@@ -139,7 +139,7 @@ CV inicial (6 modelos) → Top 3 → GridSearchCV → Evaluación en X_test → 
 
 ---
 
-## ⚙️ Instalación y uso
+## <img src="img/instalacion_uso.png" width="40" height="40"> Instalación y uso
 
 ### Requisitos
 ```bash
@@ -174,7 +174,7 @@ y_pred = model.predict(X_test)
 
 ---
 
-## 🔍 Hallazgos principales
+## <img src="img/hallazgos_claves.png" width="40" height="40">  Hallazgos principales
 
 - **A mayor tiempo de espera → menor satisfacción** (correlación -0.80 a -0.86)
 - **Los pacientes críticos están más satisfechos** — son atendidos primero por el triaje
@@ -183,7 +183,7 @@ y_pred = model.predict(X_test)
 
 ---
 
-## ⚠️ Limitaciones
+## <img src="img/limitaciones_actuales.png" width="40" height="40"> Limitaciones
 
 - Dataset sintético — no son datos reales de un hospital
 - 5.000 registros es un volumen limitado
@@ -192,7 +192,7 @@ y_pred = model.predict(X_test)
 
 ---
 
-## 🚀 Próximos pasos
+## <img src="img/proximos_pasos.png" width="40" height="40"> Próximos pasos
 
 - Integrar datos reales de un hospital
 - Añadir variables clínicas
@@ -201,6 +201,6 @@ y_pred = model.predict(X_test)
 
 ---
 
-## 👩‍💻 Autor
+## <img src="img/autora.png" width="40" height="40"> Autor
 
 **Nadia** — Bootcamp Data Science · TheBridge · Mayo 2025
