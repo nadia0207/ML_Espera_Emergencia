@@ -203,4 +203,4 @@ y_pred = model.predict(X_test)
 
 ## <img src="img/autora.png" width="40" height="40"> Autor
 
-**Nadia** — Bootcamp Data Science · TheBridge · Mayo 2025
+**Nadia** — Bootcamp Data Science · TheBridge · Mayo 2026
