@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Descripción del proyecto
+## <img src="![alt text](img/hospital_data_icon.png)" width="20" height="20"> Descripción del proyecto
 
 Las urgencias hospitalarias son uno de los puntos de mayor presión del sistema sanitario. La experiencia del paciente depende de múltiples factores: tiempo de espera, nivel de urgencia, disponibilidad de personal y recursos del centro.
 
