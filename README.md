@@ -149,8 +149,8 @@ uv add pandas numpy scikit-learn catboost matplotlib seaborn
 ### Ejecutar el proyecto
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu_usuario/Espera_Emergencia_ML.git
-cd Espera_Emergencia_ML
+git clone https://github.com/nadia0207/ML_Espera_Emergencia.git
+cd ML_Espera_Emergencia
 
 # 2. Ejecutar notebooks en orden
 jupyter notebook notebooks/01_Fuentes.ipynb
