@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 import pickle
 
 # Preprocesamiento
@@ -13,6 +14,7 @@ from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from catboost import CatBoostClassifier
+from sklearn.cluster import KMeans
 
 # Evaluación
 from sklearn.model_selection import GridSearchCV, cross_val_score
@@ -190,3 +192,35 @@ def guardar_modelo_final(modelo, path='../models/final_model.pkl'):
     with open(path, 'wb') as f:
         pickle.dump(modelo, f)
     print(f"Modelo final guardado: {path}")
+
+# =====================================================================
+# KMEANS — NO SUPERVISADO
+# =====================================================================
+def grafico_codo_inercia(K, inercias, silhouettes):  
+    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+
+    # Método del codo
+    axes[0].plot(K, inercias, 'bo-', linewidth=2, markersize=8)
+    axes[0].set_xlabel('Número de Clusters (K)')
+    axes[0].set_ylabel('Inercia')
+    axes[0].set_title('Método del Codo')
+    axes[0].grid(True, linestyle='--', alpha=0.5)
+    axes[0].annotate(
+        'Codo',
+        xy=(4, inercias[2]),      # ← apunta a K=4
+        xytext=(6, 20000),        # posición del texto
+        fontsize=13,
+        color='red',
+        arrowprops=dict(facecolor='red', shrink=0.1)
+    )
+
+    # Silhouette score
+    axes[1].plot(K, silhouettes, 'ro-', linewidth=2, markersize=8)
+    axes[1].set_xlabel('Número de Clusters (K)')
+    axes[1].set_ylabel('Silhouette Score')
+    axes[1].set_title('Silhouette Score por K')
+    axes[1].grid(True, linestyle='--', alpha=0.5)
+
+    plt.suptitle('Selección del número óptimo de clusters', fontsize=13)
+    plt.tight_layout()
+    plt.show()

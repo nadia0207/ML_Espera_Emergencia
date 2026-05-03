@@ -3,15 +3,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
+from sklearn.cluster import KMeans
 
 from sklearn.metrics import (
     balanced_accuracy_score,
     f1_score,
     recall_score,
     precision_score,
-    classification_report,
-    confusion_matrix,
-    ConfusionMatrixDisplay
+    ConfusionMatrixDisplay,
+    silhouette_score
 )
 
 # =====================================================================
@@ -129,5 +129,67 @@ def plot_confusion_matrix(y_test, y_pred, titulo='Matriz de Confusión'):
     plt.tight_layout()
     plt.show()
 
+
+# =====================================================================
+# EVALUACIÓN KMEANS — NO SUPERVISADO
+# =====================================================================
+def entrenar_kmeans(X_prep, n_clusters=5):
+    """
+    Entrena un modelo KMeans con el número de clusters especificado.
+
+    Parameters
+    ----------
+    X_prep : np.array
+        Datos preprocesados y escalados.
+    n_clusters : int, optional
+        Número de clusters. Por defecto 5.
+
+    Returns
+    -------
+    KMeans
+        Modelo KMeans entrenado.
+    """   
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+    kmeans.fit(X_prep)
+    print(f"KMeans entrenado con {n_clusters} clusters")
+    print(f"Inercia: {kmeans.inertia_:.0f}")
+    return kmeans
+
+# =====================================================================
+# SCATTERPLO KMEANS — NO SUPERVISADO
 # =====================================================================
 
+def scatterplot_kmeas(X_pca,df_full,pca):
+    fig, axes = plt.subplots(1, 2, figsize=(16, 6))
+
+    # Gráfico 1 — coloreado por cluster KMeans
+    sns.scatterplot(
+        x=X_pca[:, 0],
+        y=X_pca[:, 1],
+        hue=df_full['cluster'],
+        palette='viridis',
+        alpha=0.5,
+        s=15,
+        ax=axes[0]
+    )
+    axes[0].set_title('Clusters KMeans')
+    axes[0].set_xlabel(f'PC1 ({pca.explained_variance_ratio_[0]:.1%} varianza)')
+    axes[0].set_ylabel(f'PC2 ({pca.explained_variance_ratio_[1]:.1%} varianza)')
+
+    # Gráfico 2 — coloreado por satisfacción real
+    sns.scatterplot(
+        x=X_pca[:, 0],
+        y=X_pca[:, 1],
+        hue=df_full['Patient Satisfaction'],
+        palette='viridis',
+        alpha=0.5,
+        s=15,
+        ax=axes[1]
+    )
+    axes[1].set_title('Niveles de Satisfacción reales')
+    axes[1].set_xlabel(f'PC1 ({pca.explained_variance_ratio_[0]:.1%} varianza)')
+    axes[1].set_ylabel(f'PC2 ({pca.explained_variance_ratio_[1]:.1%} varianza)')
+
+    plt.suptitle('KMeans vs Satisfacción Real — Visualización PCA', fontsize=13)
+    plt.tight_layout()
+    plt.show()
