@@ -196,8 +196,8 @@ y_pred = model.predict(X_test)
 
 - Integrar datos reales de un hospital
 - Añadir variables clínicas
-- Despliegue vía API REST
-- Sistema de alertas en tiempo real para el personal sanitario
+- Despliegue de la solución mediante aplicación web con Streamlit
+- Ampliar a predicción de tiempos de espera
 
 ---
 
