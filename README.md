@@ -55,8 +55,8 @@ Espera_Emergencia_ML/
 │   └── final_model.pkl               # Modelo final (Logistic Regression)
 │
 ├── docs/
-│   ├── Presentacion_negocio.pptx                  # Presentación de negocio
-│   └── Presentacion_tecnica.pptx                  # Presentación técnica
+│   ├── Presentacion_negocio.pptx     # Presentación de negocio
+│   └── Presentacion_tecnica.pptx     # Presentación técnica
 │
 └── README.md
 ```
