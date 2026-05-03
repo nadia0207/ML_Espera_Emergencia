@@ -1,11 +1,11 @@
-![alt text](ml_hospital_satisfaction.png)
+![alt text](img/ml_hospital_satisfaction.png)
 # Predicción de Satisfacción del Paciente en Urgencias Hospitalarias
 
 > Modelo de Machine Learning para predecir el nivel de satisfacción del paciente (escala 1-5) a partir de variables operativas de la visita a urgencias.
 
 ---
 
-## <img src="![alt text](img/hospital_data_icon.png)" width="20" height="20"> Descripción del proyecto
+## <img src="img/hospital_data_icon.png" width="40" height="40"> Descripción del proyecto
 
 Las urgencias hospitalarias son uno de los puntos de mayor presión del sistema sanitario. La experiencia del paciente depende de múltiples factores: tiempo de espera, nivel de urgencia, disponibilidad de personal y recursos del centro.
 
@@ -63,7 +63,7 @@ Espera_Emergencia_ML/
 
 ---
 
-## 📊 Dataset
+## <img src="img/dataset.png" width="40" height="40"> Dataset
 
 - **Fuente:** [Kaggle — ER Wait Time Dataset](https://www.kaggle.com/datasets/rivalytics/er-wait-time)
 - **Registros:** 5.000 visitas hospitalarias
