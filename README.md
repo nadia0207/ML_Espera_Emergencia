@@ -234,6 +234,7 @@ La aplicación permite:
 
 ---
 
+
 ## <img src="img/autora.png" width="40" height="40"> Autor
 
-**Nadia** — Bootcamp Data Science · TheBridge · Mayo 2026
+**Nadia Llamoca Cordova** — Bootcamp Data Science · TheBridge · Mayo 2026
