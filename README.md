@@ -54,9 +54,16 @@ Espera_Emergencia_ML/
 │   ├── trained_model_kmeans.pkl      # KMeans (No supervisado)
 │   └── final_model.pkl               # Modelo final (Logistic Regression)
 │
+├── app_streamlit/
+│   ├── img/                          # Imágenes de la aplicación
+│   ├── app.py                        # Aplicación web Streamlit
+│   └── requirements.txt              # Dependencias del proyecto
+│
 ├── docs/
 │   ├── Presentacion_negocio.pptx     # Presentación de negocio
 │   └── Presentacion_tecnica.pptx     # Presentación técnica
+│
+├── img/                              # Imágenes del README
 │
 └── README.md
 ```
@@ -143,7 +150,7 @@ CV inicial (6 modelos) → Top 3 → GridSearchCV → Evaluación en X_test → 
 
 ### Requisitos
 ```bash
-uv add pandas numpy scikit-learn catboost matplotlib seaborn
+uv add pandas numpy scikit-learn catboost matplotlib seaborn streamlit pillow
 ```
 
 ### Ejecutar el proyecto
@@ -174,6 +181,33 @@ y_pred = model.predict(X_test)
 
 ---
 
+## <img src="img/streamlit_icon.png" width="40" height="40"> Demo Streamlit
+
+### Ejecutar la aplicación web
+```bash
+cd app_streamlit
+streamlit run app.py
+```
+
+La aplicación permite:
+- **Predicción individual** — introduce los datos de un paciente y obtén su nivel de satisfacción predicho (1-5)
+- **Predicción masiva por CSV** — sube un archivo CSV con múltiples pacientes y descarga los resultados
+
+### Estructura del CSV de entrada
+
+| Columna | Ejemplo |
+|---|---|
+| `Urgency Level` | Low / Medium / High / Critical |
+| `Day of Week` | Monday / Tuesday / Wednesday... |
+| `Time of Day` | Early Morning / Afternoon / Evening... |
+| `Season` | Winter / Spring / Summer / Fall |
+| `Nurse-to-Patient Ratio` | 1 - 5 |
+| `Time to Registration (min)` | 10 |
+| `Time to Triage (min)` | 20 |
+| `Time to Medical Professional (min)` | 30 |
+
+---
+
 ## <img src="img/hallazgos_claves.png" width="40" height="40">  Hallazgos principales
 
 - **A mayor tiempo de espera → menor satisfacción** (correlación -0.80 a -0.86)
@@ -196,7 +230,6 @@ y_pred = model.predict(X_test)
 
 - Integrar datos reales de un hospital
 - Añadir variables clínicas
-- Despliegue de la solución mediante aplicación web con Streamlit
 - Ampliar a predicción de tiempos de espera
 
 ---
